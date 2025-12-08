@@ -1,0 +1,1001 @@
+laptop_ID,Company,Product,TypeName,Inches,ScreenResolution,Cpu,Ram,Memory,Gpu,OpSys,Weight,Price,Touchscreen,Ips,Storage
+1,Samsung,Samsung Notebook 1,Gaming,17.0,"17.0"" 3840x2160",AMD Ryzen 3,32,128GB,NVIDIA GeForce RTX 3060,Linux,3.14,1241,Yes,No,HDD
+2,HP,HP Gaming 2,Workstation,16.4,"16.4"" 3840x2160",AMD Ryzen 3,128,128GB,Intel Iris Xe Graphics,Chrome OS,1.94,870,No,Yes,HDD
+3,Razer,Razer Netbook 3,Notebook,14.8,"14.8"" 1920x1080",AMD Ryzen 5,32,64GB,NVIDIA GeForce RTX 3060,Chrome OS,2.1,1668,Yes,No,Hybrid
+4,Microsoft,Microsoft Workstation 4,Notebook,15.0,"15.0"" 3840x2160",AMD Ryzen 5,16,512GB,NVIDIA GeForce GTX 1660,Windows 10,2.76,824,No,Yes,Hybrid
+5,Acer,Acer 2 in 1 Convertible 5,Notebook,13.8,"13.8"" 1920x1080",AMD Ryzen 7,8,128GB,NVIDIA GeForce GTX 1650,Windows 11,2.43,526,Yes,No,Hybrid
+6,MSI,MSI Notebook 6,2 in 1 Convertible,12.2,"12.2"" 2560x1440",Intel Core i9,8,16GB,NVIDIA GeForce GTX 1650,macOS,2.75,1159,Yes,No,HDD
+7,Dell,Dell 2 in 1 Convertible 7,Notebook,12.4,"12.4"" 2560x1440",Intel Core i7,32,8GB,AMD Radeon RX 6800M,Windows 10,1.19,2115,Yes,Yes,HDD
+8,LG,LG Notebook 8,Workstation,13.6,"13.6"" 2560x1440",AMD Ryzen 9,16,32GB,AMD Radeon RX 5500M,macOS,1.38,1128,Yes,No,SSD
+9,Lenovo,Lenovo Workstation 9,Netbook,13.4,"13.4"" 1366x768",AMD Ryzen 3,32,32GB,Intel Iris Xe Graphics,Windows 11,2.33,365,Yes,Yes,SSD
+10,Microsoft,Microsoft Ultrabook 10,Ultrabook,11.7,"11.7"" 1366x768",AMD Ryzen 9,8,512GB,AMD Radeon RX 6600M,Windows 10,1.2,1505,No,No,SSD
+11,LG,LG Netbook 11,Gaming,15.8,"15.8"" 1920x1080",Intel Core i7,8,256GB,NVIDIA GeForce RTX 3050,Windows 11,3.68,1500,Yes,Yes,Hybrid
+12,Apple,Apple Gaming 12,Ultrabook,13.5,"13.5"" 2560x1440",Intel Core i3,4,16GB,Intel HD Graphics,macOS,1.28,419,Yes,Yes,Hybrid
+13,Microsoft,Microsoft Ultrabook 13,Notebook,15.1,"15.1"" 2560x1440",Intel Core i9,32,2TB,AMD Radeon RX 6600M,Chrome OS,2.38,2208,Yes,No,HDD
+14,Dell,Dell Workstation 14,2 in 1 Convertible,13.0,"13.0"" 1920x1080",AMD Ryzen 9,8,4GB,NVIDIA GeForce GTX 1660,Windows 11,1.37,1012,Yes,Yes,HDD
+15,LG,LG Ultrabook 15,Gaming,15.4,"15.4"" 3840x2160",AMD Ryzen 5,32,8GB,NVIDIA GeForce RTX 3070,Chrome OS,2.47,1966,No,Yes,SSD
+16,HP,HP 2 in 1 Convertible 16,2 in 1 Convertible,15.4,"15.4"" 1920x1080",AMD Ryzen 7,32,8GB,AMD Radeon RX 6600M,macOS,1.71,1176,Yes,No,HDD
+17,HP,HP Workstation 17,Gaming,16.1,"16.1"" 2560x1440",AMD Ryzen 3,64,64GB,NVIDIA GeForce RTX 3050,macOS,2.96,1401,No,Yes,SSD
+18,HP,HP 2 in 1 Convertible 18,Workstation,16.8,"16.8"" 1920x1080",AMD Ryzen 7,64,32GB,NVIDIA GeForce RTX 3050,Chrome OS,1.42,1835,No,No,SSD
+19,Asus,Asus Netbook 19,Notebook,16.8,"16.8"" 2560x1440",AMD Ryzen 3,8,256GB,Intel HD Graphics,Windows 11,2.69,247,No,No,HDD
+20,MSI,MSI Workstation 20,2 in 1 Convertible,14.2,"14.2"" 1366x768",Intel Core i5,32,8GB,Intel HD Graphics,Chrome OS,1.85,727,Yes,Yes,HDD
+21,Samsung,Samsung Netbook 21,Workstation,12.2,"12.2"" 1920x1080",AMD Ryzen 3,16,16GB,AMD Radeon RX 6600M,Windows 11,1.24,818,No,No,HDD
+22,Asus,Asus Netbook 22,2 in 1 Convertible,13.2,"13.2"" 1920x1080",Intel Core i9,8,4GB,AMD Radeon RX 6700M,Linux,1.56,1053,Yes,Yes,SSD
+23,Microsoft,Microsoft Workstation 23,2 in 1 Convertible,13.5,"13.5"" 1366x768",AMD Ryzen 9,8,256GB,NVIDIA GeForce RTX 3060,Windows 11,1.9,1810,Yes,No,SSD
+24,Acer,Acer Workstation 24,Notebook,15.3,"15.3"" 1920x1080",AMD Ryzen 5,32,2TB,NVIDIA GeForce RTX 3050,Chrome OS,2.84,903,No,Yes,SSD
+25,Lenovo,Lenovo Netbook 25,2 in 1 Convertible,12.8,"12.8"" 1366x768",Intel Core i3,4,2TB,AMD Radeon RX 6600M,macOS,1.26,468,Yes,Yes,SSD
+26,HP,HP Netbook 26,Notebook,12.4,"12.4"" 1920x1080",AMD Ryzen 3,16,8GB,AMD Radeon RX 6800M,Windows 10,1.85,808,No,No,Hybrid
+27,Microsoft,Microsoft Workstation 27,Workstation,16.0,"16.0"" 1920x1080",AMD Ryzen 7,128,4GB,AMD Radeon RX 6700M,Windows 10,2.07,4037,Yes,No,HDD
+28,Lenovo,Lenovo Ultrabook 28,Workstation,11.6,"11.6"" 2560x1440",AMD Ryzen 3,32,1TB,NVIDIA GeForce RTX 3080,Windows 10,2.98,2062,Yes,Yes,Hybrid
+29,Acer,Acer Ultrabook 29,Ultrabook,12.8,"12.8"" 1920x1080",AMD Ryzen 9,8,128GB,Intel HD Graphics,Windows 10,0.81,458,Yes,No,HDD
+30,Microsoft,Microsoft Gaming 30,Notebook,14.9,"14.9"" 1920x1080",AMD Ryzen 7,4,4GB,NVIDIA GeForce GTX 1660,macOS,1.49,661,Yes,No,Hybrid
+31,Huawei,Huawei Workstation 31,Gaming,16.6,"16.6"" 3840x2160",AMD Ryzen 5,64,8GB,NVIDIA GeForce GTX 1660,Windows 11,3.03,1149,Yes,No,Hybrid
+32,HP,HP Ultrabook 32,Gaming,16.7,"16.7"" 2560x1440",Intel Core i9,8,32GB,NVIDIA GeForce RTX 3070,macOS,2.97,2062,Yes,Yes,HDD
+33,Razer,Razer Netbook 33,Notebook,15.2,"15.2"" 2560x1440",Intel Core i3,4,16GB,NVIDIA GeForce RTX 3060,Windows 11,2.48,683,No,No,Hybrid
+34,Razer,Razer Ultrabook 34,Ultrabook,11.2,"11.2"" 2560x1440",AMD Ryzen 9,8,16GB,NVIDIA GeForce RTX 3050,Linux,1.04,1563,No,Yes,SSD
+35,Dell,Dell 2 in 1 Convertible 35,Netbook,13.5,"13.5"" 2560x1440",Intel Core i5,32,512GB,NVIDIA GeForce RTX 3080,Windows 11,1.43,1531,Yes,No,HDD
+36,Dell,Dell Gaming 36,Netbook,12.8,"12.8"" 2560x1440",Intel Core i5,4,512GB,NVIDIA GeForce RTX 3060,macOS,1.08,496,No,No,SSD
+37,MSI,MSI Workstation 37,Gaming,16.9,"16.9"" 3840x2160",AMD Ryzen 9,16,64GB,Intel HD Graphics,Windows 10,2.59,989,No,No,HDD
+38,HP,HP Gaming 38,2 in 1 Convertible,14.3,"14.3"" 1366x768",Intel Core i9,8,512GB,NVIDIA GeForce RTX 3060,Windows 11,1.56,1623,Yes,No,SSD
+39,Razer,Razer Gaming 39,2 in 1 Convertible,14.1,"14.1"" 2560x1440",Intel Core i3,8,256GB,NVIDIA GeForce GTX 1650,Chrome OS,1.39,808,Yes,Yes,Hybrid
+40,Microsoft,Microsoft Notebook 40,Ultrabook,11.0,"11.0"" 1366x768",AMD Ryzen 9,32,4GB,Intel HD Graphics,Windows 10,1.11,1024,Yes,Yes,SSD
+41,Apple,Apple Workstation 41,2 in 1 Convertible,14.2,"14.2"" 1366x768",Intel Core i9,8,8GB,NVIDIA GeForce RTX 3070,macOS,2.25,3275,Yes,No,SSD
+42,Huawei,Huawei Workstation 42,Ultrabook,12.5,"12.5"" 2560x1440",AMD Ryzen 9,32,4GB,NVIDIA GeForce RTX 3080,macOS,0.87,2284,Yes,No,SSD
+43,MSI,MSI 2 in 1 Convertible 43,Workstation,17.1,"17.1"" 3840x2160",Intel Core i7,16,512GB,NVIDIA GeForce GTX 1650,Windows 10,2.6,1428,No,Yes,Hybrid
+44,Acer,Acer Workstation 44,Ultrabook,11.3,"11.3"" 2560x1440",AMD Ryzen 3,16,256GB,AMD Radeon RX 5500M,Windows 10,0.91,408,No,No,SSD
+45,HP,HP Netbook 45,Netbook,13.4,"13.4"" 2560x1440",Intel Core i7,8,8GB,AMD Radeon RX 6800M,Windows 10,2.11,787,No,No,SSD
+46,Acer,Acer Netbook 46,Netbook,11.4,"11.4"" 1366x768",AMD Ryzen 5,8,256GB,AMD Radeon RX 6800M,Windows 11,1.92,543,No,No,Hybrid
+47,MSI,MSI Workstation 47,Notebook,11.4,"11.4"" 1920x1080",AMD Ryzen 3,32,32GB,AMD Radeon RX 6800M,macOS,1.51,1101,No,Yes,HDD
+48,Acer,Acer Workstation 48,2 in 1 Convertible,13.3,"13.3"" 2560x1440",AMD Ryzen 9,8,8GB,NVIDIA GeForce RTX 3070,Chrome OS,1.61,1289,Yes,Yes,SSD
+49,Lenovo,Lenovo Gaming 49,Netbook,15.2,"15.2"" 2560x1440",AMD Ryzen 5,32,16GB,Intel Iris Xe Graphics,macOS,1.74,476,Yes,Yes,SSD
+50,Dell,Dell 2 in 1 Convertible 50,Netbook,12.1,"12.1"" 1920x1080",Intel Core i3,16,512GB,NVIDIA GeForce RTX 3080,Linux,1.96,807,No,Yes,SSD
+51,Huawei,Huawei Workstation 51,Ultrabook,11.3,"11.3"" 2560x1440",Intel Core i7,4,64GB,Intel Iris Xe Graphics,macOS,1.38,383,No,No,Hybrid
+52,Microsoft,Microsoft Workstation 52,Workstation,13.2,"13.2"" 1920x1080",AMD Ryzen 9,32,16GB,NVIDIA GeForce RTX 3080,Linux,1.25,3698,Yes,No,Hybrid
+53,LG,LG 2 in 1 Convertible 53,Notebook,11.4,"11.4"" 2560x1440",AMD Ryzen 3,8,32GB,NVIDIA GeForce GTX 1650,Windows 11,2.6,327,Yes,No,HDD
+54,Acer,Acer Gaming 54,Notebook,13.1,"13.1"" 1920x1080",AMD Ryzen 5,8,32GB,NVIDIA GeForce RTX 3070,Windows 10,1.65,783,No,No,SSD
+55,LG,LG Workstation 55,Gaming,17.1,"17.1"" 2560x1440",AMD Ryzen 9,32,512GB,Intel HD Graphics,Linux,3.88,1018,Yes,No,HDD
+56,Microsoft,Microsoft Gaming 56,Gaming,17.2,"17.2"" 1920x1080",Intel Core i5,16,64GB,Intel Iris Xe Graphics,Chrome OS,2.48,1153,No,No,SSD
+57,Asus,Asus Gaming 57,2 in 1 Convertible,15.1,"15.1"" 1920x1080",AMD Ryzen 9,8,2TB,AMD Radeon RX 5500M,Chrome OS,2.12,667,Yes,Yes,Hybrid
+58,MSI,MSI 2 in 1 Convertible 58,2 in 1 Convertible,14.1,"14.1"" 2560x1440",AMD Ryzen 5,32,64GB,AMD Radeon RX 6600M,Windows 10,2.69,1249,Yes,Yes,SSD
+59,LG,LG Gaming 59,2 in 1 Convertible,14.0,"14.0"" 1920x1080",AMD Ryzen 5,8,64GB,NVIDIA GeForce GTX 1660,Windows 11,2.33,565,Yes,No,SSD
+60,Asus,Asus 2 in 1 Convertible 60,Workstation,15.0,"15.0"" 1920x1080",Intel Core i9,128,64GB,NVIDIA GeForce RTX 3070,Windows 10,1.28,3974,No,Yes,Hybrid
+61,Samsung,Samsung Netbook 61,Netbook,12.8,"12.8"" 1920x1080",Intel Core i5,32,256GB,AMD Radeon RX 5500M,Chrome OS,1.95,674,Yes,No,Hybrid
+62,LG,LG Ultrabook 62,Notebook,16.0,"16.0"" 1920x1080",Intel Core i9,32,256GB,Intel Iris Xe Graphics,Windows 10,2.39,982,No,Yes,Hybrid
+63,MSI,MSI 2 in 1 Convertible 63,Netbook,15.9,"15.9"" 2560x1440",Intel Core i5,4,2TB,NVIDIA GeForce GTX 1650,macOS,2.5,329,Yes,Yes,SSD
+64,Lenovo,Lenovo Gaming 64,2 in 1 Convertible,13.4,"13.4"" 1920x1080",AMD Ryzen 5,16,64GB,NVIDIA GeForce GTX 1650,macOS,1.41,600,Yes,No,Hybrid
+65,MSI,MSI Netbook 65,Ultrabook,13.9,"13.9"" 2560x1440",Intel Core i9,8,8GB,NVIDIA GeForce GTX 1660,Windows 10,0.99,1640,No,No,SSD
+66,Acer,Acer Workstation 66,2 in 1 Convertible,14.2,"14.2"" 2560x1440",Intel Core i9,4,32GB,NVIDIA GeForce GTX 1660,Chrome OS,2.77,609,Yes,Yes,HDD
+67,Acer,Acer Notebook 67,Netbook,14.5,"14.5"" 1920x1080",Intel Core i7,32,4GB,AMD Radeon RX 6800M,macOS,1.75,813,Yes,Yes,SSD
+68,LG,LG 2 in 1 Convertible 68,Workstation,16.1,"16.1"" 3840x2160",AMD Ryzen 5,16,4GB,AMD Radeon RX 6600M,macOS,1.42,1097,No,Yes,HDD
+69,Lenovo,Lenovo 2 in 1 Convertible 69,Ultrabook,11.6,"11.6"" 1920x1080",AMD Ryzen 9,16,512GB,NVIDIA GeForce GTX 1660,macOS,0.9,1572,Yes,No,Hybrid
+70,MSI,MSI Gaming 70,Workstation,15.7,"15.7"" 1920x1080",Intel Core i7,16,64GB,Intel Iris Xe Graphics,Windows 11,2.67,1056,Yes,Yes,Hybrid
+71,HP,HP Gaming 71,Ultrabook,13.6,"13.6"" 1920x1080",AMD Ryzen 5,4,2TB,NVIDIA GeForce RTX 3080,Windows 10,1.21,1129,No,Yes,HDD
+72,Lenovo,Lenovo 2 in 1 Convertible 72,Ultrabook,11.7,"11.7"" 2560x1440",Intel Core i3,4,32GB,AMD Radeon RX 6600M,Windows 11,0.96,538,No,Yes,Hybrid
+73,Lenovo,Lenovo Gaming 73,Ultrabook,12.5,"12.5"" 1366x768",AMD Ryzen 9,4,4GB,AMD Radeon RX 6600M,Windows 11,0.97,928,Yes,Yes,SSD
+74,Apple,Apple Gaming 74,Ultrabook,13.5,"13.5"" 1920x1080",AMD Ryzen 9,32,2TB,AMD Radeon RX 5500M,macOS,0.85,2366,No,Yes,SSD
+75,Razer,Razer Notebook 75,2 in 1 Convertible,12.1,"12.1"" 2560x1440",Intel Core i5,16,1TB,NVIDIA GeForce RTX 3060,Chrome OS,2.61,1738,Yes,Yes,HDD
+76,Apple,Apple Workstation 76,Notebook,11.3,"11.3"" 1366x768",Intel Core i3,32,8GB,AMD Radeon RX 5500M,macOS,2.19,780,Yes,No,SSD
+77,Razer,Razer Ultrabook 77,2 in 1 Convertible,13.4,"13.4"" 1366x768",AMD Ryzen 9,4,256GB,NVIDIA GeForce GTX 1650,Windows 10,2.36,921,Yes,No,HDD
+78,HP,HP 2 in 1 Convertible 78,Netbook,12.7,"12.7"" 1366x768",Intel Core i9,16,32GB,NVIDIA GeForce RTX 3070,Chrome OS,1.49,1340,No,No,HDD
+79,Asus,Asus 2 in 1 Convertible 79,Gaming,16.1,"16.1"" 2560x1440",AMD Ryzen 5,16,16GB,AMD Radeon RX 6800M,Linux,3.43,1558,No,No,HDD
+80,MSI,MSI Notebook 80,Notebook,12.6,"12.6"" 2560x1440",Intel Core i9,8,512GB,NVIDIA GeForce GTX 1650,Windows 11,2.57,907,No,No,HDD
+81,Dell,Dell Workstation 81,2 in 1 Convertible,12.2,"12.2"" 1366x768",Intel Core i7,4,4GB,Intel Iris Xe Graphics,Windows 11,1.51,652,Yes,No,HDD
+82,MSI,MSI Gaming 82,2 in 1 Convertible,12.6,"12.6"" 1920x1080",AMD Ryzen 5,8,128GB,AMD Radeon RX 6600M,Linux,1.97,701,Yes,Yes,HDD
+83,Razer,Razer Gaming 83,Ultrabook,11.5,"11.5"" 1366x768",Intel Core i7,16,2TB,NVIDIA GeForce RTX 3070,Windows 11,1.29,3257,No,Yes,SSD
+84,HP,HP Ultrabook 84,Notebook,15.9,"15.9"" 1920x1080",AMD Ryzen 9,16,16GB,NVIDIA GeForce RTX 3080,Linux,1.07,2021,No,Yes,SSD
+85,Microsoft,Microsoft Notebook 85,Netbook,17.0,"17.0"" 2560x1440",Intel Core i9,4,4GB,AMD Radeon RX 5500M,Windows 11,2.49,445,Yes,Yes,Hybrid
+86,Microsoft,Microsoft Gaming 86,2 in 1 Convertible,13.9,"13.9"" 1366x768",Intel Core i7,4,64GB,Intel HD Graphics,macOS,1.44,444,Yes,Yes,Hybrid
+87,HP,HP Ultrabook 87,Gaming,15.4,"15.4"" 1920x1080",AMD Ryzen 9,8,16GB,NVIDIA GeForce RTX 3050,Chrome OS,2.29,1547,No,No,SSD
+88,HP,HP Netbook 88,2 in 1 Convertible,12.5,"12.5"" 1366x768",AMD Ryzen 9,16,2TB,NVIDIA GeForce GTX 1650,macOS,2.26,1254,Yes,Yes,HDD
+89,HP,HP Notebook 89,Notebook,13.9,"13.9"" 1920x1080",Intel Core i9,32,32GB,NVIDIA GeForce RTX 3050,Linux,2.36,1752,Yes,No,Hybrid
+90,Apple,Apple 2 in 1 Convertible 90,Gaming,16.7,"16.7"" 3840x2160",AMD Ryzen 7,32,512GB,NVIDIA GeForce RTX 3070,macOS,2.33,4155,No,No,HDD
+91,Microsoft,Microsoft Netbook 91,Workstation,12.3,"12.3"" 1366x768",AMD Ryzen 3,64,64GB,NVIDIA GeForce RTX 3080,macOS,1.49,2614,No,No,HDD
+92,MSI,MSI Netbook 92,2 in 1 Convertible,12.3,"12.3"" 1920x1080",AMD Ryzen 7,8,64GB,AMD Radeon RX 6700M,Windows 10,2.92,1230,Yes,No,SSD
+93,HP,HP Gaming 93,2 in 1 Convertible,12.9,"12.9"" 1920x1080",Intel Core i3,8,32GB,NVIDIA GeForce GTX 1660,Chrome OS,2.11,493,Yes,Yes,HDD
+94,MSI,MSI 2 in 1 Convertible 94,Workstation,14.4,"14.4"" 2560x1440",Intel Core i5,128,4GB,NVIDIA GeForce RTX 3080,macOS,1.43,4237,No,Yes,SSD
+95,Asus,Asus Notebook 95,Workstation,14.5,"14.5"" 2560x1440",Intel Core i9,16,128GB,NVIDIA GeForce RTX 3080,Chrome OS,2.82,2555,Yes,Yes,Hybrid
+96,Lenovo,Lenovo Netbook 96,Netbook,15.7,"15.7"" 3840x2160",Intel Core i3,8,4GB,NVIDIA GeForce RTX 3050,Chrome OS,1.35,385,Yes,No,Hybrid
+97,Apple,Apple Gaming 97,Notebook,11.2,"11.2"" 1366x768",AMD Ryzen 7,16,512GB,NVIDIA GeForce GTX 1650,macOS,2.41,1151,No,No,HDD
+98,Apple,Apple Ultrabook 98,Workstation,12.3,"12.3"" 2560x1440",Intel Core i7,64,512GB,NVIDIA GeForce GTX 1650,macOS,1.03,2761,No,Yes,HDD
+99,Acer,Acer Netbook 99,Netbook,13.3,"13.3"" 1920x1080",Intel Core i9,32,512GB,AMD Radeon RX 6800M,Windows 11,1.92,1409,No,Yes,SSD
+100,Huawei,Huawei Netbook 100,Notebook,13.9,"13.9"" 2560x1440",AMD Ryzen 3,8,128GB,NVIDIA GeForce GTX 1660,Chrome OS,1.15,271,Yes,No,HDD
+101,Samsung,Samsung Gaming 101,2 in 1 Convertible,12.6,"12.6"" 1920x1080",AMD Ryzen 3,16,256GB,Intel HD Graphics,macOS,2.03,464,Yes,Yes,SSD
+102,Lenovo,Lenovo Gaming 102,Netbook,14.3,"14.3"" 2560x1440",AMD Ryzen 3,32,64GB,NVIDIA GeForce RTX 3080,Windows 11,1.39,976,No,No,HDD
+103,Asus,Asus Workstation 103,2 in 1 Convertible,14.5,"14.5"" 1366x768",Intel Core i3,16,2TB,AMD Radeon RX 6600M,Windows 11,2.55,677,Yes,No,HDD
+104,LG,LG Netbook 104,Notebook,15.7,"15.7"" 1920x1080",Intel Core i3,4,16GB,NVIDIA GeForce GTX 1650,Windows 10,1.83,315,Yes,No,Hybrid
+105,Acer,Acer Notebook 105,2 in 1 Convertible,14.8,"14.8"" 1366x768",Intel Core i3,32,512GB,Intel HD Graphics,Linux,2.39,408,Yes,Yes,HDD
+106,Huawei,Huawei Netbook 106,Netbook,14.1,"14.1"" 1920x1080",AMD Ryzen 7,8,1TB,AMD Radeon RX 6600M,Windows 10,2.55,380,Yes,Yes,Hybrid
+107,MSI,MSI 2 in 1 Convertible 107,Workstation,11.0,"11.0"" 1366x768",AMD Ryzen 7,32,512GB,Intel Iris Xe Graphics,Chrome OS,2.85,1381,No,No,SSD
+108,Asus,Asus 2 in 1 Convertible 108,Notebook,16.5,"16.5"" 1920x1080",Intel Core i7,16,32GB,NVIDIA GeForce GTX 1660,Windows 11,2.86,742,No,No,HDD
+109,Asus,Asus Gaming 109,Ultrabook,13.1,"13.1"" 1366x768",Intel Core i7,16,128GB,NVIDIA GeForce RTX 3080,Windows 11,1.09,1883,Yes,No,HDD
+110,Dell,Dell Workstation 110,Gaming,15.9,"15.9"" 3840x2160",Intel Core i7,32,4GB,NVIDIA GeForce RTX 3050,macOS,3.51,2107,Yes,No,HDD
+111,LG,LG Notebook 111,2 in 1 Convertible,12.1,"12.1"" 2560x1440",Intel Core i9,16,64GB,AMD Radeon RX 6800M,Windows 11,2.99,2029,Yes,Yes,HDD
+112,MSI,MSI Ultrabook 112,Gaming,16.2,"16.2"" 2560x1440",AMD Ryzen 7,64,8GB,NVIDIA GeForce RTX 3080,Linux,2.7,4293,No,Yes,SSD
+113,HP,HP Gaming 113,Ultrabook,13.2,"13.2"" 1366x768",AMD Ryzen 3,4,128GB,Intel Iris Xe Graphics,Chrome OS,1.14,317,No,No,Hybrid
+114,LG,LG 2 in 1 Convertible 114,Ultrabook,12.8,"12.8"" 1366x768",AMD Ryzen 7,32,2TB,NVIDIA GeForce GTX 1660,Chrome OS,1.19,1348,No,Yes,SSD
+115,Razer,Razer Workstation 115,2 in 1 Convertible,12.1,"12.1"" 2560x1440",AMD Ryzen 3,4,16GB,NVIDIA GeForce RTX 3080,Linux,2.81,1247,Yes,No,SSD
+116,HP,HP Ultrabook 116,Notebook,13.4,"13.4"" 1920x1080",AMD Ryzen 5,32,8GB,AMD Radeon RX 6600M,macOS,2.31,931,No,Yes,HDD
+117,Acer,Acer 2 in 1 Convertible 117,Ultrabook,12.7,"12.7"" 2560x1440",AMD Ryzen 7,32,256GB,NVIDIA GeForce RTX 3080,macOS,1.21,1875,Yes,No,SSD
+118,Lenovo,Lenovo Gaming 118,Gaming,16.6,"16.6"" 1920x1080",AMD Ryzen 7,32,128GB,NVIDIA GeForce GTX 1650,Chrome OS,3.4,1417,Yes,No,SSD
+119,Huawei,Huawei 2 in 1 Convertible 119,2 in 1 Convertible,12.3,"12.3"" 1366x768",AMD Ryzen 9,4,32GB,AMD Radeon RX 6700M,Chrome OS,1.46,799,Yes,Yes,HDD
+120,Razer,Razer Ultrabook 120,Netbook,16.4,"16.4"" 2560x1440",Intel Core i3,32,8GB,NVIDIA GeForce GTX 1660,macOS,2.44,885,Yes,Yes,SSD
+121,MSI,MSI Ultrabook 121,Netbook,15.9,"15.9"" 2560x1440",Intel Core i7,16,128GB,AMD Radeon RX 6800M,Windows 11,2.6,974,No,No,HDD
+122,Lenovo,Lenovo Gaming 122,Netbook,14.3,"14.3"" 2560x1440",Intel Core i9,16,256GB,AMD Radeon RX 6700M,Chrome OS,2.68,1209,No,No,HDD
+123,Lenovo,Lenovo Ultrabook 123,Ultrabook,13.2,"13.2"" 2560x1440",AMD Ryzen 7,8,1TB,NVIDIA GeForce RTX 3080,Windows 11,1.23,1930,No,Yes,HDD
+124,Lenovo,Lenovo Netbook 124,Ultrabook,12.7,"12.7"" 1366x768",Intel Core i7,4,16GB,Intel Iris Xe Graphics,Linux,1.13,598,Yes,No,Hybrid
+125,Asus,Asus Netbook 125,Gaming,17.1,"17.1"" 2560x1440",Intel Core i5,64,64GB,NVIDIA GeForce RTX 3060,Chrome OS,3.07,1853,Yes,Yes,Hybrid
+126,Microsoft,Microsoft Ultrabook 126,Notebook,11.9,"11.9"" 2560x1440",Intel Core i9,32,256GB,AMD Radeon RX 6600M,Windows 10,2.93,2280,Yes,No,HDD
+127,Apple,Apple Notebook 127,Notebook,11.5,"11.5"" 2560x1440",Intel Core i3,4,32GB,AMD Radeon RX 5500M,macOS,1.92,445,No,No,SSD
+128,Lenovo,Lenovo 2 in 1 Convertible 128,Gaming,15.8,"15.8"" 1920x1080",AMD Ryzen 7,64,2TB,NVIDIA GeForce RTX 3060,Linux,3.52,2241,Yes,Yes,HDD
+129,Samsung,Samsung Ultrabook 129,Workstation,16.5,"16.5"" 3840x2160",Intel Core i3,64,512GB,NVIDIA GeForce RTX 3050,macOS,2.61,1541,No,Yes,Hybrid
+130,Asus,Asus Notebook 130,Notebook,14.3,"14.3"" 1366x768",Intel Core i7,8,512GB,NVIDIA GeForce GTX 1650,Windows 11,2.5,480,No,No,SSD
+131,Huawei,Huawei 2 in 1 Convertible 131,Gaming,17.1,"17.1"" 3840x2160",AMD Ryzen 9,8,512GB,NVIDIA GeForce GTX 1660,Linux,3.09,921,No,No,SSD
+132,Apple,Apple Gaming 132,2 in 1 Convertible,15.2,"15.2"" 2560x1440",Intel Core i7,32,512GB,NVIDIA GeForce RTX 3060,macOS,2.44,2858,Yes,Yes,SSD
+133,Apple,Apple Workstation 133,Gaming,15.7,"15.7"" 2560x1440",AMD Ryzen 7,8,4GB,NVIDIA GeForce RTX 3050,macOS,2.99,1835,No,Yes,SSD
+134,MSI,MSI Ultrabook 134,Gaming,16.3,"16.3"" 3840x2160",Intel Core i3,8,4GB,Intel Iris Xe Graphics,Windows 11,3.7,550,Yes,No,Hybrid
+135,Huawei,Huawei Gaming 135,Notebook,12.5,"12.5"" 1366x768",Intel Core i7,8,1TB,NVIDIA GeForce RTX 3060,Windows 11,2.44,587,No,Yes,SSD
+136,Samsung,Samsung Netbook 136,Notebook,15.4,"15.4"" 2560x1440",AMD Ryzen 3,32,512GB,NVIDIA GeForce RTX 3080,macOS,1.61,1420,No,No,SSD
+137,Razer,Razer Netbook 137,Notebook,13.4,"13.4"" 2560x1440",Intel Core i5,16,1TB,NVIDIA GeForce GTX 1660,macOS,2.69,1257,Yes,Yes,SSD
+138,Lenovo,Lenovo Ultrabook 138,2 in 1 Convertible,15.4,"15.4"" 2560x1440",AMD Ryzen 9,32,4GB,NVIDIA GeForce RTX 3060,macOS,2.18,2370,Yes,No,HDD
+139,Samsung,Samsung Notebook 139,2 in 1 Convertible,15.1,"15.1"" 3840x2160",AMD Ryzen 3,4,2TB,AMD Radeon RX 6700M,Windows 11,2.73,608,Yes,Yes,HDD
+140,Samsung,Samsung Workstation 140,Netbook,16.2,"16.2"" 1920x1080",Intel Core i5,32,32GB,AMD Radeon RX 6700M,Chrome OS,1.27,999,Yes,No,SSD
+141,MSI,MSI Ultrabook 141,Ultrabook,12.5,"12.5"" 2560x1440",Intel Core i5,16,2TB,AMD Radeon RX 5500M,macOS,1.13,976,Yes,No,HDD
+142,HP,HP Notebook 142,Ultrabook,11.9,"11.9"" 1920x1080",AMD Ryzen 7,16,8GB,AMD Radeon RX 6700M,Windows 11,1.4,1649,No,No,Hybrid
+143,Microsoft,Microsoft Ultrabook 143,Netbook,11.9,"11.9"" 1366x768",AMD Ryzen 3,4,2TB,AMD Radeon RX 6800M,Linux,2.44,452,No,Yes,SSD
+144,Acer,Acer Workstation 144,2 in 1 Convertible,14.1,"14.1"" 1920x1080",AMD Ryzen 3,32,4GB,NVIDIA GeForce GTX 1660,macOS,1.56,605,Yes,No,SSD
+145,Asus,Asus Netbook 145,2 in 1 Convertible,14.6,"14.6"" 1366x768",Intel Core i7,4,4GB,NVIDIA GeForce RTX 3070,Windows 11,1.51,830,Yes,No,HDD
+146,Apple,Apple Ultrabook 146,Netbook,11.3,"11.3"" 1366x768",AMD Ryzen 5,4,128GB,Intel Iris Xe Graphics,macOS,1.26,301,No,Yes,Hybrid
+147,Razer,Razer 2 in 1 Convertible 147,Notebook,17.3,"17.3"" 2560x1440",Intel Core i5,16,64GB,AMD Radeon RX 6700M,Linux,2.32,1483,Yes,No,SSD
+148,Samsung,Samsung Gaming 148,Workstation,15.4,"15.4"" 2560x1440",Intel Core i9,16,2TB,Intel HD Graphics,Chrome OS,2.17,951,No,No,HDD
+149,Samsung,Samsung Ultrabook 149,Ultrabook,13.9,"13.9"" 1366x768",Intel Core i3,32,16GB,AMD Radeon RX 6800M,Windows 10,1.44,1494,Yes,No,SSD
+150,Lenovo,Lenovo Workstation 150,2 in 1 Convertible,15.3,"15.3"" 1920x1080",Intel Core i9,4,2TB,Intel HD Graphics,Linux,2.27,535,Yes,No,SSD
+151,Microsoft,Microsoft Ultrabook 151,Gaming,15.3,"15.3"" 3840x2160",AMD Ryzen 9,8,512GB,Intel Iris Xe Graphics,Linux,3.77,1164,Yes,Yes,Hybrid
+152,Razer,Razer Gaming 152,Notebook,11.5,"11.5"" 1366x768",Intel Core i9,32,512GB,AMD Radeon RX 6700M,Windows 10,2.28,2415,Yes,No,Hybrid
+153,Dell,Dell Notebook 153,Netbook,11.4,"11.4"" 1920x1080",AMD Ryzen 9,16,2TB,NVIDIA GeForce GTX 1650,Windows 11,1.25,745,Yes,Yes,SSD
+154,Dell,Dell Workstation 154,Notebook,12.8,"12.8"" 1920x1080",Intel Core i9,16,8GB,NVIDIA GeForce RTX 3050,Chrome OS,2.31,1564,Yes,No,SSD
+155,Samsung,Samsung Notebook 155,Netbook,13.1,"13.1"" 1366x768",Intel Core i5,4,4GB,NVIDIA GeForce GTX 1650,macOS,1.7,270,No,No,SSD
+156,Dell,Dell Workstation 156,Workstation,11.7,"11.7"" 1920x1080",Intel Core i9,32,128GB,NVIDIA GeForce RTX 3070,Chrome OS,2.69,3988,No,No,SSD
+157,Microsoft,Microsoft Notebook 157,Workstation,15.4,"15.4"" 3840x2160",Intel Core i9,32,32GB,NVIDIA GeForce RTX 3050,Chrome OS,2.92,2651,Yes,No,SSD
+158,Apple,Apple Notebook 158,Ultrabook,13.4,"13.4"" 1366x768",Intel Core i7,4,8GB,NVIDIA GeForce RTX 3050,macOS,1.25,1634,Yes,Yes,Hybrid
+159,Huawei,Huawei 2 in 1 Convertible 159,2 in 1 Convertible,13.7,"13.7"" 1920x1080",Intel Core i9,8,256GB,AMD Radeon RX 5500M,Windows 10,2.27,663,Yes,No,HDD
+160,Apple,Apple Notebook 160,2 in 1 Convertible,13.6,"13.6"" 1366x768",Intel Core i3,8,8GB,AMD Radeon RX 6800M,macOS,2.44,1474,Yes,Yes,SSD
+161,MSI,MSI Workstation 161,Netbook,12.3,"12.3"" 1366x768",AMD Ryzen 3,4,32GB,NVIDIA GeForce RTX 3060,Linux,1.14,365,Yes,No,SSD
+162,Lenovo,Lenovo Gaming 162,Workstation,15.1,"15.1"" 1920x1080",AMD Ryzen 9,32,16GB,NVIDIA GeForce RTX 3080,Windows 10,1.25,3608,No,Yes,Hybrid
+163,Acer,Acer Ultrabook 163,Workstation,11.1,"11.1"" 2560x1440",AMD Ryzen 9,128,32GB,AMD Radeon RX 6700M,Windows 11,2.66,2704,Yes,Yes,HDD
+164,Microsoft,Microsoft Gaming 164,Gaming,15.5,"15.5"" 1920x1080",Intel Core i5,32,1TB,NVIDIA GeForce GTX 1650,Windows 11,2.86,1519,Yes,No,HDD
+165,MSI,MSI 2 in 1 Convertible 165,Netbook,12.9,"12.9"" 2560x1440",AMD Ryzen 7,4,4GB,AMD Radeon RX 5500M,Chrome OS,2.69,315,No,No,SSD
+166,Acer,Acer 2 in 1 Convertible 166,2 in 1 Convertible,14.0,"14.0"" 1920x1080",AMD Ryzen 3,16,4GB,NVIDIA GeForce RTX 3050,macOS,2.53,517,Yes,Yes,SSD
+167,Razer,Razer Gaming 167,Notebook,16.8,"16.8"" 3840x2160",Intel Core i3,16,64GB,AMD Radeon RX 6600M,Windows 10,1.93,779,Yes,No,Hybrid
+168,Asus,Asus 2 in 1 Convertible 168,Workstation,13.8,"13.8"" 1366x768",AMD Ryzen 7,16,4GB,Intel Iris Xe Graphics,Windows 10,1.92,928,Yes,Yes,Hybrid
+169,Samsung,Samsung Workstation 169,Notebook,16.4,"16.4"" 1920x1080",Intel Core i3,16,16GB,NVIDIA GeForce RTX 3080,Chrome OS,2.75,1177,No,No,SSD
+170,HP,HP Gaming 170,Workstation,16.7,"16.7"" 2560x1440",AMD Ryzen 9,64,32GB,Intel Iris Xe Graphics,Windows 10,2.74,1683,No,No,HDD
+171,Razer,Razer Ultrabook 171,Netbook,15.8,"15.8"" 1920x1080",Intel Core i3,4,16GB,NVIDIA GeForce RTX 3080,Linux,1.14,801,Yes,Yes,Hybrid
+172,Huawei,Huawei 2 in 1 Convertible 172,Notebook,14.5,"14.5"" 1366x768",Intel Core i7,8,8GB,NVIDIA GeForce RTX 3070,Windows 11,2.66,727,Yes,Yes,SSD
+173,Lenovo,Lenovo Gaming 173,2 in 1 Convertible,13.2,"13.2"" 2560x1440",Intel Core i5,32,1TB,Intel Iris Xe Graphics,Linux,1.47,820,Yes,Yes,Hybrid
+174,Lenovo,Lenovo 2 in 1 Convertible 174,Gaming,16.6,"16.6"" 2560x1440",AMD Ryzen 7,8,128GB,NVIDIA GeForce RTX 3060,Windows 10,2.28,1480,Yes,Yes,Hybrid
+175,Asus,Asus Netbook 175,Workstation,11.5,"11.5"" 2560x1440",Intel Core i5,32,512GB,AMD Radeon RX 6800M,macOS,1.53,1724,Yes,No,SSD
+176,Apple,Apple 2 in 1 Convertible 176,Gaming,17.2,"17.2"" 3840x2160",Intel Core i5,16,2TB,NVIDIA GeForce GTX 1660,macOS,3.99,2231,No,No,SSD
+177,Samsung,Samsung Netbook 177,Gaming,16.4,"16.4"" 3840x2160",AMD Ryzen 5,64,32GB,NVIDIA GeForce RTX 3070,Linux,2.62,2832,No,No,HDD
+178,LG,LG Notebook 178,Netbook,15.9,"15.9"" 2560x1440",AMD Ryzen 7,16,1TB,NVIDIA GeForce RTX 3060,macOS,2.25,757,Yes,No,Hybrid
+179,Razer,Razer Ultrabook 179,Ultrabook,12.0,"12.0"" 1920x1080",Intel Core i9,32,8GB,AMD Radeon RX 6700M,Windows 10,1.37,3359,No,Yes,Hybrid
+180,Huawei,Huawei 2 in 1 Convertible 180,Workstation,16.1,"16.1"" 3840x2160",AMD Ryzen 9,64,8GB,NVIDIA GeForce RTX 3070,Windows 11,2.02,3002,No,Yes,SSD
+181,Samsung,Samsung Gaming 181,Notebook,15.8,"15.8"" 3840x2160",AMD Ryzen 7,32,16GB,AMD Radeon RX 6800M,Windows 10,1.46,1842,No,Yes,Hybrid
+182,MSI,MSI Netbook 182,Netbook,16.1,"16.1"" 1920x1080",Intel Core i3,4,4GB,AMD Radeon RX 6600M,Windows 10,2.99,346,No,No,SSD
+183,Microsoft,Microsoft Ultrabook 183,2 in 1 Convertible,12.9,"12.9"" 1366x768",AMD Ryzen 3,16,32GB,Intel Iris Xe Graphics,macOS,2.7,643,Yes,No,HDD
+184,Apple,Apple Workstation 184,Netbook,16.9,"16.9"" 2560x1440",Intel Core i5,8,512GB,NVIDIA GeForce GTX 1650,macOS,1.37,531,No,No,Hybrid
+185,HP,HP Workstation 185,Notebook,13.0,"13.0"" 1920x1080",AMD Ryzen 3,16,4GB,AMD Radeon RX 6600M,Windows 10,1.97,614,Yes,Yes,HDD
+186,MSI,MSI Ultrabook 186,Netbook,11.7,"11.7"" 2560x1440",Intel Core i9,32,4GB,AMD Radeon RX 5500M,Windows 10,1.08,1042,No,Yes,Hybrid
+187,Apple,Apple Ultrabook 187,Workstation,15.6,"15.6"" 2560x1440",Intel Core i3,128,512GB,NVIDIA GeForce RTX 3050,macOS,1.29,2810,No,Yes,Hybrid
+188,Apple,Apple Workstation 188,Netbook,16.9,"16.9"" 1920x1080",AMD Ryzen 5,8,8GB,AMD Radeon RX 6600M,macOS,2.28,621,Yes,No,Hybrid
+189,Lenovo,Lenovo Gaming 189,Netbook,14.6,"14.6"" 2560x1440",AMD Ryzen 3,32,512GB,NVIDIA GeForce RTX 3070,Windows 10,1.58,790,Yes,Yes,SSD
+190,Microsoft,Microsoft Ultrabook 190,Netbook,15.3,"15.3"" 2560x1440",AMD Ryzen 3,32,8GB,NVIDIA GeForce RTX 3050,Linux,2.43,623,No,No,HDD
+191,Samsung,Samsung Ultrabook 191,2 in 1 Convertible,14.8,"14.8"" 1920x1080",Intel Core i3,32,1TB,Intel HD Graphics,macOS,2.84,538,Yes,No,SSD
+192,Apple,Apple Notebook 192,Workstation,12.9,"12.9"" 1366x768",Intel Core i5,32,1TB,Intel HD Graphics,macOS,1.88,1129,Yes,Yes,Hybrid
+193,Lenovo,Lenovo Workstation 193,Notebook,15.9,"15.9"" 3840x2160",AMD Ryzen 5,32,8GB,Intel HD Graphics,Windows 11,2.51,444,No,Yes,Hybrid
+194,Lenovo,Lenovo 2 in 1 Convertible 194,Workstation,16.9,"16.9"" 1920x1080",AMD Ryzen 5,128,128GB,AMD Radeon RX 6800M,macOS,2.73,2324,Yes,No,HDD
+195,HP,HP Gaming 195,Workstation,14.7,"14.7"" 1366x768",Intel Core i5,16,32GB,NVIDIA GeForce RTX 3060,macOS,1.54,1561,Yes,Yes,HDD
+196,Samsung,Samsung Workstation 196,2 in 1 Convertible,14.7,"14.7"" 1366x768",AMD Ryzen 3,4,2TB,NVIDIA GeForce RTX 3070,Chrome OS,2.94,591,Yes,Yes,SSD
+197,MSI,MSI Ultrabook 197,Notebook,15.4,"15.4"" 1920x1080",Intel Core i7,4,64GB,NVIDIA GeForce GTX 1650,Windows 10,1.6,717,Yes,Yes,HDD
+198,Microsoft,Microsoft 2 in 1 Convertible 198,Netbook,11.8,"11.8"" 1920x1080",AMD Ryzen 5,8,512GB,AMD Radeon RX 6600M,Windows 11,1.56,551,No,No,HDD
+199,Razer,Razer Workstation 199,Workstation,12.4,"12.4"" 2560x1440",AMD Ryzen 3,64,128GB,NVIDIA GeForce RTX 3070,macOS,2.52,2342,No,No,Hybrid
+200,Samsung,Samsung Gaming 200,Workstation,14.8,"14.8"" 1920x1080",Intel Core i3,16,32GB,AMD Radeon RX 5500M,Linux,2.39,697,Yes,Yes,SSD
+201,Acer,Acer 2 in 1 Convertible 201,Gaming,16.5,"16.5"" 3840x2160",AMD Ryzen 9,8,2TB,NVIDIA GeForce GTX 1650,Windows 11,3.11,1019,Yes,Yes,Hybrid
+202,Apple,Apple Notebook 202,Gaming,15.5,"15.5"" 3840x2160",Intel Core i9,16,512GB,NVIDIA GeForce GTX 1650,macOS,3.28,2888,Yes,Yes,SSD
+203,HP,HP Gaming 203,Gaming,16.1,"16.1"" 3840x2160",Intel Core i7,64,8GB,AMD Radeon RX 6700M,Chrome OS,3.11,2253,Yes,No,SSD
+204,MSI,MSI Notebook 204,Netbook,17.2,"17.2"" 1920x1080",AMD Ryzen 7,32,512GB,NVIDIA GeForce RTX 3080,Linux,1.57,1455,Yes,Yes,SSD
+205,Acer,Acer Gaming 205,Notebook,17.0,"17.0"" 3840x2160",Intel Core i9,32,128GB,AMD Radeon RX 6800M,Windows 11,2.51,1385,No,Yes,HDD
+206,MSI,MSI Workstation 206,Netbook,16.8,"16.8"" 3840x2160",Intel Core i3,32,1TB,NVIDIA GeForce RTX 3080,Linux,1.43,988,No,No,Hybrid
+207,LG,LG 2 in 1 Convertible 207,Netbook,13.0,"13.0"" 1920x1080",AMD Ryzen 7,32,4GB,Intel HD Graphics,Windows 11,2.81,463,No,Yes,SSD
+208,Apple,Apple Ultrabook 208,2 in 1 Convertible,12.1,"12.1"" 1920x1080",AMD Ryzen 3,16,128GB,NVIDIA GeForce RTX 3070,macOS,1.98,1981,Yes,Yes,Hybrid
+209,Apple,Apple Netbook 209,2 in 1 Convertible,15.3,"15.3"" 1920x1080",Intel Core i3,4,16GB,AMD Radeon RX 6700M,macOS,2.21,1007,Yes,Yes,Hybrid
+210,Asus,Asus Netbook 210,2 in 1 Convertible,15.2,"15.2"" 3840x2160",Intel Core i3,8,128GB,AMD Radeon RX 6700M,Linux,1.19,567,Yes,No,SSD
+211,Asus,Asus Ultrabook 211,Notebook,16.2,"16.2"" 2560x1440",Intel Core i7,8,2TB,AMD Radeon RX 6800M,Linux,2.41,1010,No,No,Hybrid
+212,Acer,Acer Gaming 212,Ultrabook,12.3,"12.3"" 2560x1440",AMD Ryzen 9,4,2TB,NVIDIA GeForce RTX 3070,Windows 10,0.84,1005,No,Yes,SSD
+213,Razer,Razer 2 in 1 Convertible 213,Ultrabook,12.4,"12.4"" 2560x1440",AMD Ryzen 5,8,32GB,AMD Radeon RX 6700M,Windows 10,1.05,1410,Yes,No,HDD
+214,Apple,Apple 2 in 1 Convertible 214,Netbook,12.0,"12.0"" 2560x1440",Intel Core i9,4,2TB,NVIDIA GeForce RTX 3050,macOS,2.23,1139,No,No,HDD
+215,Lenovo,Lenovo 2 in 1 Convertible 215,Notebook,11.3,"11.3"" 1366x768",AMD Ryzen 3,8,8GB,NVIDIA GeForce GTX 1650,Windows 11,2.13,356,No,No,Hybrid
+216,Asus,Asus Gaming 216,Ultrabook,11.3,"11.3"" 1366x768",AMD Ryzen 9,8,32GB,AMD Radeon RX 6800M,Windows 11,1.25,1136,No,No,HDD
+217,HP,HP Ultrabook 217,Ultrabook,13.6,"13.6"" 1920x1080",Intel Core i7,32,128GB,NVIDIA GeForce RTX 3070,Windows 11,1.36,2280,Yes,No,SSD
+218,Asus,Asus Netbook 218,Netbook,13.0,"13.0"" 1920x1080",AMD Ryzen 5,16,8GB,Intel Iris Xe Graphics,Chrome OS,1.22,290,Yes,Yes,Hybrid
+219,Razer,Razer 2 in 1 Convertible 219,Notebook,13.7,"13.7"" 1366x768",Intel Core i9,32,64GB,NVIDIA GeForce GTX 1660,Linux,2.45,2531,No,Yes,HDD
+220,MSI,MSI Gaming 220,2 in 1 Convertible,15.6,"15.6"" 3840x2160",Intel Core i7,16,4GB,Intel HD Graphics,Windows 10,2.22,698,Yes,Yes,HDD
+221,MSI,MSI 2 in 1 Convertible 221,Netbook,16.6,"16.6"" 1920x1080",AMD Ryzen 5,16,8GB,Intel Iris Xe Graphics,Windows 11,2.25,498,No,Yes,SSD
+222,Acer,Acer Workstation 222,Workstation,15.1,"15.1"" 3840x2160",Intel Core i7,128,32GB,AMD Radeon RX 6700M,macOS,2.88,3061,No,Yes,SSD
+223,LG,LG 2 in 1 Convertible 223,Workstation,16.9,"16.9"" 1920x1080",Intel Core i9,16,4GB,Intel Iris Xe Graphics,Windows 10,1.1,1138,Yes,No,SSD
+224,Samsung,Samsung Workstation 224,Ultrabook,11.8,"11.8"" 1920x1080",AMD Ryzen 9,32,8GB,NVIDIA GeForce RTX 3080,Windows 11,1.03,3737,No,No,HDD
+225,Lenovo,Lenovo Ultrabook 225,Gaming,15.8,"15.8"" 2560x1440",AMD Ryzen 9,8,128GB,NVIDIA GeForce RTX 3050,macOS,2.59,1602,No,Yes,Hybrid
+226,HP,HP Ultrabook 226,Notebook,15.9,"15.9"" 3840x2160",Intel Core i3,16,512GB,NVIDIA GeForce GTX 1660,Linux,2.74,665,Yes,Yes,SSD
+227,Asus,Asus Ultrabook 227,Notebook,13.9,"13.9"" 1920x1080",Intel Core i9,4,32GB,NVIDIA GeForce RTX 3050,Windows 10,1.43,757,No,Yes,Hybrid
+228,Razer,Razer Netbook 228,Ultrabook,12.2,"12.2"" 1920x1080",AMD Ryzen 7,8,512GB,Intel Iris Xe Graphics,Chrome OS,1.2,1117,No,Yes,Hybrid
+229,Apple,Apple Ultrabook 229,Ultrabook,13.4,"13.4"" 1920x1080",AMD Ryzen 5,32,64GB,Intel Iris Xe Graphics,macOS,1.09,1333,No,No,Hybrid
+230,Huawei,Huawei 2 in 1 Convertible 230,Gaming,16.2,"16.2"" 3840x2160",AMD Ryzen 3,8,512GB,NVIDIA GeForce RTX 3050,Windows 11,2.91,449,Yes,Yes,SSD
+231,Razer,Razer Workstation 231,Notebook,14.7,"14.7"" 2560x1440",AMD Ryzen 7,8,32GB,Intel HD Graphics,Chrome OS,2.7,588,Yes,Yes,Hybrid
+232,Dell,Dell Workstation 232,Netbook,16.5,"16.5"" 1920x1080",Intel Core i9,4,512GB,NVIDIA GeForce RTX 3080,macOS,2.32,1211,No,No,SSD
+233,MSI,MSI Notebook 233,Gaming,17.1,"17.1"" 1920x1080",Intel Core i3,16,128GB,NVIDIA GeForce RTX 3050,Linux,3.05,1134,Yes,No,Hybrid
+234,Huawei,Huawei Workstation 234,Netbook,12.9,"12.9"" 2560x1440",Intel Core i3,16,512GB,NVIDIA GeForce RTX 3070,Windows 10,1.19,522,Yes,Yes,Hybrid
+235,Apple,Apple Notebook 235,Gaming,16.8,"16.8"" 3840x2160",Intel Core i7,32,4GB,NVIDIA GeForce GTX 1650,macOS,3.39,2329,Yes,Yes,SSD
+236,Asus,Asus Notebook 236,Netbook,14.0,"14.0"" 1920x1080",Intel Core i9,4,128GB,NVIDIA GeForce RTX 3050,macOS,1.37,485,Yes,Yes,Hybrid
+237,MSI,MSI Ultrabook 237,2 in 1 Convertible,12.5,"12.5"" 2560x1440",Intel Core i9,16,8GB,Intel HD Graphics,Windows 11,2.13,1084,Yes,Yes,Hybrid
+238,Asus,Asus Notebook 238,Notebook,11.8,"11.8"" 1366x768",AMD Ryzen 7,4,512GB,NVIDIA GeForce GTX 1650,macOS,1.01,435,Yes,No,SSD
+239,Acer,Acer Netbook 239,Netbook,17.0,"17.0"" 3840x2160",Intel Core i7,32,16GB,NVIDIA GeForce RTX 3060,Chrome OS,2.39,775,No,No,SSD
+240,Microsoft,Microsoft Netbook 240,Notebook,12.4,"12.4"" 2560x1440",AMD Ryzen 5,4,512GB,NVIDIA GeForce RTX 3070,Windows 10,1.81,1030,No,No,HDD
+241,MSI,MSI 2 in 1 Convertible 241,Gaming,16.7,"16.7"" 2560x1440",Intel Core i3,32,8GB,NVIDIA GeForce RTX 3080,macOS,3.81,2531,No,Yes,HDD
+242,Lenovo,Lenovo Notebook 242,Netbook,15.7,"15.7"" 2560x1440",AMD Ryzen 9,4,2TB,AMD Radeon RX 5500M,Windows 11,1.67,435,No,Yes,HDD
+243,Dell,Dell Notebook 243,Notebook,11.8,"11.8"" 1366x768",AMD Ryzen 5,16,16GB,NVIDIA GeForce GTX 1650,Windows 10,2.16,585,No,No,Hybrid
+244,MSI,MSI Gaming 244,Netbook,16.9,"16.9"" 3840x2160",Intel Core i5,16,4GB,AMD Radeon RX 5500M,Chrome OS,1.42,448,No,Yes,SSD
+245,Acer,Acer Notebook 245,Netbook,13.6,"13.6"" 2560x1440",AMD Ryzen 3,32,256GB,AMD Radeon RX 6800M,macOS,1.09,638,No,Yes,SSD
+246,Acer,Acer Notebook 246,2 in 1 Convertible,12.7,"12.7"" 1366x768",Intel Core i9,4,4GB,AMD Radeon RX 6700M,Chrome OS,1.24,984,Yes,No,SSD
+247,Asus,Asus Ultrabook 247,Netbook,16.0,"16.0"" 1920x1080",AMD Ryzen 3,32,4GB,NVIDIA GeForce RTX 3060,Chrome OS,1.53,652,No,Yes,Hybrid
+248,Samsung,Samsung Netbook 248,Netbook,14.3,"14.3"" 1920x1080",Intel Core i7,4,1TB,NVIDIA GeForce GTX 1650,macOS,1.68,383,No,No,HDD
+249,LG,LG Gaming 249,Ultrabook,11.1,"11.1"" 2560x1440",AMD Ryzen 9,16,2TB,NVIDIA GeForce RTX 3050,Chrome OS,0.93,1315,Yes,Yes,SSD
+250,Razer,Razer Workstation 250,2 in 1 Convertible,12.1,"12.1"" 1366x768",Intel Core i7,32,8GB,AMD Radeon RX 6800M,Windows 11,1.07,2679,Yes,No,SSD
+251,LG,LG Ultrabook 251,2 in 1 Convertible,14.1,"14.1"" 1366x768",Intel Core i5,4,64GB,AMD Radeon RX 6600M,macOS,1.62,601,Yes,Yes,HDD
+252,Huawei,Huawei Ultrabook 252,Gaming,16.3,"16.3"" 1920x1080",Intel Core i7,32,64GB,AMD Radeon RX 6600M,Windows 10,3.01,1649,Yes,Yes,HDD
+253,Dell,Dell Notebook 253,Gaming,17.1,"17.1"" 1920x1080",Intel Core i9,64,4GB,NVIDIA GeForce RTX 3050,Windows 10,2.39,4076,No,No,HDD
+254,LG,LG Notebook 254,Workstation,15.9,"15.9"" 2560x1440",Intel Core i7,32,2TB,Intel Iris Xe Graphics,macOS,2.84,1319,No,No,Hybrid
+255,Apple,Apple Notebook 255,Gaming,15.0,"15.0"" 3840x2160",Intel Core i3,32,128GB,NVIDIA GeForce RTX 3050,macOS,2.58,2430,Yes,Yes,SSD
+256,HP,HP Gaming 256,Notebook,15.6,"15.6"" 3840x2160",Intel Core i9,8,128GB,AMD Radeon RX 6800M,Linux,2.24,1486,Yes,No,SSD
+257,MSI,MSI Netbook 257,2 in 1 Convertible,12.2,"12.2"" 2560x1440",AMD Ryzen 5,4,512GB,AMD Radeon RX 6700M,Linux,1.31,735,Yes,No,Hybrid
+258,Razer,Razer Notebook 258,Gaming,16.7,"16.7"" 3840x2160",AMD Ryzen 9,64,8GB,NVIDIA GeForce RTX 3050,Chrome OS,2.27,3878,Yes,No,HDD
+259,Acer,Acer 2 in 1 Convertible 259,Netbook,16.0,"16.0"" 3840x2160",Intel Core i3,4,256GB,NVIDIA GeForce RTX 3060,Windows 10,2.14,311,Yes,No,Hybrid
+260,Lenovo,Lenovo Netbook 260,Notebook,12.9,"12.9"" 2560x1440",AMD Ryzen 3,32,512GB,Intel Iris Xe Graphics,Linux,1.27,497,No,No,SSD
+261,Apple,Apple Gaming 261,Workstation,16.9,"16.9"" 2560x1440",AMD Ryzen 7,16,16GB,AMD Radeon RX 6800M,macOS,2.1,2981,No,Yes,SSD
+262,Lenovo,Lenovo Notebook 262,Notebook,12.6,"12.6"" 2560x1440",Intel Core i5,8,256GB,AMD Radeon RX 5500M,Windows 11,2.82,378,No,Yes,Hybrid
+263,Microsoft,Microsoft Notebook 263,Notebook,12.9,"12.9"" 1920x1080",Intel Core i7,16,1TB,Intel Iris Xe Graphics,Chrome OS,1.64,979,Yes,No,Hybrid
+264,Acer,Acer Notebook 264,2 in 1 Convertible,13.7,"13.7"" 1366x768",AMD Ryzen 5,16,4GB,NVIDIA GeForce GTX 1650,Linux,1.35,570,Yes,Yes,SSD
+265,Lenovo,Lenovo Workstation 265,Netbook,11.2,"11.2"" 1366x768",Intel Core i9,32,512GB,AMD Radeon RX 6800M,Windows 10,2.33,1681,No,Yes,SSD
+266,Microsoft,Microsoft Workstation 266,Netbook,16.6,"16.6"" 3840x2160",Intel Core i5,4,16GB,NVIDIA GeForce GTX 1660,Linux,2.88,382,Yes,Yes,HDD
+267,Huawei,Huawei Workstation 267,2 in 1 Convertible,15.5,"15.5"" 2560x1440",Intel Core i3,16,128GB,AMD Radeon RX 6700M,Chrome OS,2.65,580,Yes,No,Hybrid
+268,Dell,Dell Notebook 268,2 in 1 Convertible,13.1,"13.1"" 1366x768",Intel Core i3,16,256GB,NVIDIA GeForce RTX 3070,Chrome OS,2.89,1317,Yes,No,SSD
+269,Asus,Asus 2 in 1 Convertible 269,Ultrabook,13.4,"13.4"" 1366x768",Intel Core i3,4,16GB,NVIDIA GeForce RTX 3060,Chrome OS,1.21,642,No,Yes,SSD
+270,LG,LG Workstation 270,Gaming,15.4,"15.4"" 3840x2160",AMD Ryzen 3,64,1TB,Intel Iris Xe Graphics,macOS,2.53,883,Yes,Yes,SSD
+271,Apple,Apple Notebook 271,2 in 1 Convertible,13.3,"13.3"" 2560x1440",AMD Ryzen 5,16,512GB,Intel Iris Xe Graphics,macOS,1.68,1042,Yes,Yes,Hybrid
+272,Microsoft,Microsoft Workstation 272,2 in 1 Convertible,15.0,"15.0"" 1920x1080",AMD Ryzen 7,32,2TB,NVIDIA GeForce RTX 3080,Windows 11,1.85,3518,Yes,No,SSD
+273,Huawei,Huawei Netbook 273,Notebook,11.7,"11.7"" 1366x768",Intel Core i3,16,4GB,NVIDIA GeForce GTX 1660,Linux,1.71,435,Yes,Yes,SSD
+274,Samsung,Samsung Notebook 274,Workstation,16.0,"16.0"" 3840x2160",Intel Core i5,16,16GB,AMD Radeon RX 6800M,Linux,1.36,1927,No,Yes,HDD
+275,Asus,Asus Workstation 275,Notebook,12.5,"12.5"" 1920x1080",AMD Ryzen 5,16,1TB,AMD Radeon RX 6800M,Chrome OS,2.72,754,Yes,Yes,SSD
+276,LG,LG Notebook 276,Ultrabook,12.1,"12.1"" 1920x1080",AMD Ryzen 3,32,8GB,Intel HD Graphics,Chrome OS,1.14,509,No,No,Hybrid
+277,LG,LG Workstation 277,Netbook,14.6,"14.6"" 1366x768",Intel Core i7,32,1TB,NVIDIA GeForce RTX 3070,macOS,1.39,1164,Yes,No,Hybrid
+278,Asus,Asus Ultrabook 278,2 in 1 Convertible,14.4,"14.4"" 2560x1440",Intel Core i7,32,256GB,NVIDIA GeForce RTX 3060,Linux,1.42,1579,Yes,Yes,SSD
+279,Dell,Dell Ultrabook 279,Netbook,16.5,"16.5"" 1920x1080",Intel Core i3,4,4GB,AMD Radeon RX 6800M,Windows 11,2.64,427,Yes,Yes,SSD
+280,HP,HP 2 in 1 Convertible 280,Netbook,14.7,"14.7"" 1366x768",Intel Core i9,4,16GB,NVIDIA GeForce GTX 1650,Linux,2.33,435,Yes,Yes,HDD
+281,MSI,MSI Ultrabook 281,Notebook,17.1,"17.1"" 3840x2160",Intel Core i3,16,4GB,NVIDIA GeForce GTX 1660,Windows 10,1.9,800,No,No,Hybrid
+282,LG,LG Workstation 282,2 in 1 Convertible,12.7,"12.7"" 1366x768",Intel Core i3,16,1TB,NVIDIA GeForce GTX 1650,Chrome OS,2.2,741,Yes,No,SSD
+283,Samsung,Samsung Netbook 283,Ultrabook,11.2,"11.2"" 1920x1080",Intel Core i3,16,4GB,AMD Radeon RX 6800M,macOS,1.22,1224,Yes,No,SSD
+284,Dell,Dell Ultrabook 284,2 in 1 Convertible,14.4,"14.4"" 2560x1440",Intel Core i3,32,32GB,NVIDIA GeForce RTX 3080,Windows 11,2.99,1777,Yes,No,Hybrid
+285,Asus,Asus 2 in 1 Convertible 285,Ultrabook,13.1,"13.1"" 1366x768",Intel Core i5,32,2TB,AMD Radeon RX 6600M,Chrome OS,1.49,1190,Yes,Yes,SSD
+286,Acer,Acer Ultrabook 286,Netbook,17.1,"17.1"" 3840x2160",Intel Core i9,8,128GB,NVIDIA GeForce RTX 3060,Linux,2.31,618,No,No,HDD
+287,Microsoft,Microsoft 2 in 1 Convertible 287,Ultrabook,12.1,"12.1"" 1366x768",Intel Core i9,4,512GB,NVIDIA GeForce GTX 1650,Windows 11,0.93,1174,Yes,No,SSD
+288,Razer,Razer Netbook 288,2 in 1 Convertible,14.3,"14.3"" 1920x1080",AMD Ryzen 3,16,4GB,NVIDIA GeForce RTX 3080,macOS,2.09,1537,Yes,Yes,Hybrid
+289,LG,LG Gaming 289,Workstation,12.1,"12.1"" 1366x768",AMD Ryzen 9,32,512GB,AMD Radeon RX 5500M,Windows 11,1.99,1318,Yes,Yes,SSD
+290,MSI,MSI Gaming 290,Netbook,16.7,"16.7"" 3840x2160",Intel Core i9,8,128GB,NVIDIA GeForce RTX 3080,Windows 11,1.6,1512,Yes,Yes,SSD
+291,Dell,Dell 2 in 1 Convertible 291,Gaming,17.1,"17.1"" 1920x1080",AMD Ryzen 9,8,32GB,AMD Radeon RX 6700M,macOS,2.5,1705,Yes,No,HDD
+292,Razer,Razer Netbook 292,Notebook,14.9,"14.9"" 2560x1440",Intel Core i9,32,4GB,NVIDIA GeForce RTX 3050,Windows 10,2.5,2445,No,Yes,HDD
+293,Samsung,Samsung Gaming 293,Ultrabook,11.7,"11.7"" 1920x1080",AMD Ryzen 3,4,2TB,NVIDIA GeForce GTX 1650,Chrome OS,0.97,474,No,No,SSD
+294,Lenovo,Lenovo Workstation 294,Workstation,14.9,"14.9"" 1920x1080",Intel Core i5,64,32GB,NVIDIA GeForce GTX 1650,Chrome OS,1.93,1364,No,No,HDD
+295,Razer,Razer Notebook 295,Notebook,11.1,"11.1"" 1366x768",AMD Ryzen 7,16,512GB,NVIDIA GeForce RTX 3080,Windows 10,1.89,2533,No,Yes,SSD
+296,Lenovo,Lenovo 2 in 1 Convertible 296,Gaming,15.1,"15.1"" 3840x2160",AMD Ryzen 9,8,4GB,AMD Radeon RX 6600M,Chrome OS,2.22,1580,Yes,Yes,SSD
+297,Dell,Dell 2 in 1 Convertible 297,Notebook,11.8,"11.8"" 2560x1440",Intel Core i7,16,64GB,AMD Radeon RX 6600M,Windows 11,2.21,1151,Yes,Yes,SSD
+298,Razer,Razer 2 in 1 Convertible 298,Gaming,17.0,"17.0"" 3840x2160",Intel Core i5,8,8GB,NVIDIA GeForce RTX 3080,Chrome OS,3.62,2120,No,No,SSD
+299,Acer,Acer Netbook 299,2 in 1 Convertible,14.4,"14.4"" 2560x1440",AMD Ryzen 5,32,32GB,NVIDIA GeForce GTX 1650,Linux,2.32,644,Yes,Yes,Hybrid
+300,Lenovo,Lenovo Ultrabook 300,2 in 1 Convertible,12.2,"12.2"" 2560x1440",AMD Ryzen 9,16,32GB,NVIDIA GeForce RTX 3080,Windows 11,1.56,2257,Yes,No,Hybrid
+301,LG,LG Ultrabook 301,Ultrabook,13.6,"13.6"" 1366x768",AMD Ryzen 9,16,32GB,NVIDIA GeForce RTX 3070,Windows 11,1.36,2213,Yes,No,Hybrid
+302,Samsung,Samsung Netbook 302,Ultrabook,12.9,"12.9"" 2560x1440",AMD Ryzen 7,8,512GB,Intel Iris Xe Graphics,macOS,0.9,658,Yes,No,Hybrid
+303,Apple,Apple Workstation 303,Workstation,15.9,"15.9"" 3840x2160",AMD Ryzen 7,128,512GB,NVIDIA GeForce RTX 3060,macOS,1.48,5000,Yes,No,Hybrid
+304,Samsung,Samsung Netbook 304,Ultrabook,12.3,"12.3"" 2560x1440",Intel Core i3,4,512GB,Intel HD Graphics,Chrome OS,1.1,241,No,No,SSD
+305,Huawei,Huawei 2 in 1 Convertible 305,Workstation,15.8,"15.8"" 3840x2160",Intel Core i3,32,256GB,AMD Radeon RX 6600M,macOS,2.82,883,Yes,No,HDD
+306,Huawei,Huawei Ultrabook 306,Gaming,15.2,"15.2"" 2560x1440",Intel Core i7,32,256GB,NVIDIA GeForce GTX 1650,Chrome OS,3.52,1308,No,No,SSD
+307,HP,HP Gaming 307,Gaming,16.3,"16.3"" 1920x1080",AMD Ryzen 5,64,32GB,Intel HD Graphics,Chrome OS,3.78,919,No,Yes,SSD
+308,Asus,Asus 2 in 1 Convertible 308,Workstation,15.9,"15.9"" 1920x1080",Intel Core i7,128,64GB,NVIDIA GeForce RTX 3060,Linux,2.22,3521,No,No,HDD
+309,Samsung,Samsung Workstation 309,Workstation,11.4,"11.4"" 2560x1440",Intel Core i3,128,64GB,AMD Radeon RX 5500M,Windows 11,2.76,1418,Yes,No,Hybrid
+310,Samsung,Samsung Workstation 310,Notebook,13.1,"13.1"" 2560x1440",AMD Ryzen 7,8,8GB,AMD Radeon RX 5500M,Linux,1.4,639,Yes,Yes,Hybrid
+311,Apple,Apple Notebook 311,Gaming,15.9,"15.9"" 1920x1080",Intel Core i9,16,4GB,NVIDIA GeForce RTX 3060,macOS,3.42,3734,No,No,SSD
+312,HP,HP Gaming 312,2 in 1 Convertible,12.4,"12.4"" 2560x1440",Intel Core i3,16,256GB,AMD Radeon RX 6700M,Chrome OS,1.43,1042,Yes,Yes,HDD
+313,Lenovo,Lenovo Workstation 313,2 in 1 Convertible,12.2,"12.2"" 1366x768",AMD Ryzen 7,32,4GB,AMD Radeon RX 6700M,Linux,1.9,1779,Yes,Yes,SSD
+314,MSI,MSI Workstation 314,Gaming,17.2,"17.2"" 1920x1080",AMD Ryzen 5,64,2TB,NVIDIA GeForce RTX 3070,Linux,3.52,3172,No,No,HDD
+315,LG,LG Ultrabook 315,Ultrabook,13.3,"13.3"" 1366x768",Intel Core i3,16,8GB,NVIDIA GeForce RTX 3060,Chrome OS,1.29,966,No,No,SSD
+316,LG,LG 2 in 1 Convertible 316,2 in 1 Convertible,13.6,"13.6"" 1920x1080",Intel Core i3,32,8GB,NVIDIA GeForce GTX 1650,Chrome OS,2.33,796,Yes,No,Hybrid
+317,Acer,Acer Ultrabook 317,Netbook,11.6,"11.6"" 2560x1440",AMD Ryzen 9,8,512GB,Intel Iris Xe Graphics,Linux,1.22,349,Yes,No,Hybrid
+318,Lenovo,Lenovo Gaming 318,Workstation,11.6,"11.6"" 1366x768",AMD Ryzen 5,128,128GB,AMD Radeon RX 5500M,Chrome OS,1.58,1576,No,Yes,SSD
+319,Lenovo,Lenovo Gaming 319,Ultrabook,12.7,"12.7"" 1920x1080",Intel Core i5,16,16GB,NVIDIA GeForce GTX 1650,macOS,1.27,833,Yes,No,Hybrid
+320,Huawei,Huawei Ultrabook 320,Notebook,12.6,"12.6"" 1366x768",Intel Core i5,4,32GB,NVIDIA GeForce GTX 1650,Windows 11,1.21,271,No,No,Hybrid
+321,Acer,Acer Ultrabook 321,2 in 1 Convertible,12.1,"12.1"" 1366x768",Intel Core i3,32,128GB,AMD Radeon RX 5500M,Windows 10,2.94,659,Yes,No,HDD
+322,Samsung,Samsung Notebook 322,Notebook,14.0,"14.0"" 1366x768",AMD Ryzen 3,32,2TB,AMD Radeon RX 5500M,Windows 11,2.46,526,No,No,HDD
+323,Asus,Asus Netbook 323,Notebook,14.2,"14.2"" 1920x1080",AMD Ryzen 5,4,4GB,NVIDIA GeForce RTX 3080,macOS,1.35,714,Yes,Yes,HDD
+324,Lenovo,Lenovo Gaming 324,Gaming,16.3,"16.3"" 2560x1440",AMD Ryzen 5,8,8GB,AMD Radeon RX 5500M,Windows 10,2.05,640,Yes,No,Hybrid
+325,Samsung,Samsung Netbook 325,Ultrabook,12.2,"12.2"" 2560x1440",Intel Core i5,32,4GB,Intel Iris Xe Graphics,Windows 10,0.9,880,Yes,No,Hybrid
+326,HP,HP Notebook 326,Gaming,15.3,"15.3"" 2560x1440",Intel Core i9,64,8GB,NVIDIA GeForce RTX 3060,Linux,2.26,4265,Yes,No,HDD
+327,Microsoft,Microsoft Workstation 327,Gaming,15.8,"15.8"" 2560x1440",Intel Core i7,32,32GB,AMD Radeon RX 6800M,macOS,2.48,2952,No,Yes,HDD
+328,Apple,Apple 2 in 1 Convertible 328,2 in 1 Convertible,15.0,"15.0"" 1920x1080",Intel Core i3,8,16GB,AMD Radeon RX 6700M,macOS,1.44,1187,Yes,Yes,SSD
+329,Lenovo,Lenovo Workstation 329,2 in 1 Convertible,15.5,"15.5"" 3840x2160",Intel Core i7,8,2TB,Intel HD Graphics,macOS,2.17,426,Yes,No,Hybrid
+330,Dell,Dell Ultrabook 330,2 in 1 Convertible,15.3,"15.3"" 3840x2160",AMD Ryzen 9,8,64GB,NVIDIA GeForce RTX 3070,Windows 10,2.96,1686,Yes,No,SSD
+331,Huawei,Huawei Ultrabook 331,Notebook,16.2,"16.2"" 2560x1440",Intel Core i3,16,16GB,NVIDIA GeForce RTX 3060,Windows 11,1.69,636,Yes,No,Hybrid
+332,Dell,Dell Ultrabook 332,Ultrabook,11.5,"11.5"" 1920x1080",Intel Core i9,8,32GB,NVIDIA GeForce GTX 1660,Windows 11,1.01,1380,Yes,Yes,HDD
+333,Apple,Apple Gaming 333,2 in 1 Convertible,13.9,"13.9"" 1366x768",AMD Ryzen 7,4,256GB,Intel Iris Xe Graphics,macOS,1.98,929,Yes,Yes,HDD
+334,Dell,Dell Gaming 334,Gaming,15.8,"15.8"" 2560x1440",AMD Ryzen 3,8,512GB,AMD Radeon RX 5500M,macOS,2.09,491,No,No,Hybrid
+335,Razer,Razer Notebook 335,Gaming,15.7,"15.7"" 2560x1440",Intel Core i7,32,4GB,AMD Radeon RX 6600M,macOS,2.03,2742,No,Yes,Hybrid
+336,LG,LG Gaming 336,Gaming,16.2,"16.2"" 2560x1440",AMD Ryzen 3,32,256GB,NVIDIA GeForce GTX 1660,Windows 10,2.58,1060,No,No,HDD
+337,Apple,Apple Notebook 337,2 in 1 Convertible,12.8,"12.8"" 1366x768",Intel Core i9,16,2TB,AMD Radeon RX 6600M,macOS,2.29,2766,Yes,Yes,HDD
+338,Samsung,Samsung Gaming 338,Netbook,11.6,"11.6"" 1366x768",AMD Ryzen 3,32,4GB,AMD Radeon RX 5500M,macOS,1.08,439,No,Yes,Hybrid
+339,Microsoft,Microsoft Ultrabook 339,Gaming,17.0,"17.0"" 2560x1440",AMD Ryzen 9,64,4GB,AMD Radeon RX 6600M,macOS,2.27,3545,Yes,No,Hybrid
+340,Asus,Asus Notebook 340,Netbook,13.7,"13.7"" 2560x1440",AMD Ryzen 5,8,64GB,NVIDIA GeForce RTX 3050,macOS,1.33,466,No,Yes,SSD
+341,Asus,Asus Netbook 341,Netbook,17.0,"17.0"" 3840x2160",Intel Core i5,8,32GB,NVIDIA GeForce GTX 1650,Windows 11,1.03,345,No,No,Hybrid
+342,Dell,Dell Netbook 342,2 in 1 Convertible,14.6,"14.6"" 2560x1440",Intel Core i3,8,64GB,AMD Radeon RX 6700M,Linux,1.26,592,Yes,Yes,SSD
+343,Razer,Razer Gaming 343,Workstation,11.4,"11.4"" 2560x1440",AMD Ryzen 7,64,128GB,AMD Radeon RX 6600M,Linux,2.09,2907,No,Yes,SSD
+344,LG,LG Workstation 344,Ultrabook,12.6,"12.6"" 1366x768",AMD Ryzen 9,8,32GB,Intel Iris Xe Graphics,Chrome OS,1.31,786,Yes,No,SSD
+345,Asus,Asus 2 in 1 Convertible 345,Ultrabook,11.2,"11.2"" 1920x1080",AMD Ryzen 3,8,2TB,NVIDIA GeForce RTX 3080,Windows 10,1.38,1048,No,No,HDD
+346,Huawei,Huawei Netbook 346,Netbook,12.4,"12.4"" 2560x1440",AMD Ryzen 5,32,8GB,NVIDIA GeForce GTX 1650,Windows 11,1.64,408,Yes,Yes,Hybrid
+347,Acer,Acer Netbook 347,2 in 1 Convertible,12.7,"12.7"" 2560x1440",AMD Ryzen 3,16,1TB,NVIDIA GeForce GTX 1660,Linux,1.04,548,Yes,No,HDD
+348,HP,HP Ultrabook 348,Notebook,11.3,"11.3"" 2560x1440",AMD Ryzen 9,8,64GB,AMD Radeon RX 5500M,macOS,1.91,660,Yes,Yes,Hybrid
+349,Acer,Acer Ultrabook 349,2 in 1 Convertible,12.6,"12.6"" 2560x1440",AMD Ryzen 5,4,32GB,AMD Radeon RX 6600M,Chrome OS,1.82,560,Yes,No,HDD
+350,Apple,Apple Workstation 350,Notebook,13.4,"13.4"" 2560x1440",AMD Ryzen 3,8,1TB,AMD Radeon RX 5500M,macOS,1.46,567,Yes,Yes,SSD
+351,Huawei,Huawei Notebook 351,Gaming,15.4,"15.4"" 3840x2160",AMD Ryzen 9,64,128GB,NVIDIA GeForce RTX 3080,Windows 10,2.09,3294,No,Yes,HDD
+352,Asus,Asus Workstation 352,Gaming,15.0,"15.0"" 1920x1080",Intel Core i5,8,1TB,Intel Iris Xe Graphics,Chrome OS,2.24,571,No,No,SSD
+353,Dell,Dell Notebook 353,Netbook,15.5,"15.5"" 2560x1440",AMD Ryzen 7,4,4GB,AMD Radeon RX 6800M,Windows 10,1.89,568,Yes,No,Hybrid
+354,Acer,Acer Ultrabook 354,Workstation,12.4,"12.4"" 2560x1440",AMD Ryzen 9,128,512GB,AMD Radeon RX 6800M,Chrome OS,2.58,2762,No,Yes,SSD
+355,Huawei,Huawei Ultrabook 355,Netbook,11.8,"11.8"" 1920x1080",AMD Ryzen 3,16,4GB,NVIDIA GeForce RTX 3080,Chrome OS,1.16,487,No,Yes,SSD
+356,HP,HP Netbook 356,Notebook,16.4,"16.4"" 3840x2160",Intel Core i5,32,256GB,NVIDIA GeForce RTX 3080,macOS,2.12,1848,Yes,No,HDD
+357,HP,HP Netbook 357,Workstation,14.9,"14.9"" 1920x1080",AMD Ryzen 7,16,4GB,AMD Radeon RX 6700M,Windows 10,1.86,1758,No,Yes,Hybrid
+358,Samsung,Samsung Ultrabook 358,Gaming,16.1,"16.1"" 3840x2160",AMD Ryzen 7,32,1TB,AMD Radeon RX 6800M,Chrome OS,2.12,2760,No,No,HDD
+359,Dell,Dell Netbook 359,2 in 1 Convertible,15.0,"15.0"" 2560x1440",Intel Core i5,8,8GB,AMD Radeon RX 5500M,Linux,1.2,730,Yes,No,Hybrid
+360,HP,HP Notebook 360,Ultrabook,11.1,"11.1"" 1366x768",AMD Ryzen 9,16,1TB,AMD Radeon RX 6600M,Chrome OS,1.28,1255,No,No,SSD
+361,Dell,Dell Workstation 361,2 in 1 Convertible,13.8,"13.8"" 1920x1080",Intel Core i5,16,32GB,AMD Radeon RX 5500M,Chrome OS,2.51,651,Yes,Yes,SSD
+362,HP,HP Ultrabook 362,Workstation,12.8,"12.8"" 2560x1440",Intel Core i5,128,128GB,NVIDIA GeForce RTX 3050,Windows 10,1.69,2196,No,No,HDD
+363,MSI,MSI Workstation 363,Workstation,17.3,"17.3"" 3840x2160",AMD Ryzen 9,32,256GB,Intel HD Graphics,Linux,1.19,1020,No,No,SSD
+364,Huawei,Huawei Ultrabook 364,Workstation,15.5,"15.5"" 2560x1440",AMD Ryzen 3,16,16GB,AMD Radeon RX 6800M,macOS,1.98,884,Yes,Yes,SSD
+365,Huawei,Huawei Gaming 365,2 in 1 Convertible,12.7,"12.7"" 2560x1440",Intel Core i7,16,16GB,NVIDIA GeForce RTX 3050,Windows 10,2.86,910,Yes,Yes,Hybrid
+366,Lenovo,Lenovo Workstation 366,Notebook,14.0,"14.0"" 2560x1440",Intel Core i7,32,2TB,AMD Radeon RX 6800M,Windows 11,1.92,1512,No,No,HDD
+367,Apple,Apple Notebook 367,Ultrabook,12.6,"12.6"" 2560x1440",AMD Ryzen 5,8,512GB,NVIDIA GeForce RTX 3070,macOS,1.35,2162,No,No,HDD
+368,Apple,Apple 2 in 1 Convertible 368,Netbook,11.4,"11.4"" 1920x1080",AMD Ryzen 3,4,512GB,Intel Iris Xe Graphics,macOS,2.07,285,Yes,No,SSD
+369,Microsoft,Microsoft Netbook 369,Notebook,14.7,"14.7"" 2560x1440",AMD Ryzen 9,32,16GB,AMD Radeon RX 6800M,Linux,2.31,1984,No,Yes,SSD
+370,Razer,Razer Gaming 370,Notebook,13.4,"13.4"" 2560x1440",Intel Core i7,4,64GB,Intel HD Graphics,Chrome OS,2.07,501,Yes,Yes,HDD
+371,LG,LG Notebook 371,Gaming,16.4,"16.4"" 3840x2160",Intel Core i7,8,128GB,NVIDIA GeForce RTX 3080,Windows 11,2.64,2120,No,No,SSD
+372,Asus,Asus Ultrabook 372,Gaming,17.0,"17.0"" 2560x1440",AMD Ryzen 9,8,16GB,AMD Radeon RX 6700M,Chrome OS,3.01,1107,Yes,Yes,Hybrid
+373,Dell,Dell Netbook 373,2 in 1 Convertible,15.3,"15.3"" 3840x2160",AMD Ryzen 3,16,1TB,NVIDIA GeForce RTX 3050,macOS,2.37,702,Yes,Yes,Hybrid
+374,Huawei,Huawei Ultrabook 374,Ultrabook,12.1,"12.1"" 1920x1080",Intel Core i5,4,64GB,NVIDIA GeForce GTX 1660,Windows 11,1.36,542,No,No,HDD
+375,Microsoft,Microsoft Gaming 375,2 in 1 Convertible,12.4,"12.4"" 2560x1440",AMD Ryzen 9,8,64GB,NVIDIA GeForce RTX 3070,Linux,1.88,1787,Yes,No,SSD
+376,HP,HP Ultrabook 376,Notebook,12.4,"12.4"" 2560x1440",Intel Core i3,32,512GB,Intel HD Graphics,Windows 10,2.16,352,No,Yes,Hybrid
+377,Razer,Razer Netbook 377,Ultrabook,13.8,"13.8"" 1366x768",AMD Ryzen 9,8,128GB,NVIDIA GeForce RTX 3080,Linux,0.95,2902,Yes,No,SSD
+378,Asus,Asus Workstation 378,Workstation,14.1,"14.1"" 2560x1440",AMD Ryzen 7,16,8GB,Intel HD Graphics,Linux,1.88,596,Yes,Yes,SSD
+379,Razer,Razer Netbook 379,Gaming,16.2,"16.2"" 3840x2160",Intel Core i5,16,8GB,NVIDIA GeForce RTX 3060,macOS,2.35,2592,No,No,SSD
+380,Huawei,Huawei Gaming 380,Gaming,16.5,"16.5"" 1920x1080",Intel Core i7,16,16GB,NVIDIA GeForce RTX 3080,Chrome OS,3.77,2043,No,No,HDD
+381,MSI,MSI Netbook 381,2 in 1 Convertible,12.7,"12.7"" 1366x768",Intel Core i9,32,512GB,AMD Radeon RX 5500M,Linux,1.11,1792,Yes,No,Hybrid
+382,LG,LG Notebook 382,Ultrabook,11.3,"11.3"" 2560x1440",AMD Ryzen 3,16,128GB,AMD Radeon RX 6700M,Chrome OS,1.25,1021,Yes,No,SSD
+383,HP,HP Notebook 383,Netbook,16.3,"16.3"" 2560x1440",Intel Core i9,4,16GB,AMD Radeon RX 6800M,Windows 11,1.14,840,No,Yes,SSD
+384,Huawei,Huawei Gaming 384,Gaming,16.7,"16.7"" 1920x1080",Intel Core i5,16,256GB,NVIDIA GeForce RTX 3060,Chrome OS,2.74,1227,No,No,Hybrid
+385,MSI,MSI 2 in 1 Convertible 385,Notebook,16.7,"16.7"" 3840x2160",Intel Core i5,8,2TB,AMD Radeon RX 6600M,Linux,1.46,750,No,Yes,Hybrid
+386,Huawei,Huawei Ultrabook 386,2 in 1 Convertible,15.3,"15.3"" 3840x2160",AMD Ryzen 3,32,4GB,NVIDIA GeForce GTX 1660,Chrome OS,2.23,494,Yes,No,Hybrid
+387,Apple,Apple 2 in 1 Convertible 387,Workstation,16.8,"16.8"" 3840x2160",Intel Core i7,64,1TB,NVIDIA GeForce RTX 3070,macOS,1.37,5000,Yes,Yes,Hybrid
+388,Asus,Asus Notebook 388,Ultrabook,12.8,"12.8"" 2560x1440",AMD Ryzen 3,32,64GB,NVIDIA GeForce RTX 3050,macOS,0.83,823,Yes,Yes,HDD
+389,HP,HP Netbook 389,Gaming,16.5,"16.5"" 2560x1440",Intel Core i9,16,16GB,NVIDIA GeForce RTX 3050,Windows 10,2.26,2447,No,Yes,Hybrid
+390,Huawei,Huawei Workstation 390,Netbook,14.2,"14.2"" 1366x768",AMD Ryzen 9,8,32GB,AMD Radeon RX 6700M,Chrome OS,2.53,526,No,Yes,Hybrid
+391,Asus,Asus Gaming 391,2 in 1 Convertible,14.1,"14.1"" 1366x768",Intel Core i7,8,256GB,AMD Radeon RX 5500M,Windows 11,1.85,658,Yes,Yes,SSD
+392,Microsoft,Microsoft Gaming 392,Notebook,17.1,"17.1"" 2560x1440",Intel Core i5,16,16GB,NVIDIA GeForce RTX 3080,Linux,2.76,1906,No,Yes,SSD
+393,MSI,MSI 2 in 1 Convertible 393,Gaming,15.1,"15.1"" 1920x1080",Intel Core i7,8,32GB,AMD Radeon RX 5500M,Windows 10,3.08,988,Yes,No,Hybrid
+394,Razer,Razer Notebook 394,Netbook,12.5,"12.5"" 1920x1080",AMD Ryzen 7,16,32GB,AMD Radeon RX 6700M,Linux,1.63,954,No,No,SSD
+395,Dell,Dell Notebook 395,2 in 1 Convertible,13.2,"13.2"" 1366x768",Intel Core i7,4,32GB,NVIDIA GeForce GTX 1660,Linux,1.08,889,Yes,No,HDD
+396,Lenovo,Lenovo Gaming 396,Notebook,14.8,"14.8"" 1366x768",AMD Ryzen 3,32,64GB,NVIDIA GeForce RTX 3070,Chrome OS,2.2,872,Yes,Yes,SSD
+397,Razer,Razer Gaming 397,Notebook,16.0,"16.0"" 2560x1440",Intel Core i5,32,64GB,NVIDIA GeForce GTX 1650,Windows 10,2.94,1068,No,No,HDD
+398,Dell,Dell Notebook 398,Ultrabook,12.4,"12.4"" 2560x1440",AMD Ryzen 3,16,32GB,NVIDIA GeForce GTX 1660,Windows 11,0.87,779,Yes,No,HDD
+399,Lenovo,Lenovo Workstation 399,Netbook,17.1,"17.1"" 3840x2160",Intel Core i9,32,8GB,AMD Radeon RX 6600M,macOS,1.35,917,No,Yes,HDD
+400,Huawei,Huawei 2 in 1 Convertible 400,Netbook,14.7,"14.7"" 2560x1440",AMD Ryzen 9,32,8GB,NVIDIA GeForce RTX 3060,Windows 11,2.65,934,No,Yes,HDD
+401,Lenovo,Lenovo Notebook 401,2 in 1 Convertible,15.5,"15.5"" 2560x1440",AMD Ryzen 5,16,1TB,AMD Radeon RX 5500M,Linux,2.68,726,Yes,No,SSD
+402,Razer,Razer Gaming 402,Workstation,11.2,"11.2"" 1920x1080",Intel Core i3,128,4GB,Intel Iris Xe Graphics,Windows 11,1.31,1809,Yes,No,SSD
+403,Acer,Acer 2 in 1 Convertible 403,Workstation,11.6,"11.6"" 1920x1080",Intel Core i9,128,512GB,NVIDIA GeForce GTX 1660,macOS,2.3,3168,Yes,Yes,Hybrid
+404,Acer,Acer Gaming 404,Netbook,15.7,"15.7"" 1920x1080",Intel Core i3,32,4GB,AMD Radeon RX 6700M,Chrome OS,2.99,468,No,Yes,SSD
+405,Microsoft,Microsoft Ultrabook 405,Workstation,11.6,"11.6"" 1366x768",Intel Core i9,128,1TB,NVIDIA GeForce RTX 3060,Windows 10,1.85,5000,Yes,No,SSD
+406,MSI,MSI Ultrabook 406,2 in 1 Convertible,15.3,"15.3"" 1920x1080",Intel Core i5,8,8GB,AMD Radeon RX 5500M,Windows 10,2.58,739,Yes,Yes,HDD
+407,Dell,Dell Notebook 407,Gaming,16.0,"16.0"" 3840x2160",AMD Ryzen 9,16,1TB,NVIDIA GeForce RTX 3070,Windows 11,3.4,2562,Yes,Yes,Hybrid
+408,Microsoft,Microsoft Workstation 408,Notebook,16.9,"16.9"" 1920x1080",AMD Ryzen 5,8,1TB,NVIDIA GeForce RTX 3070,macOS,1.93,1071,Yes,No,Hybrid
+409,MSI,MSI Ultrabook 409,Notebook,16.4,"16.4"" 1920x1080",AMD Ryzen 5,8,8GB,Intel Iris Xe Graphics,Windows 10,2.01,560,Yes,No,SSD
+410,Asus,Asus Netbook 410,Netbook,14.2,"14.2"" 1920x1080",Intel Core i5,4,512GB,NVIDIA GeForce RTX 3080,Chrome OS,2.74,494,No,Yes,SSD
+411,LG,LG Workstation 411,Notebook,14.7,"14.7"" 2560x1440",Intel Core i3,4,256GB,Intel HD Graphics,Chrome OS,1.49,251,Yes,No,SSD
+412,Huawei,Huawei Notebook 412,Notebook,16.5,"16.5"" 1920x1080",AMD Ryzen 7,8,8GB,NVIDIA GeForce RTX 3070,Chrome OS,1.68,857,No,No,Hybrid
+413,Razer,Razer Gaming 413,Workstation,14.4,"14.4"" 2560x1440",AMD Ryzen 9,32,128GB,NVIDIA GeForce RTX 3070,Windows 11,1.92,4822,No,No,HDD
+414,Lenovo,Lenovo Ultrabook 414,Notebook,12.6,"12.6"" 1366x768",AMD Ryzen 7,32,16GB,NVIDIA GeForce RTX 3050,Windows 10,1.91,1114,Yes,No,HDD
+415,Lenovo,Lenovo Netbook 415,Ultrabook,11.9,"11.9"" 1920x1080",Intel Core i5,8,64GB,NVIDIA GeForce RTX 3070,Windows 11,1.0,1159,No,Yes,HDD
+416,Razer,Razer Ultrabook 416,2 in 1 Convertible,13.2,"13.2"" 1366x768",AMD Ryzen 3,16,4GB,NVIDIA GeForce RTX 3070,macOS,2.22,1525,Yes,Yes,Hybrid
+417,Apple,Apple Notebook 417,Workstation,15.8,"15.8"" 2560x1440",AMD Ryzen 3,128,2TB,NVIDIA GeForce RTX 3080,macOS,2.36,5000,Yes,Yes,HDD
+418,Samsung,Samsung Gaming 418,Workstation,14.0,"14.0"" 1366x768",AMD Ryzen 5,32,64GB,AMD Radeon RX 5500M,Linux,2.8,933,No,Yes,SSD
+419,Razer,Razer Workstation 419,Notebook,14.6,"14.6"" 1366x768",AMD Ryzen 7,32,32GB,AMD Radeon RX 6700M,macOS,2.64,1703,Yes,Yes,HDD
+420,Apple,Apple Gaming 420,Gaming,16.6,"16.6"" 3840x2160",AMD Ryzen 3,16,8GB,AMD Radeon RX 6600M,macOS,2.9,1339,Yes,No,HDD
+421,Asus,Asus Netbook 421,Gaming,15.8,"15.8"" 3840x2160",Intel Core i3,8,8GB,AMD Radeon RX 6800M,Windows 11,3.04,906,No,No,Hybrid
+422,Samsung,Samsung Notebook 422,Notebook,11.2,"11.2"" 1920x1080",AMD Ryzen 3,32,128GB,NVIDIA GeForce RTX 3060,Windows 11,2.23,792,Yes,No,Hybrid
+423,Samsung,Samsung Ultrabook 423,Gaming,15.8,"15.8"" 1920x1080",AMD Ryzen 3,32,256GB,AMD Radeon RX 6600M,Windows 11,2.59,1201,No,Yes,HDD
+424,Huawei,Huawei Gaming 424,Gaming,15.1,"15.1"" 1920x1080",AMD Ryzen 9,32,2TB,AMD Radeon RX 6800M,Chrome OS,3.28,1980,Yes,Yes,Hybrid
+425,Acer,Acer Netbook 425,2 in 1 Convertible,15.6,"15.6"" 1920x1080",AMD Ryzen 3,16,32GB,NVIDIA GeForce RTX 3060,Chrome OS,2.15,594,Yes,No,Hybrid
+426,Acer,Acer Netbook 426,Ultrabook,12.0,"12.0"" 1366x768",Intel Core i5,16,4GB,NVIDIA GeForce RTX 3070,Chrome OS,0.82,1373,No,Yes,Hybrid
+427,Razer,Razer Notebook 427,Notebook,13.2,"13.2"" 1366x768",AMD Ryzen 7,32,32GB,AMD Radeon RX 5500M,Chrome OS,1.92,1169,Yes,No,Hybrid
+428,Acer,Acer Ultrabook 428,Notebook,15.3,"15.3"" 3840x2160",AMD Ryzen 3,32,2TB,NVIDIA GeForce GTX 1650,macOS,1.98,478,No,Yes,HDD
+429,Razer,Razer Workstation 429,Notebook,13.7,"13.7"" 2560x1440",Intel Core i9,32,256GB,Intel HD Graphics,Chrome OS,1.19,1444,Yes,No,HDD
+430,MSI,MSI Ultrabook 430,Netbook,16.3,"16.3"" 2560x1440",AMD Ryzen 7,4,256GB,NVIDIA GeForce RTX 3060,Windows 10,2.88,543,No,Yes,HDD
+431,Microsoft,Microsoft Netbook 431,Notebook,13.2,"13.2"" 1920x1080",AMD Ryzen 7,8,256GB,NVIDIA GeForce RTX 3050,Chrome OS,2.54,838,No,No,SSD
+432,Acer,Acer Gaming 432,Netbook,16.4,"16.4"" 2560x1440",AMD Ryzen 7,16,2TB,NVIDIA GeForce GTX 1660,Linux,1.09,434,No,No,Hybrid
+433,Huawei,Huawei Ultrabook 433,2 in 1 Convertible,12.7,"12.7"" 2560x1440",AMD Ryzen 9,16,4GB,Intel HD Graphics,Windows 10,2.25,435,Yes,No,HDD
+434,HP,HP Netbook 434,Netbook,14.2,"14.2"" 2560x1440",AMD Ryzen 7,8,128GB,NVIDIA GeForce GTX 1660,Windows 10,2.36,459,Yes,Yes,HDD
+435,LG,LG Notebook 435,Notebook,13.4,"13.4"" 1920x1080",AMD Ryzen 5,4,1TB,AMD Radeon RX 5500M,Windows 11,1.29,369,No,Yes,Hybrid
+436,Razer,Razer Ultrabook 436,2 in 1 Convertible,13.5,"13.5"" 1920x1080",AMD Ryzen 7,16,8GB,NVIDIA GeForce RTX 3070,Windows 11,1.61,2962,Yes,Yes,Hybrid
+437,Lenovo,Lenovo Netbook 437,Gaming,16.0,"16.0"" 3840x2160",Intel Core i5,8,2TB,NVIDIA GeForce RTX 3050,Windows 11,3.73,923,No,Yes,SSD
+438,Microsoft,Microsoft Workstation 438,Ultrabook,11.9,"11.9"" 2560x1440",Intel Core i3,8,256GB,NVIDIA GeForce RTX 3080,macOS,1.13,1298,No,No,Hybrid
+439,MSI,MSI Gaming 439,Gaming,16.7,"16.7"" 3840x2160",AMD Ryzen 3,64,4GB,NVIDIA GeForce RTX 3060,Windows 10,3.76,1617,Yes,Yes,Hybrid
+440,Samsung,Samsung Ultrabook 440,Gaming,16.2,"16.2"" 3840x2160",AMD Ryzen 9,32,64GB,NVIDIA GeForce RTX 3050,Windows 10,2.73,2348,Yes,No,HDD
+441,Apple,Apple Notebook 441,Workstation,15.1,"15.1"" 2560x1440",Intel Core i7,16,64GB,NVIDIA GeForce RTX 3070,macOS,2.69,3424,No,No,HDD
+442,Microsoft,Microsoft Notebook 442,Workstation,15.3,"15.3"" 2560x1440",Intel Core i7,32,8GB,Intel Iris Xe Graphics,Windows 10,2.49,1577,No,No,Hybrid
+443,Samsung,Samsung Gaming 443,Ultrabook,13.7,"13.7"" 1920x1080",Intel Core i3,4,1TB,Intel Iris Xe Graphics,Linux,1.48,422,Yes,Yes,HDD
+444,Microsoft,Microsoft Notebook 444,Netbook,17.1,"17.1"" 1920x1080",Intel Core i5,4,1TB,NVIDIA GeForce RTX 3080,Windows 10,1.83,893,No,No,Hybrid
+445,Razer,Razer Workstation 445,Gaming,15.5,"15.5"" 2560x1440",AMD Ryzen 5,16,8GB,AMD Radeon RX 6800M,Windows 10,3.51,1895,Yes,Yes,Hybrid
+446,Asus,Asus Notebook 446,Ultrabook,12.4,"12.4"" 1366x768",Intel Core i7,8,16GB,NVIDIA GeForce GTX 1660,Windows 10,1.46,1019,No,Yes,HDD
+447,Apple,Apple Workstation 447,Notebook,16.1,"16.1"" 3840x2160",Intel Core i7,4,2TB,AMD Radeon RX 6800M,macOS,2.29,1213,No,Yes,Hybrid
+448,Samsung,Samsung Notebook 448,Netbook,11.3,"11.3"" 1920x1080",AMD Ryzen 9,8,8GB,AMD Radeon RX 6700M,macOS,1.22,819,No,Yes,Hybrid
+449,MSI,MSI Ultrabook 449,Notebook,12.9,"12.9"" 1366x768",Intel Core i7,16,512GB,Intel HD Graphics,Linux,1.36,617,No,Yes,SSD
+450,Apple,Apple 2 in 1 Convertible 450,Notebook,12.4,"12.4"" 1920x1080",Intel Core i5,16,8GB,AMD Radeon RX 6700M,macOS,1.15,1622,No,Yes,HDD
+451,HP,HP 2 in 1 Convertible 451,Netbook,11.4,"11.4"" 2560x1440",Intel Core i5,16,32GB,AMD Radeon RX 6800M,Windows 11,2.86,638,No,No,HDD
+452,Razer,Razer 2 in 1 Convertible 452,Ultrabook,12.5,"12.5"" 1920x1080",Intel Core i5,32,1TB,AMD Radeon RX 6700M,Windows 11,0.88,1863,No,No,SSD
+453,Samsung,Samsung Workstation 453,Notebook,15.4,"15.4"" 2560x1440",Intel Core i7,8,64GB,Intel HD Graphics,Chrome OS,2.24,478,Yes,No,HDD
+454,Lenovo,Lenovo Gaming 454,Ultrabook,13.3,"13.3"" 1366x768",AMD Ryzen 3,8,512GB,Intel Iris Xe Graphics,Windows 11,0.91,430,Yes,No,SSD
+455,Asus,Asus Notebook 455,Notebook,15.4,"15.4"" 3840x2160",AMD Ryzen 5,16,8GB,AMD Radeon RX 6800M,Windows 11,2.25,983,No,Yes,Hybrid
+456,Dell,Dell Gaming 456,Workstation,15.5,"15.5"" 1920x1080",Intel Core i5,64,512GB,AMD Radeon RX 6600M,Windows 10,2.35,1668,Yes,Yes,HDD
+457,Huawei,Huawei Ultrabook 457,Gaming,15.1,"15.1"" 1920x1080",AMD Ryzen 9,32,64GB,NVIDIA GeForce RTX 3050,Chrome OS,3.16,1471,No,Yes,HDD
+458,Asus,Asus Notebook 458,2 in 1 Convertible,15.0,"15.0"" 3840x2160",Intel Core i3,32,256GB,NVIDIA GeForce RTX 3080,Windows 10,2.05,1390,Yes,Yes,SSD
+459,Dell,Dell Gaming 459,Gaming,15.8,"15.8"" 2560x1440",AMD Ryzen 9,16,128GB,Intel Iris Xe Graphics,Linux,2.09,1098,Yes,Yes,Hybrid
+460,Razer,Razer Netbook 460,Notebook,11.1,"11.1"" 1920x1080",Intel Core i7,8,4GB,AMD Radeon RX 6800M,macOS,2.28,1262,No,Yes,Hybrid
+461,Dell,Dell Netbook 461,Workstation,15.8,"15.8"" 2560x1440",Intel Core i5,128,64GB,NVIDIA GeForce GTX 1650,Linux,1.04,2079,Yes,Yes,SSD
+462,LG,LG 2 in 1 Convertible 462,Gaming,15.9,"15.9"" 2560x1440",AMD Ryzen 3,16,128GB,AMD Radeon RX 6600M,macOS,3.31,1036,Yes,Yes,SSD
+463,Samsung,Samsung Ultrabook 463,Gaming,16.3,"16.3"" 2560x1440",AMD Ryzen 3,8,128GB,AMD Radeon RX 5500M,Windows 10,3.15,532,No,No,Hybrid
+464,LG,LG Workstation 464,2 in 1 Convertible,14.7,"14.7"" 1920x1080",AMD Ryzen 5,32,64GB,NVIDIA GeForce GTX 1650,Chrome OS,2.38,892,Yes,Yes,SSD
+465,Acer,Acer 2 in 1 Convertible 465,Notebook,14.5,"14.5"" 2560x1440",Intel Core i3,8,128GB,NVIDIA GeForce GTX 1660,macOS,1.91,390,No,No,HDD
+466,Samsung,Samsung 2 in 1 Convertible 466,Gaming,15.2,"15.2"" 2560x1440",AMD Ryzen 3,8,64GB,AMD Radeon RX 6800M,Linux,2.56,890,Yes,No,HDD
+467,MSI,MSI Notebook 467,Notebook,16.3,"16.3"" 2560x1440",AMD Ryzen 3,4,1TB,AMD Radeon RX 6700M,Chrome OS,2.75,562,No,Yes,Hybrid
+468,Asus,Asus Workstation 468,Notebook,13.5,"13.5"" 2560x1440",AMD Ryzen 7,32,16GB,NVIDIA GeForce GTX 1660,Windows 10,2.22,1072,No,Yes,HDD
+469,Asus,Asus 2 in 1 Convertible 469,Netbook,14.1,"14.1"" 2560x1440",AMD Ryzen 5,8,16GB,Intel HD Graphics,Linux,2.76,231,No,No,HDD
+470,Lenovo,Lenovo Netbook 470,Notebook,12.6,"12.6"" 1366x768",Intel Core i9,16,128GB,NVIDIA GeForce RTX 3050,Windows 11,2.41,1168,Yes,Yes,HDD
+471,Microsoft,Microsoft Netbook 471,Gaming,15.8,"15.8"" 1920x1080",AMD Ryzen 7,32,2TB,NVIDIA GeForce RTX 3060,Windows 11,3.25,2240,Yes,Yes,SSD
+472,Huawei,Huawei Ultrabook 472,Notebook,16.2,"16.2"" 2560x1440",Intel Core i9,32,512GB,NVIDIA GeForce RTX 3080,macOS,2.7,1891,No,No,HDD
+473,HP,HP Gaming 473,Gaming,16.9,"16.9"" 3840x2160",AMD Ryzen 7,64,16GB,NVIDIA GeForce GTX 1650,Windows 11,3.38,1840,Yes,No,HDD
+474,Apple,Apple Ultrabook 474,Workstation,14.7,"14.7"" 1366x768",Intel Core i5,16,8GB,NVIDIA GeForce RTX 3080,macOS,2.59,3721,Yes,Yes,HDD
+475,Microsoft,Microsoft 2 in 1 Convertible 475,Ultrabook,12.7,"12.7"" 2560x1440",AMD Ryzen 3,4,64GB,Intel Iris Xe Graphics,Windows 10,0.82,397,No,No,Hybrid
+476,Asus,Asus Notebook 476,Netbook,12.1,"12.1"" 1920x1080",Intel Core i3,32,512GB,NVIDIA GeForce RTX 3060,Windows 10,1.43,620,No,No,HDD
+477,Microsoft,Microsoft Notebook 477,Workstation,11.0,"11.0"" 2560x1440",Intel Core i3,32,1TB,AMD Radeon RX 6600M,Linux,1.69,1631,Yes,Yes,Hybrid
+478,LG,LG Netbook 478,Workstation,16.8,"16.8"" 2560x1440",AMD Ryzen 5,32,64GB,Intel HD Graphics,macOS,2.06,583,No,No,HDD
+479,Huawei,Huawei Ultrabook 479,Gaming,15.1,"15.1"" 1920x1080",Intel Core i9,32,128GB,AMD Radeon RX 6600M,Linux,2.32,1849,Yes,Yes,SSD
+480,HP,HP 2 in 1 Convertible 480,Workstation,14.7,"14.7"" 1920x1080",Intel Core i3,64,32GB,Intel Iris Xe Graphics,macOS,1.23,920,Yes,Yes,SSD
+481,Lenovo,Lenovo Ultrabook 481,Notebook,15.7,"15.7"" 1920x1080",Intel Core i5,16,512GB,AMD Radeon RX 6800M,Windows 11,2.6,1297,Yes,No,SSD
+482,Apple,Apple Notebook 482,Workstation,11.6,"11.6"" 1920x1080",AMD Ryzen 9,64,128GB,AMD Radeon RX 6600M,macOS,2.84,3401,Yes,Yes,SSD
+483,Acer,Acer Gaming 483,Gaming,16.4,"16.4"" 3840x2160",Intel Core i7,64,16GB,Intel HD Graphics,Windows 10,2.82,897,Yes,No,HDD
+484,Samsung,Samsung 2 in 1 Convertible 484,Workstation,14.9,"14.9"" 1366x768",Intel Core i9,64,8GB,NVIDIA GeForce RTX 3070,Windows 11,2.55,4943,Yes,No,HDD
+485,Apple,Apple Netbook 485,Gaming,15.9,"15.9"" 2560x1440",Intel Core i7,8,128GB,NVIDIA GeForce RTX 3050,macOS,2.19,2271,Yes,Yes,HDD
+486,HP,HP Ultrabook 486,Ultrabook,12.7,"12.7"" 1920x1080",AMD Ryzen 3,4,512GB,NVIDIA GeForce RTX 3050,Chrome OS,0.86,467,Yes,No,SSD
+487,Razer,Razer Netbook 487,Ultrabook,13.8,"13.8"" 2560x1440",AMD Ryzen 3,16,64GB,NVIDIA GeForce RTX 3080,Windows 11,0.96,1711,Yes,No,SSD
+488,Samsung,Samsung 2 in 1 Convertible 488,Netbook,15.8,"15.8"" 2560x1440",Intel Core i9,16,128GB,NVIDIA GeForce RTX 3080,Linux,2.84,1416,No,No,HDD
+489,Apple,Apple Gaming 489,Netbook,12.7,"12.7"" 1366x768",Intel Core i7,32,512GB,NVIDIA GeForce RTX 3080,macOS,2.65,2810,No,Yes,HDD
+490,HP,HP Workstation 490,2 in 1 Convertible,12.8,"12.8"" 1366x768",AMD Ryzen 5,4,256GB,NVIDIA GeForce RTX 3080,Windows 10,1.6,922,Yes,Yes,Hybrid
+491,Asus,Asus Notebook 491,2 in 1 Convertible,12.9,"12.9"" 1366x768",AMD Ryzen 7,8,4GB,AMD Radeon RX 6600M,Windows 10,2.41,768,Yes,Yes,SSD
+492,Huawei,Huawei Netbook 492,Workstation,11.7,"11.7"" 1366x768",AMD Ryzen 9,64,512GB,NVIDIA GeForce RTX 3050,Windows 11,2.09,2243,Yes,Yes,SSD
+493,Razer,Razer Workstation 493,2 in 1 Convertible,14.2,"14.2"" 2560x1440",AMD Ryzen 7,32,512GB,AMD Radeon RX 5500M,Chrome OS,2.22,1704,Yes,No,HDD
+494,MSI,MSI 2 in 1 Convertible 494,2 in 1 Convertible,13.8,"13.8"" 1366x768",AMD Ryzen 5,4,32GB,Intel Iris Xe Graphics,Windows 10,3.0,375,Yes,Yes,Hybrid
+495,LG,LG Ultrabook 495,Ultrabook,11.6,"11.6"" 1920x1080",Intel Core i5,32,2TB,AMD Radeon RX 6700M,Linux,0.87,1716,Yes,No,Hybrid
+496,Lenovo,Lenovo Netbook 496,Netbook,12.9,"12.9"" 1366x768",Intel Core i3,16,32GB,NVIDIA GeForce RTX 3080,Windows 10,1.67,810,No,Yes,SSD
+497,HP,HP Netbook 497,2 in 1 Convertible,13.9,"13.9"" 1920x1080",Intel Core i3,8,128GB,NVIDIA GeForce GTX 1650,Windows 10,1.51,478,Yes,No,HDD
+498,Huawei,Huawei Workstation 498,Ultrabook,11.1,"11.1"" 1920x1080",Intel Core i5,16,16GB,AMD Radeon RX 6800M,macOS,0.81,1070,No,No,HDD
+499,Asus,Asus Notebook 499,Ultrabook,12.5,"12.5"" 1920x1080",Intel Core i3,32,512GB,NVIDIA GeForce GTX 1660,Windows 11,1.16,1041,No,No,SSD
+500,MSI,MSI Workstation 500,Gaming,16.2,"16.2"" 2560x1440",AMD Ryzen 9,32,8GB,NVIDIA GeForce RTX 3070,macOS,3.93,4274,Yes,No,HDD
+501,HP,HP Gaming 501,Netbook,14.9,"14.9"" 1366x768",AMD Ryzen 9,8,32GB,NVIDIA GeForce RTX 3070,Windows 11,1.62,831,No,Yes,HDD
+502,Huawei,Huawei Workstation 502,Gaming,16.8,"16.8"" 1920x1080",AMD Ryzen 7,32,32GB,AMD Radeon RX 5500M,Linux,2.87,905,No,No,SSD
+503,Lenovo,Lenovo Netbook 503,Ultrabook,12.0,"12.0"" 1920x1080",Intel Core i5,16,512GB,NVIDIA GeForce RTX 3070,Windows 10,1.42,1549,Yes,No,SSD
+504,Acer,Acer Netbook 504,2 in 1 Convertible,12.0,"12.0"" 1366x768",Intel Core i7,4,2TB,AMD Radeon RX 6700M,Chrome OS,1.27,776,Yes,No,HDD
+505,Huawei,Huawei Ultrabook 505,Workstation,14.3,"14.3"" 2560x1440",Intel Core i3,16,128GB,NVIDIA GeForce RTX 3070,Chrome OS,1.22,840,Yes,Yes,HDD
+506,Acer,Acer Workstation 506,Notebook,11.4,"11.4"" 1366x768",Intel Core i3,8,256GB,AMD Radeon RX 6800M,Chrome OS,1.95,602,No,Yes,Hybrid
+507,Samsung,Samsung Gaming 507,Ultrabook,12.3,"12.3"" 1366x768",Intel Core i3,32,2TB,Intel Iris Xe Graphics,Chrome OS,0.92,714,Yes,Yes,HDD
+508,LG,LG Workstation 508,Ultrabook,12.9,"12.9"" 1920x1080",AMD Ryzen 3,8,64GB,AMD Radeon RX 6600M,Windows 10,1.3,602,Yes,Yes,SSD
+509,LG,LG Notebook 509,Ultrabook,11.3,"11.3"" 2560x1440",AMD Ryzen 9,4,256GB,NVIDIA GeForce GTX 1650,Linux,0.87,615,Yes,No,SSD
+510,Samsung,Samsung 2 in 1 Convertible 510,2 in 1 Convertible,14.3,"14.3"" 2560x1440",Intel Core i3,4,256GB,NVIDIA GeForce RTX 3080,Chrome OS,2.37,1043,Yes,No,SSD
+511,Huawei,Huawei Workstation 511,Gaming,16.8,"16.8"" 3840x2160",AMD Ryzen 3,16,512GB,NVIDIA GeForce RTX 3060,Windows 11,3.82,729,No,Yes,HDD
+512,Acer,Acer Netbook 512,Ultrabook,13.6,"13.6"" 1920x1080",AMD Ryzen 9,4,32GB,Intel Iris Xe Graphics,macOS,1.14,497,No,No,Hybrid
+513,Apple,Apple Netbook 513,Notebook,13.0,"13.0"" 1366x768",AMD Ryzen 5,32,128GB,AMD Radeon RX 5500M,macOS,1.42,1052,Yes,No,SSD
+514,Asus,Asus Gaming 514,Gaming,15.9,"15.9"" 1920x1080",AMD Ryzen 9,64,1TB,Intel HD Graphics,Chrome OS,2.94,1218,No,No,Hybrid
+515,MSI,MSI Netbook 515,Netbook,12.0,"12.0"" 1920x1080",AMD Ryzen 7,8,512GB,NVIDIA GeForce RTX 3050,Linux,1.7,757,No,Yes,HDD
+516,Asus,Asus Ultrabook 516,Workstation,16.5,"16.5"" 3840x2160",AMD Ryzen 7,16,4GB,NVIDIA GeForce RTX 3070,Linux,1.99,1448,Yes,No,HDD
+517,Asus,Asus Gaming 517,Ultrabook,13.4,"13.4"" 1920x1080",AMD Ryzen 9,4,4GB,NVIDIA GeForce RTX 3050,Linux,1.31,789,No,No,SSD
+518,Lenovo,Lenovo Ultrabook 518,Gaming,15.8,"15.8"" 1920x1080",Intel Core i7,64,16GB,NVIDIA GeForce RTX 3070,Windows 10,2.41,3819,Yes,No,HDD
+519,Acer,Acer Netbook 519,Workstation,12.6,"12.6"" 1920x1080",Intel Core i9,64,32GB,NVIDIA GeForce RTX 3070,Linux,1.32,3001,No,No,HDD
+520,Samsung,Samsung Ultrabook 520,Workstation,12.8,"12.8"" 1920x1080",Intel Core i5,16,128GB,AMD Radeon RX 6600M,Linux,2.93,1119,No,Yes,HDD
+521,Huawei,Huawei Ultrabook 521,Workstation,11.3,"11.3"" 1366x768",AMD Ryzen 3,16,32GB,AMD Radeon RX 6600M,Linux,2.32,666,No,No,SSD
+522,Samsung,Samsung Netbook 522,Workstation,17.3,"17.3"" 3840x2160",Intel Core i7,64,1TB,NVIDIA GeForce RTX 3050,Windows 10,1.41,2944,No,Yes,SSD
+523,MSI,MSI Ultrabook 523,Notebook,12.2,"12.2"" 1920x1080",AMD Ryzen 9,32,32GB,AMD Radeon RX 6700M,Windows 11,2.32,1834,Yes,No,SSD
+524,LG,LG Notebook 524,Netbook,14.4,"14.4"" 1920x1080",AMD Ryzen 3,32,32GB,AMD Radeon RX 6600M,Linux,1.09,543,No,No,HDD
+525,Acer,Acer Gaming 525,Notebook,11.1,"11.1"" 1920x1080",AMD Ryzen 9,4,8GB,AMD Radeon RX 6800M,Linux,2.34,901,No,No,HDD
+526,Acer,Acer 2 in 1 Convertible 526,Gaming,15.3,"15.3"" 1920x1080",AMD Ryzen 5,64,64GB,NVIDIA GeForce RTX 3060,macOS,2.1,1567,No,No,HDD
+527,Lenovo,Lenovo Ultrabook 527,Workstation,15.9,"15.9"" 3840x2160",Intel Core i5,128,256GB,NVIDIA GeForce RTX 3050,Windows 10,1.7,2369,Yes,No,SSD
+528,LG,LG Workstation 528,Workstation,17.2,"17.2"" 2560x1440",AMD Ryzen 7,64,32GB,NVIDIA GeForce RTX 3070,Windows 11,2.34,3585,No,No,HDD
+529,Razer,Razer 2 in 1 Convertible 529,2 in 1 Convertible,12.0,"12.0"" 1920x1080",AMD Ryzen 9,4,512GB,NVIDIA GeForce GTX 1660,Chrome OS,1.71,1250,Yes,No,HDD
+530,Acer,Acer Netbook 530,Workstation,11.5,"11.5"" 2560x1440",AMD Ryzen 9,16,64GB,NVIDIA GeForce RTX 3060,Chrome OS,2.5,1470,No,Yes,SSD
+531,MSI,MSI Workstation 531,Workstation,15.2,"15.2"" 3840x2160",AMD Ryzen 3,16,2TB,NVIDIA GeForce RTX 3060,Chrome OS,2.09,1040,Yes,Yes,Hybrid
+532,LG,LG Ultrabook 532,2 in 1 Convertible,14.0,"14.0"" 2560x1440",Intel Core i3,32,32GB,NVIDIA GeForce RTX 3080,Windows 10,2.0,1478,Yes,Yes,HDD
+533,LG,LG Ultrabook 533,Workstation,16.3,"16.3"" 2560x1440",AMD Ryzen 5,128,512GB,NVIDIA GeForce GTX 1660,Windows 10,2.85,1961,No,Yes,SSD
+534,Microsoft,Microsoft Ultrabook 534,2 in 1 Convertible,13.6,"13.6"" 1366x768",AMD Ryzen 5,8,128GB,AMD Radeon RX 6600M,Windows 10,2.1,900,Yes,Yes,SSD
+535,Asus,Asus Netbook 535,Netbook,14.2,"14.2"" 2560x1440",Intel Core i3,8,4GB,NVIDIA GeForce RTX 3060,Chrome OS,2.55,406,No,Yes,HDD
+536,MSI,MSI 2 in 1 Convertible 536,Notebook,17.1,"17.1"" 3840x2160",AMD Ryzen 3,8,32GB,NVIDIA GeForce GTX 1650,Windows 10,2.55,425,No,No,Hybrid
+537,MSI,MSI Notebook 537,Workstation,16.7,"16.7"" 2560x1440",AMD Ryzen 9,16,2TB,NVIDIA GeForce RTX 3070,Chrome OS,2.1,2484,No,Yes,SSD
+538,HP,HP Notebook 538,Notebook,14.0,"14.0"" 2560x1440",AMD Ryzen 7,4,256GB,AMD Radeon RX 6800M,Chrome OS,1.39,929,Yes,No,Hybrid
+539,MSI,MSI 2 in 1 Convertible 539,Gaming,16.5,"16.5"" 2560x1440",Intel Core i9,64,64GB,NVIDIA GeForce RTX 3050,macOS,2.16,4467,No,Yes,HDD
+540,Lenovo,Lenovo 2 in 1 Convertible 540,Ultrabook,12.3,"12.3"" 1366x768",Intel Core i3,8,32GB,AMD Radeon RX 6800M,Windows 10,1.38,903,Yes,Yes,Hybrid
+541,Apple,Apple Gaming 541,Gaming,16.1,"16.1"" 2560x1440",Intel Core i9,64,32GB,AMD Radeon RX 6600M,macOS,2.88,4695,No,Yes,Hybrid
+542,Acer,Acer Notebook 542,Notebook,12.1,"12.1"" 1366x768",AMD Ryzen 7,16,8GB,Intel HD Graphics,Linux,2.07,459,No,No,SSD
+543,Microsoft,Microsoft Notebook 543,Workstation,12.2,"12.2"" 1920x1080",AMD Ryzen 5,16,2TB,NVIDIA GeForce RTX 3070,Linux,1.09,1702,Yes,Yes,SSD
+544,Asus,Asus Notebook 544,Workstation,16.9,"16.9"" 2560x1440",Intel Core i9,64,4GB,Intel HD Graphics,macOS,1.62,1528,Yes,Yes,SSD
+545,Lenovo,Lenovo Gaming 545,Netbook,14.2,"14.2"" 1366x768",AMD Ryzen 9,16,16GB,NVIDIA GeForce GTX 1660,Chrome OS,2.79,769,Yes,Yes,SSD
+546,Huawei,Huawei Netbook 546,Notebook,15.5,"15.5"" 3840x2160",AMD Ryzen 3,32,8GB,AMD Radeon RX 6700M,Chrome OS,1.27,632,No,Yes,SSD
+547,Microsoft,Microsoft Netbook 547,Ultrabook,12.8,"12.8"" 1366x768",AMD Ryzen 7,32,256GB,NVIDIA GeForce RTX 3070,Windows 10,0.96,2962,No,No,SSD
+548,Samsung,Samsung Notebook 548,2 in 1 Convertible,14.7,"14.7"" 2560x1440",Intel Core i3,16,2TB,NVIDIA GeForce RTX 3050,Windows 11,2.51,941,Yes,Yes,Hybrid
+549,LG,LG Workstation 549,Workstation,11.8,"11.8"" 1920x1080",Intel Core i5,16,4GB,NVIDIA GeForce RTX 3060,Windows 10,1.52,1502,Yes,No,HDD
+550,HP,HP Netbook 550,Ultrabook,11.3,"11.3"" 1920x1080",AMD Ryzen 5,16,2TB,AMD Radeon RX 6800M,Windows 10,0.98,1541,Yes,No,SSD
+551,Lenovo,Lenovo Notebook 551,Notebook,11.2,"11.2"" 2560x1440",Intel Core i5,4,2TB,NVIDIA GeForce GTX 1650,Chrome OS,1.31,394,Yes,Yes,Hybrid
+552,HP,HP Netbook 552,Workstation,15.7,"15.7"" 2560x1440",AMD Ryzen 3,16,1TB,AMD Radeon RX 5500M,Linux,1.86,680,Yes,Yes,SSD
+553,Huawei,Huawei Notebook 553,Workstation,15.7,"15.7"" 1920x1080",AMD Ryzen 3,16,512GB,AMD Radeon RX 6800M,Windows 10,1.1,833,Yes,Yes,Hybrid
+554,Asus,Asus Workstation 554,2 in 1 Convertible,13.0,"13.0"" 1920x1080",Intel Core i3,32,512GB,NVIDIA GeForce GTX 1650,Chrome OS,2.84,651,Yes,No,Hybrid
+555,Samsung,Samsung Workstation 555,2 in 1 Convertible,15.1,"15.1"" 3840x2160",Intel Core i3,4,128GB,AMD Radeon RX 6800M,Linux,1.69,823,Yes,Yes,HDD
+556,Apple,Apple Gaming 556,Netbook,11.5,"11.5"" 2560x1440",AMD Ryzen 3,16,8GB,NVIDIA GeForce RTX 3080,macOS,2.37,1255,Yes,No,HDD
+557,Asus,Asus Gaming 557,Workstation,14.9,"14.9"" 2560x1440",Intel Core i7,16,128GB,Intel Iris Xe Graphics,Linux,1.85,813,No,Yes,HDD
+558,Dell,Dell Netbook 558,Workstation,15.4,"15.4"" 3840x2160",AMD Ryzen 5,64,8GB,AMD Radeon RX 6600M,Chrome OS,2.7,1469,No,Yes,Hybrid
+559,MSI,MSI Workstation 559,Gaming,15.2,"15.2"" 2560x1440",Intel Core i7,16,32GB,AMD Radeon RX 5500M,Linux,3.71,1209,No,No,SSD
+560,Razer,Razer Workstation 560,Workstation,14.3,"14.3"" 2560x1440",Intel Core i7,16,32GB,NVIDIA GeForce RTX 3060,Windows 10,1.71,2804,Yes,Yes,Hybrid
+561,Huawei,Huawei Notebook 561,Workstation,11.9,"11.9"" 1920x1080",AMD Ryzen 5,16,16GB,NVIDIA GeForce RTX 3060,Windows 10,2.7,861,No,Yes,HDD
+562,Dell,Dell Gaming 562,2 in 1 Convertible,15.5,"15.5"" 3840x2160",AMD Ryzen 9,32,2TB,Intel Iris Xe Graphics,macOS,2.42,1234,Yes,No,Hybrid
+563,MSI,MSI Workstation 563,2 in 1 Convertible,13.8,"13.8"" 1366x768",Intel Core i9,8,32GB,NVIDIA GeForce RTX 3060,Chrome OS,2.43,2005,Yes,Yes,Hybrid
+564,Samsung,Samsung 2 in 1 Convertible 564,Netbook,15.2,"15.2"" 2560x1440",AMD Ryzen 5,8,32GB,NVIDIA GeForce RTX 3060,Windows 10,1.71,648,No,Yes,HDD
+565,Apple,Apple Netbook 565,2 in 1 Convertible,13.8,"13.8"" 1366x768",AMD Ryzen 5,32,32GB,Intel Iris Xe Graphics,macOS,1.1,1063,Yes,No,SSD
+566,Razer,Razer Workstation 566,Notebook,13.0,"13.0"" 1920x1080",AMD Ryzen 5,4,1TB,NVIDIA GeForce GTX 1660,macOS,2.91,618,No,No,SSD
+567,Microsoft,Microsoft Notebook 567,2 in 1 Convertible,14.3,"14.3"" 1920x1080",AMD Ryzen 7,32,128GB,Intel Iris Xe Graphics,Chrome OS,2.71,994,Yes,No,Hybrid
+568,LG,LG 2 in 1 Convertible 568,Netbook,17.0,"17.0"" 1920x1080",Intel Core i3,4,1TB,NVIDIA GeForce RTX 3070,Windows 10,2.86,461,No,Yes,Hybrid
+569,HP,HP Gaming 569,Netbook,13.0,"13.0"" 2560x1440",Intel Core i3,8,256GB,NVIDIA GeForce RTX 3050,Windows 11,2.87,393,No,No,Hybrid
+570,Acer,Acer Ultrabook 570,2 in 1 Convertible,13.9,"13.9"" 1920x1080",Intel Core i7,4,16GB,NVIDIA GeForce RTX 3080,Linux,1.08,1084,Yes,No,HDD
+571,Microsoft,Microsoft Workstation 571,Notebook,12.3,"12.3"" 1366x768",AMD Ryzen 5,4,256GB,Intel Iris Xe Graphics,Windows 11,1.31,466,Yes,No,Hybrid
+572,MSI,MSI Notebook 572,Notebook,17.2,"17.2"" 2560x1440",AMD Ryzen 3,16,64GB,NVIDIA GeForce GTX 1650,macOS,1.78,634,Yes,No,SSD
+573,HP,HP Workstation 573,2 in 1 Convertible,14.6,"14.6"" 1920x1080",AMD Ryzen 9,16,128GB,AMD Radeon RX 6800M,Windows 11,2.31,2019,Yes,Yes,HDD
+574,LG,LG Notebook 574,Ultrabook,11.5,"11.5"" 1920x1080",AMD Ryzen 7,4,8GB,NVIDIA GeForce GTX 1660,Linux,1.0,709,No,No,SSD
+575,Acer,Acer 2 in 1 Convertible 575,Workstation,16.7,"16.7"" 2560x1440",AMD Ryzen 9,32,32GB,NVIDIA GeForce GTX 1650,Chrome OS,2.64,1549,No,Yes,Hybrid
+576,Razer,Razer Gaming 576,Notebook,12.3,"12.3"" 2560x1440",Intel Core i5,8,1TB,Intel HD Graphics,Windows 11,1.42,402,Yes,No,HDD
+577,Razer,Razer Gaming 577,Gaming,16.3,"16.3"" 1920x1080",Intel Core i7,64,32GB,NVIDIA GeForce RTX 3070,Linux,2.09,4722,Yes,Yes,Hybrid
+578,Acer,Acer Workstation 578,Gaming,16.4,"16.4"" 1920x1080",AMD Ryzen 3,8,512GB,AMD Radeon RX 6700M,Linux,2.85,737,Yes,No,HDD
+579,LG,LG 2 in 1 Convertible 579,Workstation,16.0,"16.0"" 3840x2160",AMD Ryzen 9,32,512GB,NVIDIA GeForce RTX 3080,Linux,2.57,3816,Yes,No,Hybrid
+580,LG,LG Gaming 580,2 in 1 Convertible,12.6,"12.6"" 1920x1080",AMD Ryzen 9,4,1TB,NVIDIA GeForce GTX 1650,macOS,2.56,804,Yes,No,Hybrid
+581,MSI,MSI Netbook 581,Gaming,15.6,"15.6"" 3840x2160",Intel Core i3,8,32GB,AMD Radeon RX 6700M,Windows 11,2.56,1065,No,Yes,HDD
+582,Razer,Razer Gaming 582,Notebook,13.8,"13.8"" 1920x1080",Intel Core i5,8,512GB,NVIDIA GeForce RTX 3060,Windows 10,2.02,1228,No,No,HDD
+583,Microsoft,Microsoft Gaming 583,Ultrabook,12.6,"12.6"" 1920x1080",AMD Ryzen 5,32,512GB,AMD Radeon RX 6600M,Chrome OS,0.92,1598,No,Yes,Hybrid
+584,Asus,Asus Gaming 584,Netbook,16.9,"16.9"" 1920x1080",AMD Ryzen 7,32,512GB,NVIDIA GeForce GTX 1660,macOS,1.11,615,No,No,HDD
+585,Lenovo,Lenovo Gaming 585,Netbook,16.4,"16.4"" 2560x1440",AMD Ryzen 7,32,4GB,Intel Iris Xe Graphics,macOS,2.65,462,No,Yes,HDD
+586,Razer,Razer Gaming 586,Gaming,15.8,"15.8"" 1920x1080",Intel Core i5,8,32GB,Intel Iris Xe Graphics,Linux,3.26,970,No,No,SSD
+587,Dell,Dell 2 in 1 Convertible 587,Ultrabook,11.2,"11.2"" 2560x1440",AMD Ryzen 9,8,4GB,NVIDIA GeForce GTX 1660,Windows 11,1.1,1106,Yes,Yes,Hybrid
+588,Lenovo,Lenovo Ultrabook 588,Ultrabook,12.4,"12.4"" 1366x768",Intel Core i5,32,256GB,AMD Radeon RX 6800M,Windows 10,1.41,1488,Yes,No,Hybrid
+589,Acer,Acer 2 in 1 Convertible 589,Gaming,17.2,"17.2"" 1920x1080",AMD Ryzen 9,16,128GB,AMD Radeon RX 6600M,Windows 10,2.78,1688,No,No,HDD
+590,MSI,MSI 2 in 1 Convertible 590,Netbook,16.0,"16.0"" 1920x1080",AMD Ryzen 5,4,256GB,AMD Radeon RX 6800M,Linux,2.8,609,Yes,No,HDD
+591,Dell,Dell Netbook 591,Netbook,12.2,"12.2"" 2560x1440",Intel Core i9,8,512GB,NVIDIA GeForce RTX 3060,Chrome OS,1.48,793,No,No,SSD
+592,Apple,Apple Gaming 592,Gaming,15.6,"15.6"" 3840x2160",AMD Ryzen 9,8,4GB,NVIDIA GeForce GTX 1660,macOS,2.08,1654,No,Yes,SSD
+593,Razer,Razer Workstation 593,Netbook,12.1,"12.1"" 1920x1080",Intel Core i9,32,4GB,Intel Iris Xe Graphics,Chrome OS,2.03,1212,Yes,Yes,Hybrid
+594,Asus,Asus Netbook 594,2 in 1 Convertible,14.5,"14.5"" 1920x1080",AMD Ryzen 5,4,512GB,NVIDIA GeForce GTX 1650,Windows 11,2.52,424,Yes,No,HDD
+595,Razer,Razer Gaming 595,Gaming,16.9,"16.9"" 3840x2160",Intel Core i9,32,512GB,AMD Radeon RX 6700M,Windows 10,3.04,3214,No,Yes,HDD
+596,Huawei,Huawei Workstation 596,Netbook,13.2,"13.2"" 1366x768",AMD Ryzen 3,16,128GB,NVIDIA GeForce RTX 3080,Chrome OS,2.69,474,No,No,SSD
+597,MSI,MSI Netbook 597,Ultrabook,12.3,"12.3"" 1920x1080",AMD Ryzen 3,8,256GB,AMD Radeon RX 6600M,Chrome OS,0.83,817,No,Yes,HDD
+598,Samsung,Samsung Workstation 598,2 in 1 Convertible,14.4,"14.4"" 2560x1440",AMD Ryzen 7,32,128GB,NVIDIA GeForce RTX 3060,Windows 10,2.97,2064,Yes,Yes,Hybrid
+599,Lenovo,Lenovo Netbook 599,Ultrabook,12.1,"12.1"" 2560x1440",AMD Ryzen 9,4,512GB,NVIDIA GeForce RTX 3070,Windows 10,1.21,1481,Yes,No,HDD
+600,Microsoft,Microsoft 2 in 1 Convertible 600,Ultrabook,11.8,"11.8"" 1920x1080",Intel Core i7,32,2TB,AMD Radeon RX 6600M,Chrome OS,1.29,2065,No,No,HDD
+601,Dell,Dell Netbook 601,2 in 1 Convertible,13.0,"13.0"" 2560x1440",Intel Core i9,32,16GB,AMD Radeon RX 6700M,Chrome OS,1.27,2475,Yes,Yes,SSD
+602,Acer,Acer Workstation 602,Notebook,13.8,"13.8"" 1366x768",Intel Core i9,16,32GB,AMD Radeon RX 5500M,Windows 11,1.86,760,No,No,HDD
+603,Acer,Acer Netbook 603,Gaming,16.9,"16.9"" 2560x1440",Intel Core i3,16,2TB,AMD Radeon RX 5500M,Chrome OS,2.92,645,Yes,Yes,HDD
+604,HP,HP Workstation 604,Notebook,16.8,"16.8"" 3840x2160",Intel Core i3,8,16GB,NVIDIA GeForce RTX 3050,Linux,2.98,587,Yes,No,HDD
+605,Apple,Apple Gaming 605,2 in 1 Convertible,15.2,"15.2"" 1920x1080",AMD Ryzen 9,16,1TB,NVIDIA GeForce RTX 3070,macOS,1.63,3285,Yes,No,SSD
+606,Razer,Razer 2 in 1 Convertible 606,Notebook,15.4,"15.4"" 3840x2160",Intel Core i7,16,128GB,AMD Radeon RX 5500M,Windows 10,2.06,1226,Yes,Yes,Hybrid
+607,Lenovo,Lenovo 2 in 1 Convertible 607,Gaming,17.2,"17.2"" 2560x1440",AMD Ryzen 5,32,32GB,NVIDIA GeForce RTX 3070,Windows 10,3.76,2065,No,No,HDD
+608,Samsung,Samsung Ultrabook 608,Gaming,15.0,"15.0"" 3840x2160",AMD Ryzen 7,16,32GB,NVIDIA GeForce GTX 1660,Chrome OS,2.7,1375,No,Yes,HDD
+609,MSI,MSI Ultrabook 609,Ultrabook,11.2,"11.2"" 1920x1080",AMD Ryzen 3,32,64GB,NVIDIA GeForce RTX 3070,Linux,1.22,1462,Yes,No,SSD
+610,Dell,Dell Netbook 610,2 in 1 Convertible,13.6,"13.6"" 1366x768",AMD Ryzen 7,8,16GB,NVIDIA GeForce GTX 1650,Linux,1.39,709,Yes,No,HDD
+611,Huawei,Huawei Ultrabook 611,2 in 1 Convertible,13.8,"13.8"" 1920x1080",AMD Ryzen 5,16,16GB,AMD Radeon RX 6700M,Chrome OS,1.12,673,Yes,Yes,Hybrid
+612,Lenovo,Lenovo Netbook 612,Ultrabook,11.6,"11.6"" 1366x768",Intel Core i7,8,256GB,AMD Radeon RX 6800M,Windows 11,1.33,1243,Yes,Yes,SSD
+613,Asus,Asus Gaming 613,Notebook,13.7,"13.7"" 1366x768",Intel Core i9,4,8GB,NVIDIA GeForce RTX 3060,macOS,2.57,1020,Yes,Yes,HDD
+614,Huawei,Huawei Workstation 614,Netbook,16.1,"16.1"" 2560x1440",Intel Core i7,16,2TB,AMD Radeon RX 6800M,macOS,1.13,560,No,Yes,SSD
+615,MSI,MSI Ultrabook 615,2 in 1 Convertible,13.6,"13.6"" 2560x1440",AMD Ryzen 5,16,2TB,NVIDIA GeForce RTX 3070,macOS,1.53,1866,Yes,Yes,SSD
+616,HP,HP Ultrabook 616,Netbook,15.2,"15.2"" 1920x1080",AMD Ryzen 5,32,2TB,NVIDIA GeForce RTX 3070,Chrome OS,2.82,1104,No,No,SSD
+617,Apple,Apple Gaming 617,Ultrabook,11.2,"11.2"" 1366x768",Intel Core i7,16,512GB,NVIDIA GeForce RTX 3080,macOS,1.41,3792,Yes,Yes,Hybrid
+618,LG,LG Gaming 618,Netbook,11.5,"11.5"" 1920x1080",AMD Ryzen 7,32,128GB,NVIDIA GeForce RTX 3060,Chrome OS,1.81,958,No,No,Hybrid
+619,MSI,MSI Gaming 619,2 in 1 Convertible,13.2,"13.2"" 2560x1440",Intel Core i5,4,256GB,NVIDIA GeForce GTX 1650,macOS,2.09,533,Yes,No,HDD
+620,LG,LG Netbook 620,Netbook,11.3,"11.3"" 1366x768",Intel Core i9,16,512GB,NVIDIA GeForce RTX 3070,Chrome OS,1.22,1390,Yes,Yes,Hybrid
+621,Samsung,Samsung Ultrabook 621,Notebook,14.9,"14.9"" 1366x768",Intel Core i3,16,16GB,Intel Iris Xe Graphics,Windows 11,2.43,393,No,No,SSD
+622,Apple,Apple Gaming 622,2 in 1 Convertible,15.5,"15.5"" 3840x2160",Intel Core i9,32,128GB,NVIDIA GeForce RTX 3070,macOS,1.1,4442,Yes,No,HDD
+623,HP,HP Netbook 623,Workstation,14.0,"14.0"" 2560x1440",Intel Core i9,64,64GB,AMD Radeon RX 6800M,Chrome OS,2.5,4253,Yes,No,HDD
+624,Asus,Asus 2 in 1 Convertible 624,Notebook,15.2,"15.2"" 3840x2160",Intel Core i3,8,2TB,NVIDIA GeForce RTX 3060,Windows 11,1.41,451,No,No,SSD
+625,Samsung,Samsung Workstation 625,Workstation,16.4,"16.4"" 3840x2160",Intel Core i3,128,32GB,NVIDIA GeForce GTX 1660,Windows 10,2.94,1602,Yes,Yes,HDD
+626,MSI,MSI Ultrabook 626,Gaming,15.7,"15.7"" 3840x2160",Intel Core i3,8,128GB,NVIDIA GeForce RTX 3060,Windows 11,2.53,1016,No,Yes,HDD
+627,Asus,Asus Gaming 627,Workstation,16.5,"16.5"" 1920x1080",AMD Ryzen 5,16,512GB,NVIDIA GeForce GTX 1650,macOS,2.2,783,Yes,No,HDD
+628,Asus,Asus Gaming 628,2 in 1 Convertible,12.4,"12.4"" 1920x1080",Intel Core i5,32,8GB,NVIDIA GeForce GTX 1660,Windows 10,2.33,1075,Yes,Yes,HDD
+629,Dell,Dell Gaming 629,Ultrabook,13.1,"13.1"" 1366x768",AMD Ryzen 5,32,128GB,AMD Radeon RX 6600M,Windows 11,1.22,1283,Yes,Yes,Hybrid
+630,Samsung,Samsung 2 in 1 Convertible 630,Ultrabook,11.0,"11.0"" 1920x1080",Intel Core i5,8,4GB,NVIDIA GeForce GTX 1660,macOS,1.49,875,Yes,Yes,Hybrid
+631,MSI,MSI Notebook 631,Gaming,15.8,"15.8"" 3840x2160",Intel Core i7,8,64GB,NVIDIA GeForce RTX 3050,Chrome OS,2.8,1254,Yes,No,SSD
+632,Samsung,Samsung Netbook 632,2 in 1 Convertible,12.7,"12.7"" 2560x1440",AMD Ryzen 9,4,2TB,AMD Radeon RX 5500M,Windows 11,2.91,759,Yes,Yes,Hybrid
+633,Acer,Acer Ultrabook 633,Netbook,11.6,"11.6"" 1920x1080",Intel Core i3,4,512GB,NVIDIA GeForce GTX 1650,Linux,2.62,207,Yes,No,HDD
+634,Acer,Acer Gaming 634,Gaming,16.0,"16.0"" 1920x1080",Intel Core i9,16,256GB,NVIDIA GeForce RTX 3080,Windows 10,2.99,2981,No,No,Hybrid
+635,LG,LG Ultrabook 635,Gaming,17.2,"17.2"" 2560x1440",Intel Core i9,8,32GB,AMD Radeon RX 6800M,macOS,2.89,1622,Yes,No,Hybrid
+636,Razer,Razer Netbook 636,Notebook,12.0,"12.0"" 1920x1080",Intel Core i5,32,8GB,NVIDIA GeForce RTX 3060,Linux,2.36,2071,No,No,Hybrid
+637,HP,HP Ultrabook 637,Netbook,14.5,"14.5"" 1366x768",AMD Ryzen 3,8,32GB,NVIDIA GeForce GTX 1660,Windows 10,1.33,346,No,Yes,Hybrid
+638,MSI,MSI Ultrabook 638,Netbook,11.4,"11.4"" 2560x1440",Intel Core i3,4,2TB,NVIDIA GeForce RTX 3050,Windows 10,2.8,410,No,Yes,Hybrid
+639,Dell,Dell Workstation 639,Workstation,11.6,"11.6"" 1920x1080",AMD Ryzen 3,64,16GB,NVIDIA GeForce GTX 1660,Linux,2.68,1053,Yes,Yes,HDD
+640,Acer,Acer Gaming 640,2 in 1 Convertible,12.7,"12.7"" 2560x1440",Intel Core i9,8,4GB,NVIDIA GeForce GTX 1660,Linux,1.3,834,Yes,No,SSD
+641,HP,HP Notebook 641,Gaming,17.1,"17.1"" 2560x1440",AMD Ryzen 5,8,4GB,NVIDIA GeForce GTX 1650,Windows 10,2.91,625,No,No,SSD
+642,Acer,Acer Netbook 642,Ultrabook,12.2,"12.2"" 1366x768",AMD Ryzen 9,32,1TB,AMD Radeon RX 6600M,macOS,1.06,1237,Yes,No,HDD
+643,Apple,Apple Notebook 643,Ultrabook,11.8,"11.8"" 1366x768",Intel Core i7,8,256GB,AMD Radeon RX 6700M,macOS,1.19,1888,No,Yes,HDD
+644,MSI,MSI Netbook 644,Notebook,17.1,"17.1"" 3840x2160",AMD Ryzen 3,16,128GB,AMD Radeon RX 6800M,Windows 11,1.73,790,Yes,No,Hybrid
+645,Lenovo,Lenovo Netbook 645,Workstation,11.8,"11.8"" 2560x1440",AMD Ryzen 3,128,512GB,AMD Radeon RX 6700M,Windows 10,1.21,1937,Yes,Yes,HDD
+646,Samsung,Samsung 2 in 1 Convertible 646,Netbook,12.5,"12.5"" 2560x1440",Intel Core i5,8,4GB,Intel Iris Xe Graphics,Windows 11,1.46,322,Yes,Yes,Hybrid
+647,Lenovo,Lenovo Workstation 647,Notebook,16.5,"16.5"" 2560x1440",Intel Core i7,4,8GB,NVIDIA GeForce RTX 3070,Windows 11,2.74,758,No,Yes,SSD
+648,Samsung,Samsung Notebook 648,Ultrabook,13.7,"13.7"" 1366x768",Intel Core i5,32,1TB,NVIDIA GeForce RTX 3060,Linux,1.05,1561,No,No,HDD
+649,Microsoft,Microsoft Workstation 649,Ultrabook,11.4,"11.4"" 2560x1440",Intel Core i3,32,64GB,NVIDIA GeForce GTX 1660,Windows 10,0.96,1088,No,No,Hybrid
+650,Apple,Apple Workstation 650,Workstation,17.0,"17.0"" 3840x2160",Intel Core i7,64,4GB,Intel HD Graphics,macOS,1.86,1686,Yes,Yes,Hybrid
+651,Asus,Asus Workstation 651,Ultrabook,11.5,"11.5"" 2560x1440",AMD Ryzen 9,4,512GB,AMD Radeon RX 6700M,Windows 10,1.12,1019,No,Yes,HDD
+652,Dell,Dell 2 in 1 Convertible 652,Ultrabook,13.2,"13.2"" 1920x1080",AMD Ryzen 7,32,32GB,NVIDIA GeForce RTX 3060,Linux,0.95,1917,No,No,HDD
+653,Lenovo,Lenovo 2 in 1 Convertible 653,Netbook,16.6,"16.6"" 3840x2160",AMD Ryzen 7,4,2TB,AMD Radeon RX 6800M,Chrome OS,1.58,563,No,No,Hybrid
+654,Asus,Asus Notebook 654,Netbook,11.4,"11.4"" 1366x768",AMD Ryzen 9,16,32GB,Intel HD Graphics,macOS,1.6,377,No,No,Hybrid
+655,HP,HP Workstation 655,Workstation,16.4,"16.4"" 1920x1080",Intel Core i7,16,1TB,AMD Radeon RX 5500M,Linux,1.51,1001,No,No,HDD
+656,MSI,MSI 2 in 1 Convertible 656,Workstation,14.8,"14.8"" 1920x1080",AMD Ryzen 7,128,64GB,Intel HD Graphics,Chrome OS,1.37,1650,No,No,Hybrid
+657,Asus,Asus Netbook 657,Netbook,12.6,"12.6"" 2560x1440",Intel Core i9,8,1TB,AMD Radeon RX 6700M,Chrome OS,1.64,672,No,Yes,HDD
+658,Lenovo,Lenovo Netbook 658,Notebook,11.4,"11.4"" 1920x1080",Intel Core i9,8,4GB,AMD Radeon RX 6600M,Windows 11,1.11,1118,No,No,HDD
+659,MSI,MSI Gaming 659,Notebook,12.1,"12.1"" 1366x768",AMD Ryzen 9,8,1TB,NVIDIA GeForce RTX 3050,Chrome OS,2.32,1043,No,No,HDD
+660,Apple,Apple Ultrabook 660,Gaming,16.4,"16.4"" 1920x1080",Intel Core i9,64,16GB,NVIDIA GeForce RTX 3080,macOS,2.76,5000,No,No,SSD
+661,LG,LG Netbook 661,Ultrabook,13.7,"13.7"" 1920x1080",Intel Core i5,16,512GB,Intel HD Graphics,macOS,1.41,688,No,No,SSD
+662,MSI,MSI Notebook 662,Workstation,16.4,"16.4"" 3840x2160",Intel Core i3,64,128GB,NVIDIA GeForce GTX 1650,Windows 11,1.97,1264,Yes,No,SSD
+663,LG,LG Gaming 663,Gaming,15.1,"15.1"" 3840x2160",Intel Core i5,32,32GB,AMD Radeon RX 6600M,macOS,3.35,1547,Yes,Yes,Hybrid
+664,Apple,Apple Netbook 664,Ultrabook,12.0,"12.0"" 1920x1080",AMD Ryzen 7,32,1TB,NVIDIA GeForce GTX 1650,macOS,1.09,2255,No,No,SSD
+665,Huawei,Huawei Ultrabook 665,Notebook,11.0,"11.0"" 1366x768",Intel Core i7,16,16GB,NVIDIA GeForce RTX 3070,macOS,2.66,1034,No,Yes,SSD
+666,HP,HP Ultrabook 666,Notebook,14.1,"14.1"" 1920x1080",AMD Ryzen 9,16,4GB,NVIDIA GeForce GTX 1660,Windows 11,1.27,1259,No,Yes,Hybrid
+667,Acer,Acer Gaming 667,Notebook,15.1,"15.1"" 1920x1080",Intel Core i9,16,32GB,NVIDIA GeForce GTX 1660,Chrome OS,1.09,830,No,Yes,HDD
+668,Asus,Asus Workstation 668,Gaming,15.2,"15.2"" 2560x1440",Intel Core i7,64,64GB,NVIDIA GeForce RTX 3070,Linux,2.04,2839,Yes,Yes,HDD
+669,Acer,Acer 2 in 1 Convertible 669,Notebook,14.3,"14.3"" 2560x1440",AMD Ryzen 7,8,512GB,Intel HD Graphics,Windows 11,1.2,380,Yes,Yes,Hybrid
+670,MSI,MSI 2 in 1 Convertible 670,Gaming,16.4,"16.4"" 1920x1080",Intel Core i3,16,128GB,Intel Iris Xe Graphics,Windows 11,2.34,613,Yes,No,HDD
+671,Lenovo,Lenovo Ultrabook 671,Gaming,16.6,"16.6"" 1920x1080",AMD Ryzen 5,32,16GB,AMD Radeon RX 5500M,Chrome OS,3.25,1114,Yes,No,Hybrid
+672,Apple,Apple Netbook 672,Ultrabook,12.1,"12.1"" 1920x1080",Intel Core i5,16,16GB,AMD Radeon RX 6700M,macOS,1.19,2226,Yes,Yes,Hybrid
+673,Acer,Acer Workstation 673,2 in 1 Convertible,14.2,"14.2"" 1920x1080",AMD Ryzen 3,16,32GB,AMD Radeon RX 6600M,Chrome OS,1.33,535,Yes,Yes,SSD
+674,Samsung,Samsung Netbook 674,Netbook,16.6,"16.6"" 2560x1440",Intel Core i3,4,1TB,AMD Radeon RX 6700M,macOS,1.52,339,Yes,No,SSD
+675,Acer,Acer 2 in 1 Convertible 675,Gaming,15.3,"15.3"" 2560x1440",AMD Ryzen 7,64,256GB,Intel Iris Xe Graphics,Windows 10,3.32,1183,No,Yes,SSD
+676,Dell,Dell Gaming 676,Ultrabook,12.1,"12.1"" 2560x1440",AMD Ryzen 7,4,64GB,NVIDIA GeForce RTX 3060,Windows 10,1.49,1148,No,No,HDD
+677,Microsoft,Microsoft Netbook 677,Netbook,15.4,"15.4"" 1920x1080",Intel Core i5,4,2TB,NVIDIA GeForce RTX 3070,Chrome OS,2.76,628,No,No,HDD
+678,Microsoft,Microsoft Netbook 678,Ultrabook,13.6,"13.6"" 2560x1440",AMD Ryzen 7,8,256GB,NVIDIA GeForce GTX 1650,Chrome OS,1.33,1122,Yes,Yes,SSD
+679,Acer,Acer Gaming 679,Netbook,11.5,"11.5"" 1920x1080",AMD Ryzen 9,8,128GB,AMD Radeon RX 6600M,Chrome OS,1.57,412,Yes,Yes,SSD
+680,MSI,MSI Netbook 680,Netbook,12.0,"12.0"" 1920x1080",AMD Ryzen 9,32,8GB,AMD Radeon RX 6600M,macOS,2.41,1274,No,No,HDD
+681,Huawei,Huawei Netbook 681,Ultrabook,13.6,"13.6"" 2560x1440",Intel Core i7,8,32GB,Intel Iris Xe Graphics,Windows 10,0.87,487,Yes,Yes,Hybrid
+682,Huawei,Huawei 2 in 1 Convertible 682,2 in 1 Convertible,14.1,"14.1"" 2560x1440",AMD Ryzen 3,4,8GB,AMD Radeon RX 6600M,macOS,2.64,356,Yes,Yes,Hybrid
+683,Microsoft,Microsoft 2 in 1 Convertible 683,Ultrabook,13.4,"13.4"" 2560x1440",Intel Core i7,4,64GB,AMD Radeon RX 5500M,Linux,0.92,680,Yes,No,SSD
+684,Lenovo,Lenovo Gaming 684,2 in 1 Convertible,13.0,"13.0"" 1366x768",Intel Core i5,8,128GB,AMD Radeon RX 6700M,macOS,1.47,949,Yes,Yes,SSD
+685,LG,LG 2 in 1 Convertible 685,Netbook,15.7,"15.7"" 2560x1440",Intel Core i3,32,32GB,Intel Iris Xe Graphics,Windows 11,1.79,394,Yes,Yes,Hybrid
+686,Huawei,Huawei Gaming 686,2 in 1 Convertible,14.4,"14.4"" 1366x768",Intel Core i9,32,32GB,Intel Iris Xe Graphics,macOS,1.47,1053,Yes,Yes,HDD
+687,Asus,Asus Ultrabook 687,Netbook,15.6,"15.6"" 2560x1440",Intel Core i3,4,256GB,NVIDIA GeForce RTX 3080,Linux,1.62,459,No,No,HDD
+688,LG,LG Gaming 688,Notebook,12.8,"12.8"" 2560x1440",AMD Ryzen 5,32,128GB,AMD Radeon RX 6700M,Windows 11,2.43,1076,No,No,Hybrid
+689,MSI,MSI Gaming 689,2 in 1 Convertible,12.9,"12.9"" 1920x1080",AMD Ryzen 9,8,2TB,AMD Radeon RX 6600M,Linux,1.11,1139,Yes,Yes,SSD
+690,Lenovo,Lenovo Workstation 690,Netbook,11.4,"11.4"" 1920x1080",Intel Core i7,4,4GB,NVIDIA GeForce RTX 3050,Windows 11,1.14,426,Yes,No,Hybrid
+691,LG,LG 2 in 1 Convertible 691,2 in 1 Convertible,12.4,"12.4"" 1920x1080",AMD Ryzen 5,8,64GB,NVIDIA GeForce RTX 3080,Windows 11,2.38,1030,Yes,No,SSD
+692,Acer,Acer Ultrabook 692,2 in 1 Convertible,13.4,"13.4"" 1366x768",Intel Core i7,32,4GB,NVIDIA GeForce GTX 1660,macOS,2.3,1071,Yes,No,HDD
+693,Lenovo,Lenovo Notebook 693,Notebook,13.7,"13.7"" 2560x1440",Intel Core i7,4,64GB,NVIDIA GeForce RTX 3080,Windows 10,2.22,890,Yes,Yes,Hybrid
+694,Lenovo,Lenovo Netbook 694,Notebook,15.5,"15.5"" 3840x2160",Intel Core i3,16,128GB,AMD Radeon RX 6700M,Chrome OS,2.63,695,No,Yes,HDD
+695,Asus,Asus 2 in 1 Convertible 695,Workstation,16.3,"16.3"" 2560x1440",AMD Ryzen 5,64,256GB,NVIDIA GeForce RTX 3050,macOS,2.93,1784,Yes,Yes,HDD
+696,Samsung,Samsung Workstation 696,Ultrabook,13.8,"13.8"" 1920x1080",AMD Ryzen 7,8,512GB,NVIDIA GeForce GTX 1660,Windows 10,1.4,827,No,Yes,SSD
+697,Huawei,Huawei Netbook 697,2 in 1 Convertible,13.4,"13.4"" 1920x1080",Intel Core i9,4,64GB,AMD Radeon RX 6700M,Windows 10,2.74,853,Yes,No,Hybrid
+698,Razer,Razer Gaming 698,Workstation,12.0,"12.0"" 1366x768",Intel Core i9,32,32GB,Intel HD Graphics,Windows 11,1.04,2010,Yes,Yes,HDD
+699,Apple,Apple Gaming 699,Workstation,12.9,"12.9"" 1366x768",AMD Ryzen 9,128,4GB,AMD Radeon RX 6700M,macOS,1.39,4994,No,No,HDD
+700,Acer,Acer 2 in 1 Convertible 700,Workstation,16.4,"16.4"" 1920x1080",Intel Core i9,128,128GB,NVIDIA GeForce GTX 1660,Linux,2.45,3154,No,No,Hybrid
+701,Huawei,Huawei 2 in 1 Convertible 701,Workstation,12.9,"12.9"" 1920x1080",AMD Ryzen 7,32,4GB,AMD Radeon RX 6600M,Windows 11,1.55,1371,Yes,Yes,Hybrid
+702,Huawei,Huawei Notebook 702,2 in 1 Convertible,14.6,"14.6"" 1366x768",Intel Core i5,8,8GB,AMD Radeon RX 6600M,Windows 10,2.37,522,Yes,No,Hybrid
+703,MSI,MSI 2 in 1 Convertible 703,2 in 1 Convertible,13.4,"13.4"" 2560x1440",Intel Core i7,32,128GB,NVIDIA GeForce RTX 3070,macOS,2.65,2368,Yes,Yes,HDD
+704,Acer,Acer Ultrabook 704,Gaming,15.9,"15.9"" 1920x1080",Intel Core i7,64,128GB,Intel Iris Xe Graphics,Windows 11,2.72,1464,No,No,SSD
+705,LG,LG Notebook 705,Netbook,13.3,"13.3"" 1366x768",Intel Core i7,16,64GB,Intel Iris Xe Graphics,Chrome OS,1.67,529,Yes,Yes,Hybrid
+706,Samsung,Samsung 2 in 1 Convertible 706,Notebook,16.9,"16.9"" 3840x2160",Intel Core i3,4,8GB,NVIDIA GeForce RTX 3070,Windows 10,1.78,520,No,Yes,HDD
+707,Dell,Dell Ultrabook 707,2 in 1 Convertible,14.6,"14.6"" 1920x1080",AMD Ryzen 9,32,16GB,AMD Radeon RX 6800M,Chrome OS,1.05,2676,Yes,No,SSD
+708,Asus,Asus Gaming 708,Ultrabook,11.5,"11.5"" 1920x1080",Intel Core i9,8,1TB,AMD Radeon RX 5500M,Windows 11,1.18,701,Yes,Yes,Hybrid
+709,Asus,Asus Ultrabook 709,Ultrabook,11.9,"11.9"" 2560x1440",AMD Ryzen 3,4,128GB,NVIDIA GeForce RTX 3070,macOS,1.23,655,No,No,HDD
+710,Samsung,Samsung 2 in 1 Convertible 710,Netbook,15.2,"15.2"" 1920x1080",AMD Ryzen 9,32,256GB,Intel HD Graphics,Windows 10,2.57,506,Yes,No,SSD
+711,Dell,Dell Workstation 711,2 in 1 Convertible,13.9,"13.9"" 2560x1440",Intel Core i9,8,16GB,NVIDIA GeForce RTX 3080,Linux,1.7,2110,Yes,No,SSD
+712,LG,LG 2 in 1 Convertible 712,Notebook,11.4,"11.4"" 1920x1080",AMD Ryzen 7,8,8GB,AMD Radeon RX 6800M,Windows 10,1.42,1067,Yes,No,Hybrid
+713,Apple,Apple Gaming 713,Gaming,15.7,"15.7"" 3840x2160",Intel Core i5,8,8GB,NVIDIA GeForce GTX 1650,macOS,3.27,1341,No,No,Hybrid
+714,Microsoft,Microsoft Notebook 714,Netbook,14.0,"14.0"" 1366x768",AMD Ryzen 3,4,512GB,Intel HD Graphics,Windows 11,1.38,200,Yes,Yes,Hybrid
+715,MSI,MSI Ultrabook 715,Workstation,12.9,"12.9"" 1366x768",Intel Core i3,32,64GB,NVIDIA GeForce RTX 3070,Windows 10,1.11,2263,Yes,No,Hybrid
+716,HP,HP Ultrabook 716,Workstation,13.6,"13.6"" 1920x1080",AMD Ryzen 5,128,8GB,NVIDIA GeForce GTX 1660,Windows 10,2.46,1632,Yes,No,Hybrid
+717,LG,LG Workstation 717,Workstation,16.3,"16.3"" 2560x1440",AMD Ryzen 7,16,128GB,Intel HD Graphics,Windows 11,2.6,778,Yes,No,SSD
+718,Asus,Asus Netbook 718,Gaming,16.2,"16.2"" 3840x2160",Intel Core i7,8,64GB,NVIDIA GeForce RTX 3070,Linux,3.65,1553,Yes,No,HDD
+719,MSI,MSI Netbook 719,Netbook,15.9,"15.9"" 1920x1080",AMD Ryzen 3,16,64GB,Intel HD Graphics,Windows 11,1.06,283,Yes,No,SSD
+720,MSI,MSI Ultrabook 720,Ultrabook,12.2,"12.2"" 2560x1440",Intel Core i5,32,8GB,AMD Radeon RX 5500M,Chrome OS,0.85,1116,No,No,HDD
+721,Acer,Acer Gaming 721,Ultrabook,13.4,"13.4"" 1366x768",Intel Core i5,16,8GB,NVIDIA GeForce RTX 3050,Windows 10,1.31,1025,No,No,Hybrid
+722,Razer,Razer Ultrabook 722,Notebook,11.3,"11.3"" 1920x1080",AMD Ryzen 3,4,4GB,NVIDIA GeForce RTX 3070,macOS,1.23,631,Yes,Yes,SSD
+723,MSI,MSI 2 in 1 Convertible 723,Netbook,12.3,"12.3"" 2560x1440",AMD Ryzen 7,4,512GB,NVIDIA GeForce RTX 3060,Windows 10,1.77,609,No,No,SSD
+724,Lenovo,Lenovo Netbook 724,Gaming,16.7,"16.7"" 3840x2160",AMD Ryzen 9,16,512GB,NVIDIA GeForce RTX 3070,Windows 10,3.01,2374,No,Yes,HDD
+725,Lenovo,Lenovo Notebook 725,Netbook,16.1,"16.1"" 2560x1440",AMD Ryzen 5,16,256GB,AMD Radeon RX 6600M,Chrome OS,2.88,468,Yes,No,Hybrid
+726,Lenovo,Lenovo Workstation 726,Netbook,17.1,"17.1"" 2560x1440",Intel Core i3,32,4GB,AMD Radeon RX 6800M,Windows 10,1.72,880,Yes,Yes,Hybrid
+727,MSI,MSI Notebook 727,Gaming,17.3,"17.3"" 1920x1080",AMD Ryzen 7,16,1TB,NVIDIA GeForce RTX 3050,Windows 10,2.99,1846,No,Yes,SSD
+728,HP,HP 2 in 1 Convertible 728,Ultrabook,13.2,"13.2"" 2560x1440",AMD Ryzen 9,8,8GB,AMD Radeon RX 6800M,Windows 11,1.18,1439,Yes,No,Hybrid
+729,HP,HP Ultrabook 729,Workstation,12.6,"12.6"" 2560x1440",Intel Core i5,128,32GB,NVIDIA GeForce RTX 3070,Windows 10,1.64,3646,No,Yes,HDD
+730,MSI,MSI Ultrabook 730,Ultrabook,12.1,"12.1"" 1366x768",Intel Core i5,16,2TB,AMD Radeon RX 5500M,Windows 11,0.94,840,Yes,No,Hybrid
+731,Dell,Dell Ultrabook 731,Gaming,15.6,"15.6"" 2560x1440",AMD Ryzen 9,8,8GB,NVIDIA GeForce RTX 3060,Windows 10,2.01,1451,Yes,No,Hybrid
+732,Razer,Razer Workstation 732,2 in 1 Convertible,12.5,"12.5"" 1920x1080",Intel Core i3,8,16GB,AMD Radeon RX 6700M,Windows 10,1.36,880,Yes,No,SSD
+733,Razer,Razer Netbook 733,Gaming,15.3,"15.3"" 2560x1440",Intel Core i7,64,16GB,NVIDIA GeForce RTX 3070,macOS,3.95,4574,Yes,Yes,HDD
+734,Huawei,Huawei Ultrabook 734,Gaming,16.9,"16.9"" 1920x1080",AMD Ryzen 7,64,128GB,NVIDIA GeForce GTX 1650,Chrome OS,3.03,1145,No,Yes,Hybrid
+735,Lenovo,Lenovo Netbook 735,Gaming,15.5,"15.5"" 2560x1440",Intel Core i3,16,4GB,NVIDIA GeForce GTX 1650,Chrome OS,2.23,730,Yes,Yes,Hybrid
+736,Apple,Apple Ultrabook 736,Ultrabook,11.8,"11.8"" 2560x1440",AMD Ryzen 5,32,2TB,Intel Iris Xe Graphics,macOS,1.07,1606,Yes,No,Hybrid
+737,Apple,Apple Notebook 737,Ultrabook,11.9,"11.9"" 1366x768",Intel Core i9,32,4GB,AMD Radeon RX 6700M,macOS,1.39,3165,Yes,No,SSD
+738,HP,HP Ultrabook 738,Notebook,12.7,"12.7"" 1366x768",AMD Ryzen 9,32,256GB,Intel HD Graphics,Chrome OS,2.44,716,Yes,No,HDD
+739,Microsoft,Microsoft Ultrabook 739,Workstation,11.6,"11.6"" 2560x1440",Intel Core i5,64,2TB,Intel Iris Xe Graphics,Chrome OS,2.95,1322,Yes,No,SSD
+740,Microsoft,Microsoft Gaming 740,Ultrabook,11.4,"11.4"" 2560x1440",Intel Core i7,8,2TB,AMD Radeon RX 6700M,Windows 10,0.98,1296,Yes,Yes,Hybrid
+741,Lenovo,Lenovo Workstation 741,Notebook,12.2,"12.2"" 2560x1440",AMD Ryzen 5,16,32GB,NVIDIA GeForce GTX 1650,Windows 11,2.18,583,Yes,Yes,Hybrid
+742,Apple,Apple Netbook 742,Workstation,14.7,"14.7"" 1920x1080",AMD Ryzen 5,64,64GB,Intel Iris Xe Graphics,macOS,1.4,2005,No,No,HDD
+743,Razer,Razer Netbook 743,Workstation,15.5,"15.5"" 2560x1440",AMD Ryzen 7,128,256GB,NVIDIA GeForce GTX 1660,Windows 11,2.68,3003,Yes,No,HDD
+744,Razer,Razer Notebook 744,Netbook,14.9,"14.9"" 1920x1080",Intel Core i9,16,128GB,NVIDIA GeForce RTX 3050,Linux,1.11,1317,No,Yes,Hybrid
+745,Acer,Acer Workstation 745,Gaming,17.2,"17.2"" 2560x1440",AMD Ryzen 3,64,8GB,AMD Radeon RX 6700M,Chrome OS,3.63,1063,Yes,No,Hybrid
+746,Microsoft,Microsoft 2 in 1 Convertible 746,2 in 1 Convertible,14.8,"14.8"" 2560x1440",AMD Ryzen 5,4,4GB,NVIDIA GeForce RTX 3080,Windows 11,2.64,1312,Yes,No,SSD
+747,Dell,Dell Netbook 747,Workstation,16.6,"16.6"" 3840x2160",AMD Ryzen 3,16,32GB,NVIDIA GeForce RTX 3050,macOS,1.88,1120,No,Yes,SSD
+748,Razer,Razer 2 in 1 Convertible 748,2 in 1 Convertible,13.1,"13.1"" 1366x768",Intel Core i7,8,256GB,AMD Radeon RX 5500M,Windows 11,2.75,925,Yes,No,SSD
+749,HP,HP Workstation 749,Notebook,16.9,"16.9"" 1920x1080",Intel Core i9,32,8GB,AMD Radeon RX 6700M,Windows 10,1.48,1813,No,No,HDD
+750,Asus,Asus Ultrabook 750,2 in 1 Convertible,14.3,"14.3"" 2560x1440",Intel Core i7,32,2TB,Intel HD Graphics,Chrome OS,2.52,782,Yes,Yes,HDD
+751,MSI,MSI Gaming 751,Netbook,15.1,"15.1"" 3840x2160",AMD Ryzen 3,4,32GB,AMD Radeon RX 6700M,Windows 11,2.4,349,Yes,Yes,HDD
+752,Lenovo,Lenovo Notebook 752,Gaming,16.4,"16.4"" 3840x2160",AMD Ryzen 7,64,4GB,Intel Iris Xe Graphics,Chrome OS,2.03,1632,No,No,Hybrid
+753,Apple,Apple Ultrabook 753,Netbook,12.9,"12.9"" 2560x1440",AMD Ryzen 9,8,4GB,NVIDIA GeForce RTX 3060,macOS,1.2,988,No,Yes,HDD
+754,Asus,Asus Ultrabook 754,Ultrabook,11.9,"11.9"" 1920x1080",Intel Core i7,32,16GB,AMD Radeon RX 6600M,Linux,1.39,1700,No,No,SSD
+755,Asus,Asus Gaming 755,2 in 1 Convertible,12.7,"12.7"" 1920x1080",AMD Ryzen 7,4,4GB,AMD Radeon RX 6600M,Windows 11,1.4,521,Yes,Yes,SSD
+756,Lenovo,Lenovo Workstation 756,Gaming,15.7,"15.7"" 1920x1080",Intel Core i5,64,128GB,Intel HD Graphics,Windows 10,2.34,1187,No,No,SSD
+757,LG,LG 2 in 1 Convertible 757,Workstation,15.8,"15.8"" 1920x1080",Intel Core i7,32,64GB,NVIDIA GeForce RTX 3050,Linux,1.62,1743,Yes,Yes,Hybrid
+758,LG,LG 2 in 1 Convertible 758,Workstation,17.3,"17.3"" 1920x1080",AMD Ryzen 7,128,32GB,NVIDIA GeForce RTX 3050,Linux,2.66,3264,No,No,SSD
+759,MSI,MSI 2 in 1 Convertible 759,Gaming,16.5,"16.5"" 1920x1080",Intel Core i5,64,8GB,AMD Radeon RX 6600M,Linux,3.7,2707,Yes,Yes,SSD
+760,Dell,Dell Ultrabook 760,Gaming,16.8,"16.8"" 3840x2160",Intel Core i9,32,16GB,NVIDIA GeForce RTX 3070,macOS,2.62,3684,No,No,HDD
+761,Asus,Asus Notebook 761,Workstation,16.5,"16.5"" 3840x2160",AMD Ryzen 9,64,8GB,AMD Radeon RX 6600M,macOS,2.81,2331,No,Yes,Hybrid
+762,Apple,Apple Notebook 762,Notebook,17.3,"17.3"" 2560x1440",AMD Ryzen 9,32,4GB,Intel Iris Xe Graphics,macOS,1.29,1422,No,Yes,Hybrid
+763,Asus,Asus Workstation 763,2 in 1 Convertible,15.5,"15.5"" 2560x1440",AMD Ryzen 5,8,8GB,NVIDIA GeForce RTX 3080,Linux,2.74,1321,Yes,Yes,Hybrid
+764,Microsoft,Microsoft Netbook 764,2 in 1 Convertible,14.0,"14.0"" 1920x1080",Intel Core i3,8,512GB,NVIDIA GeForce GTX 1660,Linux,1.74,578,Yes,No,Hybrid
+765,LG,LG Workstation 765,Netbook,14.2,"14.2"" 1920x1080",Intel Core i9,4,2TB,NVIDIA GeForce RTX 3070,Windows 10,1.53,841,Yes,Yes,Hybrid
+766,LG,LG Workstation 766,Gaming,16.8,"16.8"" 1920x1080",AMD Ryzen 3,16,1TB,NVIDIA GeForce RTX 3070,macOS,2.17,1384,No,No,SSD
+767,Samsung,Samsung 2 in 1 Convertible 767,2 in 1 Convertible,12.0,"12.0"" 1366x768",Intel Core i9,4,128GB,AMD Radeon RX 6800M,Chrome OS,2.14,1128,Yes,No,SSD
+768,MSI,MSI Workstation 768,Workstation,16.7,"16.7"" 1920x1080",Intel Core i7,64,512GB,NVIDIA GeForce RTX 3050,Windows 11,1.64,2498,No,Yes,SSD
+769,Razer,Razer Gaming 769,Notebook,17.0,"17.0"" 2560x1440",Intel Core i9,8,128GB,NVIDIA GeForce RTX 3070,Windows 11,2.51,2179,No,Yes,Hybrid
+770,Apple,Apple 2 in 1 Convertible 770,2 in 1 Convertible,14.4,"14.4"" 1920x1080",AMD Ryzen 3,16,256GB,AMD Radeon RX 6700M,macOS,2.25,1092,Yes,No,Hybrid
+771,Microsoft,Microsoft Workstation 771,Gaming,16.0,"16.0"" 1920x1080",AMD Ryzen 3,16,512GB,NVIDIA GeForce GTX 1650,Windows 10,3.48,804,Yes,No,HDD
+772,Apple,Apple Workstation 772,Notebook,16.2,"16.2"" 2560x1440",AMD Ryzen 5,8,16GB,Intel Iris Xe Graphics,macOS,1.34,750,No,No,SSD
+773,Dell,Dell Ultrabook 773,Gaming,17.2,"17.2"" 1920x1080",Intel Core i3,16,512GB,AMD Radeon RX 6600M,macOS,3.23,1194,No,Yes,Hybrid
+774,Acer,Acer Workstation 774,Notebook,13.1,"13.1"" 1920x1080",Intel Core i3,4,2TB,AMD Radeon RX 6700M,Chrome OS,1.95,306,Yes,No,Hybrid
+775,Samsung,Samsung 2 in 1 Convertible 775,Workstation,11.1,"11.1"" 2560x1440",AMD Ryzen 7,16,512GB,NVIDIA GeForce GTX 1660,macOS,1.87,1205,Yes,No,Hybrid
+776,Samsung,Samsung 2 in 1 Convertible 776,Gaming,15.8,"15.8"" 1920x1080",AMD Ryzen 7,64,16GB,Intel HD Graphics,Chrome OS,2.05,1485,No,No,Hybrid
+777,Lenovo,Lenovo 2 in 1 Convertible 777,Ultrabook,12.9,"12.9"" 2560x1440",Intel Core i7,8,16GB,NVIDIA GeForce GTX 1650,Chrome OS,0.8,693,Yes,Yes,SSD
+778,Acer,Acer Notebook 778,Gaming,15.8,"15.8"" 2560x1440",Intel Core i3,16,128GB,Intel Iris Xe Graphics,Windows 11,2.57,518,No,No,HDD
+779,MSI,MSI Ultrabook 779,Notebook,13.8,"13.8"" 2560x1440",Intel Core i5,16,512GB,NVIDIA GeForce GTX 1650,macOS,1.27,640,Yes,Yes,HDD
+780,Razer,Razer Netbook 780,Netbook,16.8,"16.8"" 1920x1080",AMD Ryzen 5,16,64GB,NVIDIA GeForce RTX 3070,Chrome OS,1.86,1232,No,Yes,SSD
+781,Acer,Acer Netbook 781,Notebook,15.3,"15.3"" 3840x2160",Intel Core i9,32,16GB,AMD Radeon RX 6800M,Linux,2.04,1528,No,Yes,Hybrid
+782,MSI,MSI Notebook 782,Netbook,16.0,"16.0"" 2560x1440",AMD Ryzen 5,4,1TB,AMD Radeon RX 5500M,Chrome OS,2.91,270,No,Yes,Hybrid
+783,Samsung,Samsung Gaming 783,Gaming,17.2,"17.2"" 3840x2160",Intel Core i3,64,2TB,AMD Radeon RX 5500M,macOS,2.03,1246,No,No,SSD
+784,Apple,Apple 2 in 1 Convertible 784,Notebook,15.4,"15.4"" 2560x1440",AMD Ryzen 7,4,1TB,NVIDIA GeForce RTX 3050,macOS,2.95,969,Yes,No,Hybrid
+785,Huawei,Huawei 2 in 1 Convertible 785,Ultrabook,12.0,"12.0"" 1920x1080",Intel Core i3,16,4GB,AMD Radeon RX 6700M,Windows 10,1.06,562,No,Yes,Hybrid
+786,Dell,Dell 2 in 1 Convertible 786,2 in 1 Convertible,12.3,"12.3"" 1920x1080",AMD Ryzen 9,16,512GB,NVIDIA GeForce GTX 1660,Chrome OS,2.19,1318,Yes,No,SSD
+787,Razer,Razer 2 in 1 Convertible 787,Netbook,12.3,"12.3"" 1920x1080",Intel Core i3,32,8GB,Intel Iris Xe Graphics,Chrome OS,1.76,504,No,No,SSD
+788,Dell,Dell Gaming 788,Ultrabook,11.2,"11.2"" 1920x1080",Intel Core i7,32,8GB,NVIDIA GeForce GTX 1660,Windows 11,0.92,1505,No,No,HDD
+789,Razer,Razer Workstation 789,Notebook,14.5,"14.5"" 1920x1080",AMD Ryzen 3,8,64GB,Intel Iris Xe Graphics,Windows 10,2.38,482,Yes,Yes,HDD
+790,Microsoft,Microsoft Gaming 790,Ultrabook,12.5,"12.5"" 2560x1440",Intel Core i5,16,256GB,NVIDIA GeForce GTX 1650,Windows 10,0.95,1200,Yes,No,HDD
+791,HP,HP Ultrabook 791,Netbook,13.8,"13.8"" 2560x1440",AMD Ryzen 5,4,1TB,AMD Radeon RX 6600M,macOS,1.93,393,Yes,No,HDD
+792,Asus,Asus Ultrabook 792,Notebook,16.0,"16.0"" 2560x1440",Intel Core i3,16,4GB,AMD Radeon RX 6800M,Linux,1.44,831,No,No,SSD
+793,Microsoft,Microsoft Workstation 793,Gaming,15.9,"15.9"" 2560x1440",Intel Core i7,32,512GB,NVIDIA GeForce RTX 3070,macOS,3.69,3152,Yes,No,SSD
+794,Samsung,Samsung Netbook 794,Notebook,15.7,"15.7"" 2560x1440",AMD Ryzen 5,8,2TB,NVIDIA GeForce GTX 1660,macOS,1.9,601,Yes,Yes,SSD
+795,LG,LG Workstation 795,2 in 1 Convertible,14.9,"14.9"" 2560x1440",Intel Core i3,8,512GB,AMD Radeon RX 6800M,Chrome OS,1.93,667,Yes,Yes,HDD
+796,Apple,Apple Netbook 796,Netbook,11.5,"11.5"" 1366x768",AMD Ryzen 5,8,128GB,NVIDIA GeForce RTX 3050,macOS,1.01,727,Yes,No,SSD
+797,LG,LG Gaming 797,2 in 1 Convertible,15.5,"15.5"" 2560x1440",Intel Core i9,4,4GB,NVIDIA GeForce GTX 1650,Chrome OS,1.79,758,Yes,Yes,SSD
+798,LG,LG Workstation 798,Netbook,15.4,"15.4"" 3840x2160",Intel Core i7,8,2TB,NVIDIA GeForce GTX 1660,Linux,2.15,519,Yes,Yes,HDD
+799,Acer,Acer Notebook 799,Netbook,12.5,"12.5"" 1366x768",AMD Ryzen 9,4,512GB,NVIDIA GeForce RTX 3060,Chrome OS,2.09,458,Yes,Yes,Hybrid
+800,Lenovo,Lenovo Notebook 800,Ultrabook,12.1,"12.1"" 1366x768",AMD Ryzen 7,16,4GB,NVIDIA GeForce GTX 1660,Chrome OS,1.31,1234,No,Yes,SSD
+801,Lenovo,Lenovo Notebook 801,Gaming,15.2,"15.2"" 3840x2160",Intel Core i9,16,128GB,NVIDIA GeForce GTX 1660,macOS,3.78,1608,Yes,No,HDD
+802,Dell,Dell Notebook 802,Gaming,15.9,"15.9"" 2560x1440",Intel Core i9,32,4GB,AMD Radeon RX 6600M,Windows 11,2.56,2904,No,No,Hybrid
+803,Asus,Asus Ultrabook 803,Gaming,15.6,"15.6"" 1920x1080",AMD Ryzen 5,16,16GB,Intel Iris Xe Graphics,Chrome OS,2.29,732,Yes,No,Hybrid
+804,HP,HP 2 in 1 Convertible 804,Workstation,11.3,"11.3"" 2560x1440",Intel Core i7,32,16GB,NVIDIA GeForce RTX 3050,Linux,1.91,1913,Yes,No,SSD
+805,Microsoft,Microsoft 2 in 1 Convertible 805,Workstation,11.8,"11.8"" 2560x1440",Intel Core i7,64,8GB,AMD Radeon RX 6700M,Chrome OS,1.52,2672,Yes,Yes,HDD
+806,Asus,Asus Ultrabook 806,Notebook,17.3,"17.3"" 2560x1440",Intel Core i9,8,1TB,Intel Iris Xe Graphics,Windows 11,1.6,694,Yes,No,Hybrid
+807,Acer,Acer Netbook 807,2 in 1 Convertible,14.1,"14.1"" 2560x1440",AMD Ryzen 3,16,32GB,AMD Radeon RX 6700M,Chrome OS,1.89,558,Yes,No,Hybrid
+808,HP,HP 2 in 1 Convertible 808,Ultrabook,13.0,"13.0"" 1920x1080",Intel Core i9,8,1TB,NVIDIA GeForce RTX 3070,Windows 11,0.86,2085,Yes,No,HDD
+809,Razer,Razer Ultrabook 809,Netbook,13.5,"13.5"" 1920x1080",Intel Core i7,16,8GB,AMD Radeon RX 6600M,Windows 10,1.37,1040,Yes,Yes,Hybrid
+810,Apple,Apple Ultrabook 810,Netbook,14.8,"14.8"" 1920x1080",AMD Ryzen 3,4,256GB,NVIDIA GeForce GTX 1650,macOS,1.86,281,No,Yes,SSD
+811,Samsung,Samsung Gaming 811,Ultrabook,12.8,"12.8"" 1366x768",Intel Core i7,8,4GB,NVIDIA GeForce RTX 3070,Chrome OS,0.84,1975,Yes,Yes,Hybrid
+812,Samsung,Samsung Gaming 812,Notebook,15.4,"15.4"" 3840x2160",Intel Core i3,4,256GB,NVIDIA GeForce GTX 1660,Linux,2.58,385,No,Yes,SSD
+813,MSI,MSI 2 in 1 Convertible 813,Notebook,14.6,"14.6"" 1920x1080",Intel Core i9,8,8GB,AMD Radeon RX 5500M,Linux,1.78,844,Yes,No,SSD
+814,LG,LG Netbook 814,Ultrabook,11.7,"11.7"" 1920x1080",AMD Ryzen 7,16,1TB,AMD Radeon RX 6600M,Windows 10,1.35,1148,No,No,SSD
+815,Razer,Razer Ultrabook 815,Notebook,13.6,"13.6"" 1920x1080",Intel Core i3,8,8GB,NVIDIA GeForce RTX 3050,Windows 11,2.27,651,Yes,Yes,Hybrid
+816,Dell,Dell Workstation 816,Gaming,16.3,"16.3"" 3840x2160",AMD Ryzen 3,32,4GB,AMD Radeon RX 6800M,Windows 11,3.35,1509,Yes,Yes,Hybrid
+817,Apple,Apple Gaming 817,Netbook,14.8,"14.8"" 1366x768",AMD Ryzen 5,4,8GB,NVIDIA GeForce RTX 3080,macOS,1.07,984,Yes,No,SSD
+818,Asus,Asus Workstation 818,Ultrabook,14.0,"14.0"" 1366x768",Intel Core i5,32,4GB,AMD Radeon RX 5500M,Windows 11,1.31,986,Yes,No,Hybrid
+819,Samsung,Samsung Workstation 819,Ultrabook,11.3,"11.3"" 2560x1440",AMD Ryzen 5,4,1TB,NVIDIA GeForce RTX 3050,Windows 10,1.28,836,No,No,Hybrid
+820,Apple,Apple Notebook 820,2 in 1 Convertible,13.8,"13.8"" 1920x1080",AMD Ryzen 3,4,2TB,NVIDIA GeForce RTX 3080,macOS,1.5,1175,Yes,Yes,SSD
+821,Lenovo,Lenovo Gaming 821,Netbook,14.0,"14.0"" 1366x768",AMD Ryzen 5,8,256GB,NVIDIA GeForce RTX 3080,Windows 10,1.99,816,Yes,Yes,HDD
+822,Huawei,Huawei Ultrabook 822,Ultrabook,12.6,"12.6"" 1920x1080",Intel Core i9,16,32GB,Intel HD Graphics,Windows 11,0.85,609,Yes,Yes,SSD
+823,Dell,Dell Netbook 823,Ultrabook,11.1,"11.1"" 2560x1440",Intel Core i9,4,4GB,NVIDIA GeForce RTX 3080,Linux,1.31,1875,Yes,Yes,SSD
+824,LG,LG Gaming 824,Workstation,12.4,"12.4"" 1366x768",AMD Ryzen 3,128,128GB,AMD Radeon RX 5500M,Windows 11,1.48,1284,No,Yes,Hybrid
+825,Microsoft,Microsoft Notebook 825,Workstation,12.4,"12.4"" 1366x768",Intel Core i7,128,256GB,NVIDIA GeForce RTX 3080,Chrome OS,1.39,5000,Yes,No,SSD
+826,Acer,Acer Gaming 826,Ultrabook,11.9,"11.9"" 1920x1080",Intel Core i5,8,128GB,Intel Iris Xe Graphics,macOS,1.19,533,No,No,HDD
+827,Microsoft,Microsoft Gaming 827,Workstation,15.1,"15.1"" 3840x2160",AMD Ryzen 9,128,1TB,NVIDIA GeForce RTX 3080,Chrome OS,2.51,5000,Yes,No,Hybrid
+828,Dell,Dell Notebook 828,Ultrabook,13.8,"13.8"" 1366x768",AMD Ryzen 7,4,8GB,AMD Radeon RX 6700M,Chrome OS,0.92,974,Yes,Yes,SSD
+829,MSI,MSI Gaming 829,Netbook,16.7,"16.7"" 2560x1440",AMD Ryzen 7,8,2TB,AMD Radeon RX 5500M,macOS,2.3,401,No,Yes,SSD
+830,Dell,Dell Workstation 830,Workstation,17.2,"17.2"" 2560x1440",AMD Ryzen 5,128,256GB,NVIDIA GeForce RTX 3070,Chrome OS,2.82,3645,No,No,HDD
+831,Lenovo,Lenovo Ultrabook 831,2 in 1 Convertible,12.4,"12.4"" 1366x768",AMD Ryzen 9,4,8GB,NVIDIA GeForce GTX 1660,Windows 11,1.08,916,Yes,Yes,Hybrid
+832,Microsoft,Microsoft Netbook 832,2 in 1 Convertible,13.9,"13.9"" 2560x1440",Intel Core i3,16,16GB,AMD Radeon RX 6800M,Windows 11,1.38,1210,Yes,Yes,Hybrid
+833,Acer,Acer 2 in 1 Convertible 833,Gaming,15.9,"15.9"" 1920x1080",AMD Ryzen 9,16,512GB,NVIDIA GeForce RTX 3070,macOS,3.69,2283,No,Yes,HDD
+834,Lenovo,Lenovo 2 in 1 Convertible 834,Notebook,16.2,"16.2"" 3840x2160",Intel Core i5,32,8GB,NVIDIA GeForce RTX 3060,macOS,2.8,1247,Yes,Yes,SSD
+835,Samsung,Samsung Gaming 835,Ultrabook,13.6,"13.6"" 2560x1440",Intel Core i3,4,4GB,Intel Iris Xe Graphics,Linux,1.15,310,No,Yes,SSD
+836,LG,LG Gaming 836,Workstation,12.9,"12.9"" 1366x768",AMD Ryzen 9,16,16GB,NVIDIA GeForce RTX 3080,Chrome OS,2.55,2655,No,Yes,Hybrid
+837,LG,LG Workstation 837,Gaming,15.7,"15.7"" 3840x2160",AMD Ryzen 9,64,8GB,NVIDIA GeForce RTX 3080,macOS,2.37,4011,No,No,Hybrid
+838,MSI,MSI Ultrabook 838,2 in 1 Convertible,12.7,"12.7"" 1366x768",Intel Core i7,4,256GB,AMD Radeon RX 5500M,Windows 10,1.63,642,Yes,Yes,SSD
+839,Lenovo,Lenovo Workstation 839,2 in 1 Convertible,12.9,"12.9"" 1366x768",Intel Core i5,8,8GB,AMD Radeon RX 6600M,macOS,1.77,743,Yes,No,HDD
+840,Microsoft,Microsoft Ultrabook 840,Ultrabook,12.2,"12.2"" 2560x1440",AMD Ryzen 3,8,2TB,NVIDIA GeForce GTX 1650,macOS,1.27,591,Yes,Yes,Hybrid
+841,Apple,Apple Ultrabook 841,Notebook,15.1,"15.1"" 2560x1440",AMD Ryzen 9,32,512GB,NVIDIA GeForce RTX 3070,macOS,1.99,3284,No,No,SSD
+842,Dell,Dell Notebook 842,Workstation,17.0,"17.0"" 3840x2160",Intel Core i3,32,512GB,AMD Radeon RX 6700M,macOS,2.31,1243,No,No,Hybrid
+843,Apple,Apple Gaming 843,2 in 1 Convertible,13.0,"13.0"" 1366x768",AMD Ryzen 3,8,64GB,AMD Radeon RX 6700M,macOS,2.74,945,Yes,Yes,Hybrid
+844,HP,HP Gaming 844,Netbook,16.5,"16.5"" 2560x1440",Intel Core i3,16,512GB,AMD Radeon RX 6800M,Windows 11,1.91,534,Yes,No,SSD
+845,Lenovo,Lenovo Notebook 845,Netbook,16.1,"16.1"" 2560x1440",AMD Ryzen 7,4,256GB,NVIDIA GeForce RTX 3060,Chrome OS,2.23,580,Yes,Yes,HDD
+846,Razer,Razer Ultrabook 846,Ultrabook,12.6,"12.6"" 1920x1080",AMD Ryzen 7,4,2TB,NVIDIA GeForce RTX 3080,macOS,0.99,1968,No,Yes,HDD
+847,Samsung,Samsung Ultrabook 847,2 in 1 Convertible,15.4,"15.4"" 3840x2160",AMD Ryzen 7,32,64GB,NVIDIA GeForce RTX 3080,Chrome OS,1.65,3215,Yes,Yes,Hybrid
+848,Lenovo,Lenovo Workstation 848,2 in 1 Convertible,15.6,"15.6"" 2560x1440",Intel Core i5,16,4GB,Intel HD Graphics,Windows 11,2.62,567,Yes,No,HDD
+849,Lenovo,Lenovo Notebook 849,Workstation,13.9,"13.9"" 2560x1440",Intel Core i5,32,4GB,AMD Radeon RX 6600M,Windows 11,1.2,1653,No,No,HDD
+850,Samsung,Samsung Ultrabook 850,Notebook,13.9,"13.9"" 1366x768",AMD Ryzen 5,8,8GB,AMD Radeon RX 5500M,Linux,1.18,481,Yes,No,Hybrid
+851,Razer,Razer Netbook 851,Netbook,15.5,"15.5"" 1920x1080",Intel Core i9,32,2TB,NVIDIA GeForce RTX 3060,Windows 10,1.84,2099,No,Yes,Hybrid
+852,Microsoft,Microsoft Netbook 852,Notebook,15.8,"15.8"" 2560x1440",Intel Core i7,16,2TB,Intel Iris Xe Graphics,macOS,1.22,990,Yes,Yes,Hybrid
+853,Razer,Razer Workstation 853,Workstation,15.3,"15.3"" 2560x1440",Intel Core i9,32,16GB,Intel Iris Xe Graphics,Windows 11,1.79,2115,No,No,HDD
+854,Lenovo,Lenovo Notebook 854,Ultrabook,12.4,"12.4"" 2560x1440",Intel Core i7,8,1TB,AMD Radeon RX 6700M,Windows 11,0.92,1148,Yes,No,SSD
+855,Acer,Acer Ultrabook 855,Notebook,14.7,"14.7"" 2560x1440",AMD Ryzen 3,16,256GB,NVIDIA GeForce GTX 1660,macOS,1.24,409,No,Yes,HDD
+856,Apple,Apple Gaming 856,Ultrabook,11.3,"11.3"" 1366x768",AMD Ryzen 7,32,512GB,NVIDIA GeForce GTX 1660,macOS,1.08,2096,Yes,Yes,HDD
+857,HP,HP 2 in 1 Convertible 857,Ultrabook,13.6,"13.6"" 2560x1440",AMD Ryzen 9,16,256GB,NVIDIA GeForce GTX 1650,Chrome OS,1.41,1147,Yes,Yes,Hybrid
+858,LG,LG Gaming 858,Notebook,13.6,"13.6"" 2560x1440",Intel Core i3,32,32GB,NVIDIA GeForce RTX 3050,Linux,1.16,885,Yes,Yes,Hybrid
+859,Samsung,Samsung Gaming 859,Gaming,16.5,"16.5"" 2560x1440",Intel Core i3,32,128GB,Intel HD Graphics,Chrome OS,2.88,631,No,No,SSD
+860,Acer,Acer 2 in 1 Convertible 860,Notebook,13.3,"13.3"" 1920x1080",Intel Core i9,16,16GB,NVIDIA GeForce GTX 1650,Windows 10,2.14,862,No,Yes,Hybrid
+861,Microsoft,Microsoft 2 in 1 Convertible 861,2 in 1 Convertible,15.2,"15.2"" 3840x2160",AMD Ryzen 7,16,4GB,AMD Radeon RX 5500M,Windows 10,2.69,1166,Yes,Yes,Hybrid
+862,MSI,MSI Gaming 862,Gaming,16.6,"16.6"" 3840x2160",AMD Ryzen 9,64,1TB,AMD Radeon RX 6800M,Windows 11,2.4,3776,No,No,HDD
+863,MSI,MSI 2 in 1 Convertible 863,2 in 1 Convertible,14.2,"14.2"" 2560x1440",AMD Ryzen 9,32,4GB,NVIDIA GeForce GTX 1650,Windows 11,1.46,1373,Yes,Yes,Hybrid
+864,HP,HP Workstation 864,Netbook,12.4,"12.4"" 1920x1080",Intel Core i3,4,2TB,Intel Iris Xe Graphics,Linux,1.68,200,No,Yes,Hybrid
+865,Huawei,Huawei Ultrabook 865,Workstation,17.1,"17.1"" 1920x1080",AMD Ryzen 9,16,1TB,AMD Radeon RX 5500M,macOS,2.11,864,No,No,Hybrid
+866,Acer,Acer Notebook 866,Notebook,15.4,"15.4"" 3840x2160",AMD Ryzen 9,32,8GB,AMD Radeon RX 6700M,macOS,1.85,1271,No,No,Hybrid
+867,LG,LG 2 in 1 Convertible 867,2 in 1 Convertible,14.7,"14.7"" 1920x1080",Intel Core i9,32,2TB,NVIDIA GeForce GTX 1660,Linux,1.87,1944,Yes,No,SSD
+868,Razer,Razer Notebook 868,Gaming,17.1,"17.1"" 3840x2160",AMD Ryzen 3,64,512GB,NVIDIA GeForce RTX 3050,Windows 10,2.82,1980,No,Yes,SSD
+869,LG,LG Gaming 869,Netbook,15.1,"15.1"" 1920x1080",AMD Ryzen 3,16,2TB,NVIDIA GeForce GTX 1660,macOS,2.0,359,No,No,Hybrid
+870,HP,HP Netbook 870,Netbook,14.9,"14.9"" 2560x1440",AMD Ryzen 9,4,4GB,AMD Radeon RX 6700M,Windows 10,1.85,524,Yes,No,Hybrid
+871,LG,LG 2 in 1 Convertible 871,Netbook,16.9,"16.9"" 2560x1440",AMD Ryzen 9,32,4GB,AMD Radeon RX 6800M,Linux,2.2,1444,Yes,No,HDD
+872,HP,HP Workstation 872,Ultrabook,11.4,"11.4"" 2560x1440",AMD Ryzen 3,16,128GB,NVIDIA GeForce RTX 3050,Windows 11,1.46,916,No,Yes,Hybrid
+873,Microsoft,Microsoft 2 in 1 Convertible 873,Workstation,11.1,"11.1"" 1920x1080",AMD Ryzen 7,64,4GB,NVIDIA GeForce GTX 1660,Windows 11,2.79,2391,No,Yes,Hybrid
+874,Microsoft,Microsoft Notebook 874,Notebook,12.3,"12.3"" 1366x768",Intel Core i5,4,1TB,NVIDIA GeForce RTX 3060,macOS,1.44,704,Yes,Yes,Hybrid
+875,LG,LG Ultrabook 875,2 in 1 Convertible,12.7,"12.7"" 1366x768",AMD Ryzen 3,4,4GB,NVIDIA GeForce RTX 3080,Linux,1.5,836,Yes,Yes,HDD
+876,HP,HP Notebook 876,Gaming,17.1,"17.1"" 1920x1080",AMD Ryzen 9,16,4GB,Intel HD Graphics,Windows 11,2.65,1047,No,No,SSD
+877,Razer,Razer 2 in 1 Convertible 877,Gaming,15.6,"15.6"" 3840x2160",Intel Core i5,64,16GB,Intel HD Graphics,Linux,3.73,1570,No,Yes,SSD
+878,Huawei,Huawei Gaming 878,Netbook,14.7,"14.7"" 2560x1440",AMD Ryzen 7,16,32GB,NVIDIA GeForce RTX 3060,Windows 10,2.66,493,Yes,No,HDD
+879,Apple,Apple Gaming 879,Notebook,16.6,"16.6"" 1920x1080",AMD Ryzen 7,4,1TB,AMD Radeon RX 6600M,macOS,1.89,1107,No,Yes,Hybrid
+880,MSI,MSI Workstation 880,Workstation,14.4,"14.4"" 1920x1080",Intel Core i5,64,16GB,NVIDIA GeForce GTX 1660,macOS,2.44,1856,No,Yes,SSD
+881,Razer,Razer Ultrabook 881,2 in 1 Convertible,13.7,"13.7"" 1920x1080",AMD Ryzen 9,4,64GB,NVIDIA GeForce RTX 3070,Linux,1.35,2073,Yes,Yes,Hybrid
+882,HP,HP Netbook 882,Notebook,12.7,"12.7"" 1366x768",Intel Core i3,16,1TB,NVIDIA GeForce RTX 3080,Windows 11,1.62,1149,No,No,HDD
+883,Razer,Razer 2 in 1 Convertible 883,Netbook,16.6,"16.6"" 2560x1440",AMD Ryzen 3,32,32GB,NVIDIA GeForce GTX 1660,Linux,1.84,627,Yes,No,Hybrid
+884,Lenovo,Lenovo Gaming 884,Workstation,15.8,"15.8"" 3840x2160",AMD Ryzen 5,16,64GB,AMD Radeon RX 5500M,Chrome OS,2.0,664,Yes,Yes,HDD
+885,Asus,Asus Notebook 885,2 in 1 Convertible,14.9,"14.9"" 1920x1080",Intel Core i7,8,128GB,AMD Radeon RX 5500M,Windows 10,1.32,758,Yes,Yes,HDD
+886,Acer,Acer Ultrabook 886,Workstation,13.0,"13.0"" 2560x1440",Intel Core i3,16,64GB,NVIDIA GeForce RTX 3080,Chrome OS,2.49,1203,No,No,SSD
+887,Lenovo,Lenovo Workstation 887,Netbook,13.9,"13.9"" 2560x1440",Intel Core i5,8,2TB,NVIDIA GeForce RTX 3070,Windows 10,2.16,569,Yes,Yes,Hybrid
+888,Lenovo,Lenovo Workstation 888,Workstation,14.6,"14.6"" 1920x1080",AMD Ryzen 3,32,2TB,NVIDIA GeForce RTX 3070,Windows 10,1.47,1538,No,No,SSD
+889,Apple,Apple 2 in 1 Convertible 889,Netbook,12.3,"12.3"" 2560x1440",AMD Ryzen 5,32,32GB,NVIDIA GeForce GTX 1650,macOS,2.41,1009,Yes,Yes,HDD
+890,Asus,Asus Gaming 890,Ultrabook,13.1,"13.1"" 1366x768",Intel Core i3,8,64GB,NVIDIA GeForce GTX 1660,Windows 10,1.4,559,Yes,No,Hybrid
+891,Apple,Apple 2 in 1 Convertible 891,Gaming,15.8,"15.8"" 3840x2160",AMD Ryzen 5,16,4GB,NVIDIA GeForce GTX 1660,macOS,3.86,1863,Yes,Yes,Hybrid
+892,Lenovo,Lenovo 2 in 1 Convertible 892,2 in 1 Convertible,13.7,"13.7"" 1920x1080",Intel Core i7,4,1TB,Intel Iris Xe Graphics,macOS,1.75,558,Yes,No,SSD
+893,Samsung,Samsung 2 in 1 Convertible 893,Gaming,15.9,"15.9"" 1920x1080",AMD Ryzen 3,8,2TB,Intel HD Graphics,Windows 10,3.94,321,Yes,No,Hybrid
+894,Apple,Apple 2 in 1 Convertible 894,2 in 1 Convertible,15.6,"15.6"" 1920x1080",AMD Ryzen 3,16,512GB,Intel Iris Xe Graphics,macOS,2.45,662,Yes,No,HDD
+895,Razer,Razer Ultrabook 895,Workstation,11.9,"11.9"" 2560x1440",Intel Core i9,128,4GB,Intel Iris Xe Graphics,macOS,2.08,2793,No,No,SSD
+896,Dell,Dell 2 in 1 Convertible 896,Netbook,13.4,"13.4"" 1366x768",Intel Core i3,4,1TB,NVIDIA GeForce RTX 3050,Windows 10,1.83,296,No,Yes,SSD
+897,Apple,Apple Netbook 897,Netbook,14.7,"14.7"" 1920x1080",AMD Ryzen 9,16,1TB,NVIDIA GeForce RTX 3080,macOS,1.73,2035,Yes,Yes,Hybrid
+898,Huawei,Huawei Gaming 898,2 in 1 Convertible,12.2,"12.2"" 1920x1080",AMD Ryzen 7,16,128GB,NVIDIA GeForce RTX 3080,Linux,2.02,1500,Yes,No,Hybrid
+899,Huawei,Huawei Netbook 899,Ultrabook,12.5,"12.5"" 2560x1440",Intel Core i5,8,64GB,NVIDIA GeForce RTX 3050,macOS,1.2,608,No,Yes,HDD
+900,Acer,Acer Netbook 900,Notebook,14.7,"14.7"" 1920x1080",AMD Ryzen 3,8,1TB,AMD Radeon RX 6800M,Linux,1.88,473,Yes,Yes,SSD
+901,MSI,MSI 2 in 1 Convertible 901,Gaming,15.8,"15.8"" 2560x1440",Intel Core i9,16,4GB,NVIDIA GeForce GTX 1660,Chrome OS,2.03,1888,Yes,Yes,SSD
+902,Asus,Asus Notebook 902,Notebook,16.4,"16.4"" 2560x1440",Intel Core i7,8,512GB,NVIDIA GeForce GTX 1650,Windows 11,2.3,637,No,Yes,Hybrid
+903,Acer,Acer 2 in 1 Convertible 903,Ultrabook,11.2,"11.2"" 2560x1440",AMD Ryzen 7,8,4GB,NVIDIA GeForce RTX 3050,Linux,0.99,763,Yes,Yes,SSD
+904,MSI,MSI Notebook 904,Notebook,15.1,"15.1"" 2560x1440",Intel Core i7,16,128GB,AMD Radeon RX 6700M,Windows 10,1.23,1473,No,No,SSD
+905,Dell,Dell Netbook 905,Notebook,16.9,"16.9"" 2560x1440",AMD Ryzen 3,8,8GB,NVIDIA GeForce RTX 3060,Linux,2.53,653,Yes,Yes,SSD
+906,Huawei,Huawei Ultrabook 906,Notebook,13.6,"13.6"" 1366x768",Intel Core i5,8,8GB,NVIDIA GeForce GTX 1660,Windows 11,2.07,355,No,No,Hybrid
+907,MSI,MSI Notebook 907,Gaming,15.0,"15.0"" 3840x2160",AMD Ryzen 5,16,512GB,NVIDIA GeForce RTX 3060,Windows 11,2.62,1645,Yes,No,Hybrid
+908,Samsung,Samsung Netbook 908,Netbook,17.2,"17.2"" 2560x1440",Intel Core i7,32,32GB,AMD Radeon RX 5500M,Linux,2.22,578,Yes,No,Hybrid
+909,Samsung,Samsung Gaming 909,Gaming,15.5,"15.5"" 3840x2160",Intel Core i3,32,8GB,NVIDIA GeForce GTX 1660,macOS,3.77,1312,No,Yes,Hybrid
+910,Lenovo,Lenovo Notebook 910,Notebook,17.1,"17.1"" 3840x2160",Intel Core i5,16,2TB,Intel HD Graphics,Chrome OS,1.48,507,No,No,SSD
+911,LG,LG 2 in 1 Convertible 911,Notebook,16.1,"16.1"" 1920x1080",AMD Ryzen 5,8,4GB,NVIDIA GeForce GTX 1650,Chrome OS,1.5,505,Yes,Yes,SSD
+912,Asus,Asus 2 in 1 Convertible 912,Netbook,16.1,"16.1"" 3840x2160",AMD Ryzen 3,4,16GB,NVIDIA GeForce RTX 3060,Windows 11,1.81,298,No,Yes,SSD
+913,Lenovo,Lenovo Gaming 913,Workstation,11.8,"11.8"" 1920x1080",AMD Ryzen 5,128,64GB,AMD Radeon RX 6700M,Linux,1.6,2611,Yes,Yes,SSD
+914,Razer,Razer Netbook 914,2 in 1 Convertible,15.0,"15.0"" 1920x1080",AMD Ryzen 9,16,512GB,NVIDIA GeForce GTX 1650,Chrome OS,2.0,1651,Yes,No,HDD
+915,Acer,Acer Netbook 915,Workstation,16.3,"16.3"" 1920x1080",Intel Core i9,32,8GB,AMD Radeon RX 5500M,Windows 10,1.51,1253,Yes,No,Hybrid
+916,Lenovo,Lenovo 2 in 1 Convertible 916,Gaming,16.2,"16.2"" 2560x1440",Intel Core i9,16,2TB,Intel HD Graphics,Windows 11,3.2,1063,Yes,Yes,Hybrid
+917,HP,HP Workstation 917,Notebook,14.9,"14.9"" 1366x768",Intel Core i9,8,32GB,NVIDIA GeForce RTX 3080,Chrome OS,2.45,1568,Yes,Yes,Hybrid
+918,Acer,Acer Gaming 918,Netbook,15.3,"15.3"" 2560x1440",AMD Ryzen 3,4,128GB,NVIDIA GeForce GTX 1660,Linux,2.29,200,Yes,Yes,HDD
+919,Microsoft,Microsoft Workstation 919,Notebook,15.5,"15.5"" 3840x2160",AMD Ryzen 9,8,64GB,NVIDIA GeForce RTX 3080,Chrome OS,1.4,1868,Yes,No,SSD
+920,Microsoft,Microsoft Notebook 920,Netbook,12.4,"12.4"" 2560x1440",AMD Ryzen 7,8,2TB,NVIDIA GeForce RTX 3070,Chrome OS,1.27,1098,Yes,Yes,Hybrid
+921,LG,LG Notebook 921,Notebook,15.3,"15.3"" 1920x1080",Intel Core i9,4,64GB,Intel Iris Xe Graphics,Windows 11,2.18,520,Yes,Yes,Hybrid
+922,Lenovo,Lenovo 2 in 1 Convertible 922,2 in 1 Convertible,13.3,"13.3"" 2560x1440",AMD Ryzen 3,8,256GB,AMD Radeon RX 6700M,Linux,1.42,597,Yes,Yes,HDD
+923,MSI,MSI Netbook 923,Workstation,12.1,"12.1"" 1920x1080",AMD Ryzen 5,128,64GB,AMD Radeon RX 6700M,Linux,2.2,2818,Yes,Yes,SSD
+924,Microsoft,Microsoft Ultrabook 924,Ultrabook,12.8,"12.8"" 1366x768",AMD Ryzen 7,8,8GB,NVIDIA GeForce GTX 1660,macOS,1.27,1250,No,Yes,SSD
+925,Apple,Apple Gaming 925,Workstation,16.6,"16.6"" 3840x2160",Intel Core i5,64,8GB,NVIDIA GeForce RTX 3050,macOS,2.82,3279,No,No,SSD
+926,Dell,Dell Gaming 926,Netbook,11.2,"11.2"" 2560x1440",AMD Ryzen 3,4,64GB,NVIDIA GeForce RTX 3080,Chrome OS,1.81,510,No,No,SSD
+927,Dell,Dell Notebook 927,2 in 1 Convertible,12.5,"12.5"" 1366x768",AMD Ryzen 7,4,8GB,NVIDIA GeForce RTX 3070,Windows 10,1.99,982,Yes,No,SSD
+928,Lenovo,Lenovo Notebook 928,Ultrabook,13.9,"13.9"" 1920x1080",AMD Ryzen 3,8,4GB,AMD Radeon RX 5500M,macOS,0.93,373,No,No,SSD
+929,Samsung,Samsung Ultrabook 929,Workstation,13.0,"13.0"" 1366x768",AMD Ryzen 7,64,64GB,NVIDIA GeForce GTX 1660,Windows 11,2.48,2427,No,No,HDD
+930,HP,HP Notebook 930,2 in 1 Convertible,13.3,"13.3"" 1920x1080",Intel Core i5,4,2TB,NVIDIA GeForce RTX 3050,Windows 10,2.62,641,Yes,No,SSD
+931,Acer,Acer 2 in 1 Convertible 931,Ultrabook,13.8,"13.8"" 2560x1440",AMD Ryzen 9,32,2TB,AMD Radeon RX 6600M,Windows 10,1.41,1282,No,Yes,SSD
+932,Lenovo,Lenovo Netbook 932,2 in 1 Convertible,13.2,"13.2"" 1366x768",Intel Core i9,8,1TB,AMD Radeon RX 5500M,Chrome OS,1.9,950,Yes,No,HDD
+933,Dell,Dell Gaming 933,2 in 1 Convertible,13.2,"13.2"" 2560x1440",AMD Ryzen 5,8,512GB,NVIDIA GeForce GTX 1660,Chrome OS,2.27,864,Yes,No,SSD
+934,LG,LG Workstation 934,2 in 1 Convertible,14.2,"14.2"" 1920x1080",AMD Ryzen 3,4,1TB,NVIDIA GeForce GTX 1660,macOS,1.7,330,Yes,Yes,HDD
+935,Razer,Razer Notebook 935,Ultrabook,11.1,"11.1"" 2560x1440",AMD Ryzen 9,32,16GB,AMD Radeon RX 6700M,Windows 10,0.97,3449,No,Yes,SSD
+936,MSI,MSI Ultrabook 936,2 in 1 Convertible,15.5,"15.5"" 3840x2160",AMD Ryzen 3,4,16GB,AMD Radeon RX 6700M,macOS,2.64,484,Yes,No,SSD
+937,Lenovo,Lenovo 2 in 1 Convertible 937,Netbook,13.3,"13.3"" 1920x1080",AMD Ryzen 5,4,256GB,NVIDIA GeForce RTX 3070,Chrome OS,2.81,572,Yes,No,SSD
+938,Microsoft,Microsoft Gaming 938,Ultrabook,12.2,"12.2"" 1920x1080",Intel Core i7,4,512GB,NVIDIA GeForce RTX 3080,Windows 11,1.13,1556,No,Yes,Hybrid
+939,MSI,MSI Gaming 939,Ultrabook,12.4,"12.4"" 2560x1440",AMD Ryzen 3,32,32GB,AMD Radeon RX 6800M,macOS,1.08,1235,Yes,Yes,Hybrid
+940,Dell,Dell Netbook 940,Netbook,16.8,"16.8"" 3840x2160",AMD Ryzen 3,16,512GB,NVIDIA GeForce RTX 3050,macOS,2.61,516,Yes,No,HDD
+941,MSI,MSI Workstation 941,Notebook,12.3,"12.3"" 1920x1080",Intel Core i7,4,256GB,NVIDIA GeForce RTX 3060,macOS,2.79,909,Yes,No,Hybrid
+942,Apple,Apple Workstation 942,Netbook,15.5,"15.5"" 2560x1440",Intel Core i7,32,2TB,NVIDIA GeForce RTX 3070,macOS,2.94,2145,Yes,Yes,Hybrid
+943,Apple,Apple Workstation 943,Ultrabook,12.4,"12.4"" 1366x768",Intel Core i9,32,512GB,AMD Radeon RX 6800M,macOS,1.37,5000,No,Yes,Hybrid
+944,MSI,MSI Ultrabook 944,Gaming,17.2,"17.2"" 2560x1440",Intel Core i9,64,2TB,Intel Iris Xe Graphics,Windows 10,2.16,1992,No,Yes,HDD
+945,Asus,Asus Ultrabook 945,Ultrabook,12.9,"12.9"" 1366x768",AMD Ryzen 3,32,512GB,AMD Radeon RX 6800M,Linux,1.08,1012,No,Yes,SSD
+946,Apple,Apple Ultrabook 946,Ultrabook,13.2,"13.2"" 1366x768",Intel Core i7,32,2TB,AMD Radeon RX 6800M,macOS,1.44,3085,No,Yes,HDD
+947,Acer,Acer Workstation 947,Ultrabook,11.9,"11.9"" 1920x1080",AMD Ryzen 3,32,512GB,NVIDIA GeForce RTX 3070,macOS,1.3,1141,No,No,Hybrid
+948,Microsoft,Microsoft 2 in 1 Convertible 948,Ultrabook,11.1,"11.1"" 1366x768",AMD Ryzen 5,8,1TB,AMD Radeon RX 6800M,Windows 10,1.11,1427,No,Yes,Hybrid
+949,Asus,Asus Notebook 949,2 in 1 Convertible,12.5,"12.5"" 2560x1440",Intel Core i9,16,64GB,AMD Radeon RX 6800M,Linux,1.95,1526,Yes,No,SSD
+950,Apple,Apple 2 in 1 Convertible 950,2 in 1 Convertible,15.2,"15.2"" 1920x1080",Intel Core i5,4,256GB,AMD Radeon RX 6600M,macOS,2.59,1038,Yes,Yes,HDD
+951,Dell,Dell Gaming 951,Workstation,14.3,"14.3"" 1366x768",Intel Core i5,16,1TB,NVIDIA GeForce RTX 3060,Windows 11,2.08,1396,Yes,No,Hybrid
+952,Asus,Asus Gaming 952,2 in 1 Convertible,12.9,"12.9"" 2560x1440",AMD Ryzen 3,16,128GB,NVIDIA GeForce RTX 3060,Windows 11,2.94,741,Yes,Yes,Hybrid
+953,Huawei,Huawei Gaming 953,Netbook,15.3,"15.3"" 3840x2160",AMD Ryzen 9,8,128GB,AMD Radeon RX 5500M,Windows 11,1.64,386,No,No,Hybrid
+954,Razer,Razer Netbook 954,Gaming,15.5,"15.5"" 2560x1440",Intel Core i7,64,32GB,NVIDIA GeForce RTX 3060,Windows 11,3.85,4497,No,Yes,SSD
+955,Lenovo,Lenovo Workstation 955,Netbook,15.4,"15.4"" 1920x1080",Intel Core i3,4,128GB,NVIDIA GeForce RTX 3050,macOS,2.07,308,No,No,Hybrid
+956,Samsung,Samsung Notebook 956,Netbook,13.1,"13.1"" 1366x768",Intel Core i9,4,1TB,AMD Radeon RX 6700M,macOS,2.23,604,No,No,SSD
+957,HP,HP Workstation 957,Workstation,16.3,"16.3"" 3840x2160",Intel Core i5,128,8GB,Intel Iris Xe Graphics,Chrome OS,1.47,1262,Yes,No,HDD
+958,Dell,Dell Netbook 958,2 in 1 Convertible,12.1,"12.1"" 1366x768",Intel Core i9,16,64GB,NVIDIA GeForce RTX 3080,Chrome OS,2.31,3163,Yes,Yes,HDD
+959,Acer,Acer Workstation 959,Notebook,11.3,"11.3"" 1920x1080",AMD Ryzen 9,32,64GB,AMD Radeon RX 6800M,Windows 11,1.8,1301,Yes,No,Hybrid
+960,MSI,MSI 2 in 1 Convertible 960,Gaming,16.6,"16.6"" 2560x1440",AMD Ryzen 7,64,1TB,AMD Radeon RX 6800M,Chrome OS,2.87,3217,No,No,Hybrid
+961,Lenovo,Lenovo 2 in 1 Convertible 961,Ultrabook,13.8,"13.8"" 2560x1440",Intel Core i5,4,512GB,NVIDIA GeForce RTX 3060,Chrome OS,0.89,841,Yes,No,SSD
+962,Microsoft,Microsoft Ultrabook 962,Notebook,12.8,"12.8"" 1920x1080",AMD Ryzen 5,8,32GB,NVIDIA GeForce RTX 3060,Linux,2.94,1012,Yes,No,SSD
+963,Razer,Razer Notebook 963,Gaming,15.3,"15.3"" 2560x1440",Intel Core i5,8,16GB,AMD Radeon RX 6700M,Windows 10,3.2,1530,Yes,No,SSD
+964,Apple,Apple Ultrabook 964,Ultrabook,13.1,"13.1"" 1366x768",AMD Ryzen 3,16,4GB,NVIDIA GeForce GTX 1660,macOS,1.26,1175,Yes,No,Hybrid
+965,Huawei,Huawei Workstation 965,2 in 1 Convertible,13.2,"13.2"" 2560x1440",AMD Ryzen 7,8,512GB,AMD Radeon RX 6600M,Linux,2.47,638,Yes,Yes,SSD
+966,HP,HP 2 in 1 Convertible 966,Netbook,11.1,"11.1"" 2560x1440",AMD Ryzen 7,8,1TB,AMD Radeon RX 6700M,Chrome OS,1.96,646,No,No,SSD
+967,Razer,Razer 2 in 1 Convertible 967,Netbook,12.3,"12.3"" 1920x1080",AMD Ryzen 3,16,16GB,NVIDIA GeForce RTX 3060,Linux,1.22,583,Yes,No,HDD
+968,Acer,Acer Ultrabook 968,Ultrabook,12.8,"12.8"" 1366x768",Intel Core i7,4,512GB,NVIDIA GeForce GTX 1650,Chrome OS,1.25,596,No,Yes,Hybrid
+969,Dell,Dell Gaming 969,Ultrabook,13.6,"13.6"" 2560x1440",AMD Ryzen 5,32,1TB,NVIDIA GeForce RTX 3080,macOS,1.01,2764,No,Yes,Hybrid
+970,LG,LG Gaming 970,2 in 1 Convertible,12.2,"12.2"" 1366x768",AMD Ryzen 9,16,32GB,NVIDIA GeForce RTX 3060,Windows 11,1.03,1539,Yes,Yes,Hybrid
+971,Samsung,Samsung Netbook 971,Workstation,15.7,"15.7"" 2560x1440",Intel Core i3,32,64GB,NVIDIA GeForce RTX 3060,Linux,2.52,1560,No,No,SSD
+972,LG,LG Notebook 972,2 in 1 Convertible,13.7,"13.7"" 1366x768",Intel Core i5,32,32GB,AMD Radeon RX 6800M,macOS,1.2,1768,Yes,Yes,Hybrid
+973,Razer,Razer Notebook 973,Workstation,12.7,"12.7"" 1366x768",AMD Ryzen 3,16,32GB,Intel Iris Xe Graphics,Chrome OS,1.02,808,No,Yes,HDD
+974,Apple,Apple Workstation 974,Netbook,13.2,"13.2"" 1920x1080",AMD Ryzen 3,32,128GB,NVIDIA GeForce RTX 3070,macOS,2.31,1335,Yes,Yes,SSD
+975,MSI,MSI 2 in 1 Convertible 975,Notebook,15.0,"15.0"" 1920x1080",Intel Core i7,4,16GB,NVIDIA GeForce RTX 3080,Windows 11,2.12,1165,No,No,Hybrid
+976,Apple,Apple Netbook 976,Gaming,15.1,"15.1"" 1920x1080",AMD Ryzen 3,16,4GB,AMD Radeon RX 6700M,macOS,2.43,1779,No,No,Hybrid
+977,Huawei,Huawei Workstation 977,Gaming,16.0,"16.0"" 1920x1080",Intel Core i7,16,16GB,AMD Radeon RX 5500M,macOS,3.43,899,Yes,Yes,SSD
+978,Lenovo,Lenovo Workstation 978,Gaming,17.2,"17.2"" 2560x1440",Intel Core i5,16,512GB,Intel Iris Xe Graphics,Windows 11,3.2,849,No,No,Hybrid
+979,Acer,Acer Workstation 979,2 in 1 Convertible,15.1,"15.1"" 1920x1080",Intel Core i3,32,16GB,Intel HD Graphics,Windows 11,2.23,342,Yes,No,HDD
+980,Razer,Razer Ultrabook 980,Gaming,15.6,"15.6"" 2560x1440",AMD Ryzen 7,32,128GB,Intel HD Graphics,Chrome OS,2.99,1319,No,No,SSD
+981,MSI,MSI Workstation 981,Gaming,17.2,"17.2"" 3840x2160",AMD Ryzen 5,16,1TB,AMD Radeon RX 6600M,Windows 11,3.52,1490,No,Yes,SSD
+982,Razer,Razer Gaming 982,Ultrabook,12.3,"12.3"" 1920x1080",AMD Ryzen 3,8,8GB,Intel Iris Xe Graphics,Chrome OS,0.92,657,Yes,No,Hybrid
+983,Asus,Asus Netbook 983,Netbook,13.4,"13.4"" 2560x1440",AMD Ryzen 9,4,512GB,NVIDIA GeForce RTX 3080,Windows 10,1.03,789,No,Yes,SSD
+984,LG,LG Netbook 984,Gaming,16.7,"16.7"" 2560x1440",Intel Core i9,64,128GB,NVIDIA GeForce RTX 3060,Windows 11,2.29,4101,Yes,Yes,SSD
+985,Microsoft,Microsoft Notebook 985,2 in 1 Convertible,13.4,"13.4"" 1920x1080",AMD Ryzen 3,16,64GB,AMD Radeon RX 6800M,macOS,2.32,1019,Yes,No,SSD
+986,Dell,Dell Netbook 986,2 in 1 Convertible,13.8,"13.8"" 1920x1080",Intel Core i5,32,512GB,NVIDIA GeForce RTX 3060,macOS,2.24,1662,Yes,No,SSD
+987,Asus,Asus 2 in 1 Convertible 987,Workstation,14.1,"14.1"" 1920x1080",Intel Core i5,128,512GB,NVIDIA GeForce RTX 3060,Chrome OS,1.24,1973,Yes,No,Hybrid
+988,MSI,MSI 2 in 1 Convertible 988,Workstation,11.8,"11.8"" 2560x1440",AMD Ryzen 5,64,1TB,AMD Radeon RX 6600M,Windows 11,1.26,1778,Yes,No,Hybrid
+989,Asus,Asus Gaming 989,2 in 1 Convertible,13.9,"13.9"" 1920x1080",Intel Core i3,4,2TB,AMD Radeon RX 6600M,macOS,2.6,373,Yes,No,SSD
+990,Apple,Apple Netbook 990,Netbook,11.4,"11.4"" 1920x1080",AMD Ryzen 3,4,256GB,NVIDIA GeForce RTX 3050,macOS,1.69,382,No,Yes,SSD
+991,MSI,MSI Workstation 991,Notebook,17.1,"17.1"" 2560x1440",Intel Core i3,8,32GB,NVIDIA GeForce RTX 3080,Windows 10,1.01,836,Yes,Yes,HDD
+992,Huawei,Huawei 2 in 1 Convertible 992,Gaming,16.2,"16.2"" 1920x1080",AMD Ryzen 5,32,64GB,NVIDIA GeForce RTX 3070,Windows 10,3.95,1414,Yes,Yes,SSD
+993,MSI,MSI Netbook 993,Gaming,16.8,"16.8"" 2560x1440",Intel Core i3,32,2TB,AMD Radeon RX 5500M,Windows 11,3.92,875,Yes,Yes,SSD
+994,Samsung,Samsung 2 in 1 Convertible 994,Ultrabook,12.7,"12.7"" 2560x1440",Intel Core i5,8,4GB,AMD Radeon RX 5500M,Chrome OS,1.0,584,Yes,Yes,Hybrid
+995,Dell,Dell Ultrabook 995,Workstation,12.2,"12.2"" 1366x768",Intel Core i5,32,4GB,NVIDIA GeForce RTX 3080,Windows 11,2.87,3081,Yes,Yes,Hybrid
+996,Huawei,Huawei Workstation 996,Workstation,12.1,"12.1"" 1920x1080",Intel Core i9,32,4GB,AMD Radeon RX 6800M,Windows 10,1.16,2123,No,Yes,SSD
+997,Apple,Apple Netbook 997,Notebook,15.7,"15.7"" 2560x1440",AMD Ryzen 3,4,2TB,NVIDIA GeForce GTX 1660,macOS,2.56,630,No,Yes,SSD
+998,Razer,Razer Notebook 998,Gaming,16.9,"16.9"" 2560x1440",Intel Core i5,64,256GB,Intel Iris Xe Graphics,macOS,2.51,1843,No,Yes,Hybrid
+999,LG,LG Gaming 999,Netbook,16.3,"16.3"" 1920x1080",AMD Ryzen 9,8,64GB,Intel Iris Xe Graphics,Linux,2.49,482,No,No,HDD
+1000,LG,LG Ultrabook 1000,2 in 1 Convertible,12.1,"12.1"" 1366x768",AMD Ryzen 9,32,256GB,NVIDIA GeForce RTX 3050,Chrome OS,2.32,1715,Yes,Yes,SSD
