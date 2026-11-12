@@ -186,4 +186,6 @@ The API loads the trained models from `.pkl` files and uses them for predictions
 
 ## Author
 
-Luka Savić
+1.Luka Savic 
+2.Anastasija Anicic
+
